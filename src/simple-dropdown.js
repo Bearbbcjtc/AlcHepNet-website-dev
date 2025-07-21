@@ -63,33 +63,49 @@ $(document).ready(function() {
     const SEARCH_PAGE_SIZE = 5;
     let searchResults = [];
     let currentPage = 1;
-    
-    // Sample search index
-    const searchIndex = [
-        {title: "About AlcHepNet", url: "about.html", snippet: "Information about the Alcohol-associated Hepatitis Network project"},
-        {title: "Eligibility Requirements", url: "eligibility.html", snippet: "Learn about participating in AlcHepNet studies"},
-        {title: "Executive Summary", url: "executive-summary.html", snippet: "Overview of AlcHepNet research objectives and methods"},
-        {title: "Publications", url: "publications.html", snippet: "List of publications and research papers from AlcHepNet"},
-        {title: "Participating Institutions", url: "participating-institutions.html", snippet: "List of institutions participating in AlcHepNet"},
-        {title: "Data Access", url: "data-system.html", snippet: "Information about accessing AlcHepNet data"},
-        {title: "Clinical Studies", url: "itaald-eligibility.html", snippet: "Information about clinical studies and trials"},
-        {title: "Biorepository", url: "team.html", snippet: "Information about the AlcHepNet biorepository"},
-        {title: "Data Commons", url: "ardac.html", snippet: "Information about the AlcHepNet data commons"},
-        {title: "Training Opportunities", url: "training-tlfb.html", snippet: "Training opportunities and resources"}
-    ];
-    
+    let searchIndex = [];
+
+    // 动态计算searchIndex.json的路径
+    function getSearchIndexPath() {
+        const currentPath = window.location.pathname;
+        console.log('Current path:', currentPath);
+        
+        // 如果路径包含 'src'，说明在开发环境中
+        if (currentPath.includes('/src/')) {
+            // 从当前路径中提取src之后的部分
+            const srcIndex = currentPath.indexOf('/src/');
+            const afterSrc = currentPath.substring(srcIndex + 5); // +5 for '/src/'
+            const depth = (afterSrc.match(/\//g) || []).length;
+            const path = '../'.repeat(depth) + 'searchIndex.json';
+            console.log('Calculated path:', path);
+            return path;
+        }
+        
+        // 默认情况
+        return 'searchIndex.json';
+    }
+
+    // 加载searchIndex.json
+    $.getJSON(getSearchIndexPath(), function(data) {
+        searchIndex = data;
+        console.log('Search index loaded successfully, found', data.length, 'pages');
+    }).fail(function(jqXHR, textStatus, errorThrown) {
+        console.error('Failed to load searchIndex.json:', textStatus, errorThrown);
+        console.log('Attempted path:', getSearchIndexPath());
+        console.log('Current URL:', window.location.href);
+    });
+
     function showSearchModal(results) {
         searchResults = results;
         currentPage = 1;
         updateSearchResults();
         $('#searchModal').modal('show');
     }
-    
+
     function updateSearchResults() {
         const start = (currentPage - 1) * SEARCH_PAGE_SIZE;
         const end = start + SEARCH_PAGE_SIZE;
         const pageResults = searchResults.slice(start, end);
-        
         let html = '';
         pageResults.forEach(item => {
             html += `<div class="search-result-item mb-3">
@@ -97,20 +113,17 @@ $(document).ready(function() {
                 <div class="text-muted small">${item.snippet}</div>
             </div>`;
         });
-        
         if (html === '') {
             html = '<div class="text-center text-muted">No results found.</div>';
         }
-        
         $('#searchResultsList').html(html);
-        
         // Update pagination
         const totalPages = Math.ceil(searchResults.length / SEARCH_PAGE_SIZE);
         $('#pageInfo').text(`Page ${currentPage} of ${totalPages}`);
         $('#prevPage').prop('disabled', currentPage === 1);
         $('#nextPage').prop('disabled', currentPage === totalPages || totalPages === 0);
     }
-    
+
     // Pagination button events
     $(document).on('click', '#prevPage', function() {
         if (currentPage > 1) {
@@ -118,7 +131,7 @@ $(document).ready(function() {
             updateSearchResults();
         }
     });
-    
+
     $(document).on('click', '#nextPage', function() {
         const totalPages = Math.ceil(searchResults.length / SEARCH_PAGE_SIZE);
         if (currentPage < totalPages) {
@@ -126,26 +139,30 @@ $(document).ready(function() {
             updateSearchResults();
         }
     });
-    
+
     // Search form submit event
     $(document).on('submit', '#searchForm', function(e) {
         e.preventDefault();
         const keyword = $('#searchInput').val().trim().toLowerCase();
-        
         if (!keyword) {
             alert('Please enter a search term');
             return;
         }
         
-        // Search through the index
-        const results = searchIndex.filter(item =>
-            item.title.toLowerCase().includes(keyword) ||
-            item.snippet.toLowerCase().includes(keyword)
-        );
+        if (searchIndex.length === 0) {
+            alert('Search index not loaded yet. Please try again.');
+            return;
+        }
         
+        // 全站全文搜索：title、snippet、content都查找
+        const results = searchIndex.filter(item =>
+            (item.title && item.title.toLowerCase().includes(keyword)) ||
+            (item.snippet && item.snippet.toLowerCase().includes(keyword)) ||
+            (item.content && item.content.toLowerCase().includes(keyword))
+        );
         showSearchModal(results);
     });
-    
+
     // Clear search input when modal is closed
     $('#searchModal').on('hidden.bs.modal', function() {
         $('#searchInput').val('');
