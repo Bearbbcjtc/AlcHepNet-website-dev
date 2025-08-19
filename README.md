@@ -11,3 +11,6 @@ The search functionality relies on an automatically generated search index file 
 
 #### Prerequisites
 Ensure Node.js and required dependencies are installed:
+```
+node build-search-index.js
+```

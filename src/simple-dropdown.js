@@ -65,14 +65,11 @@ $(document).ready(function() {
     let currentPage = 1;
     let searchIndex = [];
 
-    // 动态计算searchIndex.json的路径
     function getSearchIndexPath() {
         const currentPath = window.location.pathname;
         console.log('Current path:', currentPath);
         
-        // 如果路径包含 'src'，说明在开发环境中
         if (currentPath.includes('/src/')) {
-            // 从当前路径中提取src之后的部分
             const srcIndex = currentPath.indexOf('/src/');
             const afterSrc = currentPath.substring(srcIndex + 5); // +5 for '/src/'
             const depth = (afterSrc.match(/\//g) || []).length;
@@ -81,11 +78,9 @@ $(document).ready(function() {
             return path;
         }
         
-        // 默认情况
         return 'searchIndex.json';
     }
 
-    // 加载searchIndex.json
     $.getJSON(getSearchIndexPath(), function(data) {
         searchIndex = data;
         console.log('Search index loaded successfully, found', data.length, 'pages');
@@ -108,8 +103,29 @@ $(document).ready(function() {
         const pageResults = searchResults.slice(start, end);
         let html = '';
         pageResults.forEach(item => {
+            let correctUrl = item.url;
+            const currentPath = window.location.pathname;
+            
+            // add debug info
+            console.log('Original URL:', item.url);
+            console.log('Current path:', currentPath);
+            
+            if (currentPath.includes('/src/')) {
+                const srcIndex = currentPath.indexOf('/src/');
+                const afterSrc = currentPath.substring(srcIndex + 5); // +5 for '/src/'
+                const depth = (afterSrc.match(/\//g) || []).length;
+                
+                console.log('After src part:', afterSrc);
+                console.log('Calculated depth:', depth);
+                
+                if (!item.url.startsWith('http') && !item.url.startsWith('/')) {
+                    correctUrl = '../'.repeat(depth) + item.url;
+                    console.log('Corrected URL:', correctUrl);
+                }
+            }
+            
             html += `<div class="search-result-item mb-3">
-                <a href="${item.url}" class="h5 text-primary">${item.title}</a>
+                <a href="${correctUrl}" class="h5 text-primary">${item.title}</a>
                 <div class="text-muted small">${item.snippet}</div>
             </div>`;
         });
@@ -154,7 +170,6 @@ $(document).ready(function() {
             return;
         }
         
-        // 全站全文搜索：title、snippet、content都查找
         const results = searchIndex.filter(item =>
             (item.title && item.title.toLowerCase().includes(keyword)) ||
             (item.snippet && item.snippet.toLowerCase().includes(keyword)) ||
