@@ -23,7 +23,15 @@
 
       <!-- Our Team Section -->
       <div class="staff-section">
-        <h3 class="section-title">Our Team</h3>
+        <h3 class="section-title">IU DCC</h3>
+        <p class="lead">
+          The DCC will play a central role in coordinating the implementation of all aspects of the trial and the
+          communications between the clinical centers, study committees, data safety and monitoring board, the
+          steering committee, and with the NIAAA. The DCC will be responsible for data integrity. The DCC will also
+          oversee the performance of the biorepository and coordinate movement of biospecimens in and out of the
+          biorepository.
+        </p>
+
         <div class="staff-card">
           <img src="../images/dcc/Samer.jpg" alt="Samer Gawrieh" class="staff-photo">
           <div class="staff-info">
@@ -75,7 +83,7 @@
             <h4>Tae-Hwi Linus Schwantes-An</h4>
             <div class="staff-pronouns">He/Him</div>
             <div class="staff-title">Lead, AlcHepNet Biorepository Team</div>
-            <a href="mailto:samussel@iu.edu" class="staff-email">replace@iu.edu</a>
+            <a href="mailto:samussel@iu.edu" class="staff-email">tlschwan@iu.edu</a>
           </div>
         </div>
       </div>
@@ -97,7 +105,6 @@
             $(this).attr("href", "../" + href);
           }
         });
-        // 修复图片路径
         $("#navbar-include img").each(function() {
           var src = $(this).attr("src");
           if(src && !src.startsWith("http") && !src.startsWith("data:")) {

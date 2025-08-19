@@ -8,18 +8,18 @@
           <div class="col-6">
             <ul class="list-unstyled">
               <li><a href="index.html" class="text-muted">Home</a></li>
-              <li><a href="about.html" class="text-muted">About</a></li>
-              <li><a href="participating-institutions.html" class="text-muted">Institutions</a></li>
-              <li><a href="pis.html" class="text-muted">PIs</a></li>
-              <li><a href="dcc.html" class="text-muted">DCC</a></li>
-              <li><a href="committees.html" class="text-muted">Committees</a></li>
+              <li><a href="Collaboration/about.html" class="text-muted">About</a></li>
+              <li><a href="Collaboration/participating-institutions.html" class="text-muted">Institutions</a></li>
+              <li><a href="Collaboration/pis.html" class="text-muted">PIs</a></li>
+              <li><a href="Collaboration/dcc.html" class="text-muted">DCC</a></li>
+              <li><a href="Collaboration/committees.html" class="text-muted">Committees</a></li>
             </ul>
           </div>
           <div class="col-6">
             <ul class="list-unstyled">
-              <li><a href="publications.html" class="text-muted">Publications</a></li>
+              <li><a href="Publishing/publications.html" class="text-muted">Publications</a></li>
               <li><a href="eligibility.html" class="text-muted">Eligibility</a></li>
-              <li><a href="data-system.html" class="text-muted">Data System</a></li>
+              <li><a href="Data_Access/data-system.html" class="text-muted">Data System</a></li>
               <li><a href="ardac.html" class="text-muted">ARDaC</a></li>
               <li><a href="team.html" class="text-muted">Biorepository</a></li>
               <li><a href="site-contact.html" class="text-muted">Contact</a></li>
@@ -168,4 +168,42 @@
       </div>
     </div>
   </div>
-</div> 
+</div>
+
+<script>
+  // Auto-adjust footer links based on current page location
+  $(document).ready(function() {
+    // Get the current page URL to determine the directory level
+    var currentUrl = window.location.href;
+    var currentPath = window.location.pathname;
+    
+    // Check if we're accessing from a subdirectory
+    // For local development: /src/Collaboration/directory.html -> level 2
+    // For production: /Collaboration/directory.html -> level 1
+    var pathParts = currentPath.split('/').filter(function(part) { return part.length > 0; });
+    var isInSubdirectory = false;
+    
+    // Check if we're in a subdirectory by looking for Collaboration, Data_Access, or Publishing
+    if (pathParts.includes('Collaboration') || pathParts.includes('Data_Access') || pathParts.includes('Publishing')) {
+      isInSubdirectory = true;
+    }
+    
+    console.log('Current path:', currentPath, 'Is in subdirectory:', isInSubdirectory);
+    
+    if (isInSubdirectory) {
+      console.log('Adjusting footer links for subdirectory access');
+      
+      // Adjust all relative links in the footer by adding ../
+      $('footer a').each(function() {
+        var href = $(this).attr('href');
+        if (href && !href.startsWith('http') && !href.startsWith('#') && !href.startsWith('mailto:')) {
+          var newHref = '../' + href;
+          $(this).attr('href', newHref);
+          console.log('Updated link:', href, '->', newHref);
+        }
+      });
+    } else {
+      console.log('Footer links remain unchanged for root access');
+    }
+  });
+</script>
