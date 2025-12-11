@@ -1,0 +1,2230 @@
+{
+  "grantInfo": {
+    "pi": "McClain",
+    "grantNumber": "U01AA026980",
+    "totalPublications": 310
+  },
+  "statistics": {
+    "totalPublications": 310,
+    "yearRange": [
+      "2025",
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020",
+      "2019",
+      "2018",
+      "2017",
+      "2016",
+      "2008"
+    ],
+    "publicationsPerYear": {
+      "2008": 1,
+      "2016": 19,
+      "2017": 24,
+      "2018": 27,
+      "2019": 45,
+      "2020": 36,
+      "2021": 39,
+      "2022": 28,
+      "2023": 41,
+      "2024": 28,
+      "2025": 22
+    }
+  },
+  "publicationsByYear": {
+    "2008": [
+      {
+        "year": "2008",
+        "content": "Song M. <strong>Comment on: Toll-like receptor 4 and MyD88 are required for gastric bypass–induced metabolic effects.</strong> <em>Surg Obes Relat Dis. 2021;17(12):2006–2008.</em>",
+        "cleanText": "Song M. Comment on: Toll-like receptor 4 and MyD88 are required for gastric bypass–induced metabolic effects. Surg Obes Relat Dis. 2021;17(12):2006–2008.",
+        "pmid": null,
+        "pmidLink": null
+      }
+    ],
+    "2016": [
+      {
+        "year": "2016",
+        "content": "Liu Y, Zhao C, Xiao J, et al. <strong>Fibroblast growth factor 21 deficiency exacerbates chronic alcohol-induced hepatic steatosis and injury.</strong> <em>Sci Rep. 2016;6:31026.</em>",
+        "cleanText": "Liu Y, Zhao C, Xiao J, et al. Fibroblast growth factor 21 deficiency exacerbates chronic alcohol-induced hepatic steatosis and injury. Sci Rep. 2016;6:31026.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2016",
+        "content": "Vatsalya V, Barve SS, McClain CJ, Ramchandani VA. <strong>Elevated linoleic acid (a pro-inflammatory PUFA) and liver injury in a treatment naive HIV-HCV co-infected alcohol-dependent patient.</strong> <em>J Biosci Med. 2016;4(7):23–27.</em>",
+        "cleanText": "Vatsalya V, Barve SS, McClain CJ, Ramchandani VA. Elevated linoleic acid (a pro-inflammatory PUFA) and liver injury in a treatment naive HIV-HCV co-infected alcohol-dependent patient. J Biosci Med. 2016;4(7):23–27.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2016",
+        "content": "Chen W-Y, Zhang J, Ghare S, Barve S, McClain C, Joshi-Barve S. <strong>Acrolein is a pathogenic mediator of alcoholic liver disease and the scavenger hydralazine is protective in mice.</strong> <em>Cell Mol Gastroenterol Hepatol. 2016;2(5):685–700.</em>",
+        "cleanText": "Chen W-Y, Zhang J, Ghare S, Barve S, McClain C, Joshi-Barve S. Acrolein is a pathogenic mediator of alcoholic liver disease and the scavenger hydralazine is protective in mice. Cell Mol Gastroenterol Hepatol. 2016;2(5):685–700.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2016",
+        "content": "Vatsalya V, Liaquat HB, Ghosh K, Mokshagundam SP, McClain CJ. <strong>A review on the sex differences in organ and system pathology with alcohol drinking.</strong> <em>Curr Drug Abuse Rev. 2016;9(2):87–92.</em>",
+        "cleanText": "Vatsalya V, Liaquat HB, Ghosh K, Mokshagundam SP, McClain CJ. A review on the sex differences in organ and system pathology with alcohol drinking. Curr Drug Abuse Rev. 2016;9(2):87–92.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2016",
+        "content": "Kirpich IA, Petrosino J, Ajami N, Feng W, Wang Y, Liu Y, Beier JI, Barve SS, Yin X, Wei X, Zhang X, McClain CJ. <strong>Saturated and unsaturated dietary fats differentially modulate ethanol-induced changes in gut microbiome and metabolome in a mouse model of alcoholic liver disease.</strong> <em>Am J Pathol. 2016;186(4):765–776.</em>",
+        "cleanText": "Kirpich IA, Petrosino J, Ajami N, Feng W, Wang Y, Liu Y, Beier JI, Barve SS, Yin X, Wei X, Zhang X, McClain CJ. Saturated and unsaturated dietary fats differentially modulate ethanol-induced changes in gut microbiome and metabolome in a mouse model of alcoholic liver disease. Am J Pathol. 2016;186(4):765–776.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2016",
+        "content": "Matheson PJ, Fernandez-Botran R, Smith JW, Matheson SA, Downard CD, McClain CJ, Garrison RN. <strong>Association between MC-2 peptide and hepatic perfusion and liver injury following resuscitated hemorrhagic shock.</strong> <em>JAMA Surg. 2016;151(3):265–272.</em>",
+        "cleanText": "Matheson PJ, Fernandez-Botran R, Smith JW, Matheson SA, Downard CD, McClain CJ, Garrison RN. Association between MC-2 peptide and hepatic perfusion and liver injury following resuscitated hemorrhagic shock. JAMA Surg. 2016;151(3):265–272.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2016",
+        "content": "Dasarathy S. <strong>Nutrition and alcoholic liver disease: Effects of alcoholism on nutrition, effects of nutrition on alcoholic liver disease, and nutritional therapies for alcoholic liver disease.</strong> <em>Clin Liver Dis. 2016;20(3):535–550.</em>",
+        "cleanText": "Dasarathy S. Nutrition and alcoholic liver disease: Effects of alcoholism on nutrition, effects of nutrition on alcoholic liver disease, and nutritional therapies for alcoholic liver disease. Clin Liver Dis. 2016;20(3):535–550.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2016",
+        "content": "Vatsalya V, Avila D, Frimodig JC, Barve SS, McClain CJ, Gobejishvili L. <strong>Liver injury assessment by Vetscan VS2 analyzer and most frequently used ALT/GTP reagent.</strong> <em>Gastroenterol Hepatol (Bartlesville). 2016;12(4).</em>",
+        "cleanText": "Vatsalya V, Avila D, Frimodig JC, Barve SS, McClain CJ, Gobejishvili L. Liver injury assessment by Vetscan VS2 analyzer and most frequently used ALT/GTP reagent. Gastroenterol Hepatol (Bartlesville). 2016;12(4).",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2016",
+        "content": "Kirpich IA, Miller ME, Cave MC, Joshi-Barve S, McClain CJ. <strong>Alcoholic liver disease: Update on the role of dietary fat.</strong> <em>Biomolecules. 2016;6(1):1.</em>",
+        "cleanText": "Kirpich IA, Miller ME, Cave MC, Joshi-Barve S, McClain CJ. Alcoholic liver disease: Update on the role of dietary fat. Biomolecules. 2016;6(1):1.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2016",
+        "content": "Crabb DW, Bataller R, Chalasani NP, et al. <strong>Standard definitions and common data elements for clinical trials in patients with alcoholic hepatitis.</strong> <em>Gastroenterology. 2016;150(4):785–799.</em>",
+        "cleanText": "Crabb DW, Bataller R, Chalasani NP, et al. Standard definitions and common data elements for clinical trials in patients with alcoholic hepatitis. Gastroenterology. 2016;150(4):785–799.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2016",
+        "content": "Ghare SS, Donde H, Chen W-Y, Barker DF, Gobejishvili L, McClain CJ, Barve SS, Joshi-Barve S. <strong>Acrolein enhances epigenetic modifications, FasL expression and hepatocyte toxicity induced by anti-HIV drug zidovudine.</strong> <em>Toxicol In Vitro. 2016;35:66–76.</em>",
+        "cleanText": "Ghare SS, Donde H, Chen W-Y, Barker DF, Gobejishvili L, McClain CJ, Barve SS, Joshi-Barve S. Acrolein enhances epigenetic modifications, FasL expression and hepatocyte toxicity induced by anti-HIV drug zidovudine. Toxicol In Vitro. 2016;35:66–76.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2016",
+        "content": "Avila DV, Barker DF, Zhang JW, McClain CJ, Barve S, Gobejishvili L. <strong>Dysregulation of hepatic cAMP levels via altered Pde4b expression plays a critical role in alcohol-induced steatosis.</strong> <em>J Pathol. 2016;240(1):96–107.</em>",
+        "cleanText": "Avila DV, Barker DF, Zhang JW, McClain CJ, Barve S, Gobejishvili L. Dysregulation of hepatic cAMP levels via altered Pde4b expression plays a critical role in alcohol-induced steatosis. J Pathol. 2016;240(1):96–107.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2016",
+        "content": "Wang S, Luo M, Zhang Z, et al. <strong>Zinc deficiency exacerbates while zinc supplement attenuates cardiac hypertrophy in high-fat diet–induced obese mice through modulating p38 MAPK-dependent signaling.</strong> <em>Toxicol Lett. 2016;258:134–146.</em>",
+        "cleanText": "Wang S, Luo M, Zhang Z, et al. Zinc deficiency exacerbates while zinc supplement attenuates cardiac hypertrophy in high-fat diet–induced obese mice through modulating p38 MAPK-dependent signaling. Toxicol Lett. 2016;258:134–146.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2016",
+        "content": "Vatsalya V, Song M, Schwandt ML, Cave MC, Barve SS, George DT, Ramchandani VA, McClain CJ. <strong>Effects of sex, drinking history, and omega-3 and omega-6 fatty acids dysregulation on the onset of liver injury in very heavy drinking alcohol-dependent patients.</strong> <em>Alcohol Clin Exp Res. 2016;40(10):2085–2093.</em>",
+        "cleanText": "Vatsalya V, Song M, Schwandt ML, Cave MC, Barve SS, George DT, Ramchandani VA, McClain CJ. Effects of sex, drinking history, and omega-3 and omega-6 fatty acids dysregulation on the onset of liver injury in very heavy drinking alcohol-dependent patients. Alcohol Clin Exp Res. 2016;40(10):2085–2093.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2016",
+        "content": "Vatsalya V, Pandey A, Schwandt ML, Cave MC, Barve SS, Ramchandani VA, McClain CJ. <strong>Safety assessment of liver injury with quetiapine fumarate XR management in very heavy drinking alcohol-dependent patients.</strong> <em>Clin Drug Investig. 2016;36(11):935–944.</em>",
+        "cleanText": "Vatsalya V, Pandey A, Schwandt ML, Cave MC, Barve SS, Ramchandani VA, McClain CJ. Safety assessment of liver injury with quetiapine fumarate XR management in very heavy drinking alcohol-dependent patients. Clin Drug Investig. 2016;36(11):935–944.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2016",
+        "content": "Anders LC, Yeo H, Kaelin BR, Lang AL, Bushau AM, Douglas AN, Cave M, Arteel GE, McClain CJ, Beier JI. <strong>Role of dietary fatty acids in liver injury caused by vinyl chloride metabolites in mice.</strong> <em>Toxicol Appl Pharmacol. 2016;311:34–41.</em>",
+        "cleanText": "Anders LC, Yeo H, Kaelin BR, Lang AL, Bushau AM, Douglas AN, Cave M, Arteel GE, McClain CJ, Beier JI. Role of dietary fatty acids in liver injury caused by vinyl chloride metabolites in mice. Toxicol Appl Pharmacol. 2016;311:34–41.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2016",
+        "content": "Deng B, Kim S, Li H, Heath E, Zhang X. <strong>Global peak alignment for comprehensive two-dimensional gas chromatography mass spectrometry using point matching algorithms.</strong> <em>J Bioinform Comput Biol. 2016;14(6):1650032.</em>",
+        "cleanText": "Deng B, Kim S, Li H, Heath E, Zhang X. Global peak alignment for comprehensive two-dimensional gas chromatography mass spectrometry using point matching algorithms. J Bioinform Comput Biol. 2016;14(6):1650032.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2016",
+        "content": "McClain CJ. <strong>Nutrition in patients with cirrhosis.</strong> <em>Gastroenterol Hepatol (N Y). 2016;12(8):507–510.</em>",
+        "cleanText": "McClain CJ. Nutrition in patients with cirrhosis. Gastroenterol Hepatol (N Y). 2016;12(8):507–510.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2016",
+        "content": "Joshi-Barve S, Kirpich I, Cave MC, Marsano LS, McClain CJ. <strong>Alcoholic, nonalcoholic, and toxicant-associated steatohepatitis: Mechanistic similarities and differences.</strong> <em>Cell Mol Gastroenterol Hepatol. 2016;1(4):356–367.</em>",
+        "cleanText": "Joshi-Barve S, Kirpich I, Cave MC, Marsano LS, McClain CJ. Alcoholic, nonalcoholic, and toxicant-associated steatohepatitis: Mechanistic similarities and differences. Cell Mol Gastroenterol Hepatol. 2016;1(4):356–367.",
+        "pmid": null,
+        "pmidLink": null
+      }
+    ],
+    "2017": [
+      {
+        "year": "2017",
+        "content": "Massey VL, Dolin CE, Poole LG, et al. <strong>The hepatic “matrisome” responds dynamically to injury: Characterization of transitional changes to the extracellular matrix in mice.</strong> <em>Hepatology. 2017;65(3):969–982.</em>",
+        "cleanText": "Massey VL, Dolin CE, Poole LG, et al. The hepatic “matrisome” responds dynamically to injury: Characterization of transitional changes to the extracellular matrix in mice. Hepatology. 2017;65(3):969–982.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2017",
+        "content": "Xu Z, Tong Q, Zhang Z, et al. <strong>Inhibition of HDAC3 prevents diabetic cardiomyopathy in OVE26 mice via epigenetic regulation of the DUSP5-ERK1/2 pathway.</strong> <em>Clin Sci (Lond). 2017;131(15):1841–1857.</em>",
+        "cleanText": "Xu Z, Tong Q, Zhang Z, et al. Inhibition of HDAC3 prevents diabetic cardiomyopathy in OVE26 mice via epigenetic regulation of the DUSP5-ERK1/2 pathway. Clin Sci (Lond). 2017;131(15):1841–1857.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2017",
+        "content": "McClain C, Vatsalya V, Cave M. <strong>Role of zinc in the development/progression of alcoholic liver disease.</strong> <em>Curr Treat Options Gastroenterol. 2017;15(2):285–295.</em>",
+        "cleanText": "McClain C, Vatsalya V, Cave M. Role of zinc in the development/progression of alcoholic liver disease. Curr Treat Options Gastroenterol. 2017;15(2):285–295.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2017",
+        "content": "Avila DV, Myers SA, Zhang JW, et al. <strong>Phosphodiesterase 4b expression plays a major role in alcohol-induced neuro-inflammation.</strong> <em>Neuropharmacology. 2017;125:376–385.</em>",
+        "cleanText": "Avila DV, Myers SA, Zhang JW, et al. Phosphodiesterase 4b expression plays a major role in alcohol-induced neuro-inflammation. Neuropharmacology. 2017;125:376–385.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2017",
+        "content": "Wei X, Lorkiewicz PK, Shi B, Salabei JK, Hill BG, Kim S, McClain CJ, Zhang X. <strong>Analysis of stable isotope assisted metabolomics data acquired by high resolution mass spectrometry.</strong> <em>Anal Methods. 2017;9(15):2275–2283.</em>",
+        "cleanText": "Wei X, Lorkiewicz PK, Shi B, Salabei JK, Hill BG, Kim S, McClain CJ, Zhang X. Analysis of stable isotope assisted metabolomics data acquired by high resolution mass spectrometry. Anal Methods. 2017;9(15):2275–2283.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2017",
+        "content": "Wei X, Shi B, Koo I, Yin X, Lorkiewicz P, Suhail H, Rattan R, Giri S, McClain CJ, Zhang X. <strong>Analysis of stable isotope assisted metabolomics data acquired by GC-MS.</strong> <em>Anal Chim Acta. 2017;980:25–32.</em>",
+        "cleanText": "Wei X, Shi B, Koo I, Yin X, Lorkiewicz P, Suhail H, Rattan R, Giri S, McClain CJ, Zhang X. Analysis of stable isotope assisted metabolomics data acquired by GC-MS. Anal Chim Acta. 2017;980:25–32.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2017",
+        "content": "Shahrjooihaghighi A, Frigui H, Zhang X, Wei X, Shi B, Trabelsi A. <strong>An ensemble feature selection method for biomarker discovery.</strong> <em>Proc IEEE Int Symp Signal Process Inf Technol. 2017:416–421.</em>",
+        "cleanText": "Shahrjooihaghighi A, Frigui H, Zhang X, Wei X, Shi B, Trabelsi A. An ensemble feature selection method for biomarker discovery. Proc IEEE Int Symp Signal Process Inf Technol. 2017:416–421.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2017",
+        "content": "Mendoza M, Caltharp S, Song M, Collin L, Konomi JV, McClain CJ, Vos MB. <strong>Low hepatic tissue copper in pediatric nonalcoholic fatty liver disease.</strong> <em>J Pediatr Gastroenterol Nutr. 2017;65(1):89–92.</em>",
+        "cleanText": "Mendoza M, Caltharp S, Song M, Collin L, Konomi JV, McClain CJ, Vos MB. Low hepatic tissue copper in pediatric nonalcoholic fatty liver disease. J Pediatr Gastroenterol Nutr. 2017;65(1):89–92.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2017",
+        "content": "Barve S, Chen S-Y, Kirpich I, Watson WH, McClain C. <strong>Development, prevention, and treatment of alcohol-induced organ injury: The role of nutrition.</strong> <em>Alcohol Res Curr Rev. 2017;38(2):289–302.</em>",
+        "cleanText": "Barve S, Chen S-Y, Kirpich I, Watson WH, McClain C. Development, prevention, and treatment of alcohol-induced organ injury: The role of nutrition. Alcohol Res Curr Rev. 2017;38(2):289–302.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2017",
+        "content": "Gibb AA, Lorkiewicz PK, Zheng Y-T, et al. <strong>Correction: Integration of flux measurements to resolve changes in anabolic and catabolic metabolism in cardiac myocytes.</strong> <em>Biochem J. 2017;474(24):4271–4272.</em>",
+        "cleanText": "Gibb AA, Lorkiewicz PK, Zheng Y-T, et al. Correction: Integration of flux measurements to resolve changes in anabolic and catabolic metabolism in cardiac myocytes. Biochem J. 2017;474(24):4271–4272.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2017",
+        "content": "Kim S, Jang H, Koo I, Lee J, Zhang X. <strong>Normal-Gamma-Bernoulli peak detection for analysis of comprehensive two-dimensional gas chromatography mass spectrometry data.</strong> <em>Comput Stat Data Anal. 2017;105:96–111.</em>",
+        "cleanText": "Kim S, Jang H, Koo I, Lee J, Zhang X. Normal-Gamma-Bernoulli peak detection for analysis of comprehensive two-dimensional gas chromatography mass spectrometry data. Comput Stat Data Anal. 2017;105:96–111.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2017",
+        "content": "McClain C, Barve S. <strong>A tale of two institutions.</strong> <em>J Hepatol. 2017;66(4):682–684.</em>",
+        "cleanText": "McClain C, Barve S. A tale of two institutions. J Hepatol. 2017;66(4):682–684.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2017",
+        "content": "Teng Y, Ren Y, Hu X, Mu J, Samykutty A, Zhuang X, Deng Z, Kumar A, Zhang L, Merchant ML, Yan J, Miller DM, Zhang H-G. <strong>MVP-mediated exosomal sorting of miR-193a promotes colon cancer progression.</strong> <em>Nat Commun. 2017;8:14448.</em>",
+        "cleanText": "Teng Y, Ren Y, Hu X, Mu J, Samykutty A, Zhuang X, Deng Z, Kumar A, Zhang L, Merchant ML, Yan J, Miller DM, Zhang H-G. MVP-mediated exosomal sorting of miR-193a promotes colon cancer progression. Nat Commun. 2017;8:14448.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2017",
+        "content": "Kirpich IA, McClain CJ, Vatsalya V, Schwandt M, Phillips M, Falkner KC, Zhang L, Harwell C, George DT, Umhau JC. <strong>Liver injury and endotoxemia in male and female alcohol-dependent individuals admitted to an alcohol treatment program.</strong> <em>Alcohol Clin Exp Res. 2017;41(4):747–757.</em>",
+        "cleanText": "Kirpich IA, McClain CJ, Vatsalya V, Schwandt M, Phillips M, Falkner KC, Zhang L, Harwell C, George DT, Umhau JC. Liver injury and endotoxemia in male and female alcohol-dependent individuals admitted to an alcohol treatment program. Alcohol Clin Exp Res. 2017;41(4):747–757.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2017",
+        "content": "Mitchell MC, Friedman LS, McClain CJ. <strong>Medical management of severe alcoholic hepatitis: Expert review from the Clinical Practice Updates Committee of the AGA Institute.</strong> <em>Clin Gastroenterol Hepatol. 2017;15(1):5–12.</em>",
+        "cleanText": "Mitchell MC, Friedman LS, McClain CJ. Medical management of severe alcoholic hepatitis: Expert review from the Clinical Practice Updates Committee of the AGA Institute. Clin Gastroenterol Hepatol. 2017;15(1):5–12.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2017",
+        "content": "Merchant ML, Rood IM, Deegens JKJ, Klein JB. <strong>Isolation and characterization of urinary extracellular vesicles: Implications for biomarker discovery.</strong> <em>Nat Rev Nephrol. 2017;13(12):731–749.</em>",
+        "cleanText": "Merchant ML, Rood IM, Deegens JKJ, Klein JB. Isolation and characterization of urinary extracellular vesicles: Implications for biomarker discovery. Nat Rev Nephrol. 2017;13(12):731–749.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2017",
+        "content": "Warner DR, Liu H, Miller ME, Ramsden CE, Gao B, Feldstein AE, Schuster S, McClain CJ, Kirpich IA. <strong>Dietary linoleic acid and its oxidized metabolites exacerbate liver injury caused by ethanol via induction of hepatic proinflammatory response in mice.</strong> <em>Am J Pathol. 2017;187(10):2232–2245.</em>",
+        "cleanText": "Warner DR, Liu H, Miller ME, Ramsden CE, Gao B, Feldstein AE, Schuster S, McClain CJ, Kirpich IA. Dietary linoleic acid and its oxidized metabolites exacerbate liver injury caused by ethanol via induction of hepatic proinflammatory response in mice. Am J Pathol. 2017;187(10):2232–2245.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2017",
+        "content": "Yuan F, Chen X, Liu J, Feng W, Wu X, Chen S-Y. <strong>Up-regulation of Siah1 by ethanol triggers apoptosis in neural crest cells through p38 MAPK-mediated activation of p53 signaling pathway.</strong> <em>Arch Toxicol. 2017;91(2):775–784.</em>",
+        "cleanText": "Yuan F, Chen X, Liu J, Feng W, Wu X, Chen S-Y. Up-regulation of Siah1 by ethanol triggers apoptosis in neural crest cells through p38 MAPK-mediated activation of p53 signaling pathway. Arch Toxicol. 2017;91(2):775–784.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2017",
+        "content": "Chen W-Y, Wang M, Zhang J, Barve SS, McClain CJ, Joshi-Barve S. <strong>Acrolein disrupts tight junction proteins and causes endoplasmic reticulum stress-mediated epithelial cell death leading to intestinal barrier dysfunction and permeability.</strong> <em>Am J Pathol. 2017;187(12):2686–2697.</em>",
+        "cleanText": "Chen W-Y, Wang M, Zhang J, Barve SS, McClain CJ, Joshi-Barve S. Acrolein disrupts tight junction proteins and causes endoplasmic reticulum stress-mediated epithelial cell death leading to intestinal barrier dysfunction and permeability. Am J Pathol. 2017;187(12):2686–2697.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2017",
+        "content": "Gibb AA, Lorkiewicz PK, Zheng Y-T, Zhang X, Bhatnagar A, Jones SP, Hill BG. <strong>Integration of flux measurements to resolve changes in anabolic and catabolic metabolism in cardiac myocytes.</strong> <em>Biochem J. 2017;474(16):2785–2801.</em>",
+        "cleanText": "Gibb AA, Lorkiewicz PK, Zheng Y-T, Zhang X, Bhatnagar A, Jones SP, Hill BG. Integration of flux measurements to resolve changes in anabolic and catabolic metabolism in cardiac myocytes. Biochem J. 2017;474(16):2785–2801.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2017",
+        "content": "Poole LG, Dolin CE, Arteel GE. <strong>Organ-organ crosstalk and alcoholic liver disease.</strong> <em>Biomolecules. 2017;7(3).</em>",
+        "cleanText": "Poole LG, Dolin CE, Arteel GE. Organ-organ crosstalk and alcoholic liver disease. Biomolecules. 2017;7(3).",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2017",
+        "content": "Guardiola JJ, Beier JI, Falkner KC, Wheeler B, McClain CJ, Cave M. <strong>Occupational exposures at a polyvinyl chloride production facility are associated with significant changes to the plasma metabolome.</strong> <em>Toxicol Appl Pharmacol. 2017;313:47–56.</em>",
+        "cleanText": "Guardiola JJ, Beier JI, Falkner KC, Wheeler B, McClain CJ, Cave M. Occupational exposures at a polyvinyl chloride production facility are associated with significant changes to the plasma metabolome. Toxicol Appl Pharmacol. 2017;313:47–56.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2017",
+        "content": "Anders LC, Lang AL, Anwar-Mohamed A, Douglas AN, Bushau AM, Falkner KC, Hill BG, Warner NL, Arteel GE, Cave M, McClain CJ, Beier JI. <strong>Vinyl chloride metabolites potentiate inflammatory liver injury caused by LPS in mice.</strong> <em>Toxicol Sci. 2017;151(2):312–323.</em>",
+        "cleanText": "Anders LC, Lang AL, Anwar-Mohamed A, Douglas AN, Bushau AM, Falkner KC, Hill BG, Warner NL, Arteel GE, Cave M, McClain CJ, Beier JI. Vinyl chloride metabolites potentiate inflammatory liver injury caused by LPS in mice. Toxicol Sci. 2017;151(2):312–323.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2017",
+        "content": "Cave MC, Clair HB, Hardesty JE, Falkner KC, Feng W, Clark BJ, Sidey J, Shi H, Aqel BA, McClain CJ, Prough RA. <strong>Nuclear receptors and nonalcoholic fatty liver disease.</strong> <em>Biochim Biophys Acta. 2017;1859(9):1083–1099.</em>",
+        "cleanText": "Cave MC, Clair HB, Hardesty JE, Falkner KC, Feng W, Clark BJ, Sidey J, Shi H, Aqel BA, McClain CJ, Prough RA. Nuclear receptors and nonalcoholic fatty liver disease. Biochim Biophys Acta. 2017;1859(9):1083–1099.",
+        "pmid": null,
+        "pmidLink": null
+      }
+    ],
+    "2018": [
+      {
+        "year": "2018",
+        "content": "Song M, Li X, Zhang X, et al. <strong>Dietary copper-fructose interactions alter gut microbial activity in male rats.</strong> <em>Am J Physiol Gastrointest Liver Physiol. 2018;314(1):G119–G130.</em>",
+        "cleanText": "Song M, Li X, Zhang X, et al. Dietary copper-fructose interactions alter gut microbial activity in male rats. Am J Physiol Gastrointest Liver Physiol. 2018;314(1):G119–G130.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2018",
+        "content": "Salazar-González RA, Turiján-Espinoza E, Hein DW, et al. <strong>Expression and genotype-dependent catalytic activity of N-acetyltransferase 2 (NAT2) in human peripheral blood mononuclear cells and its modulation by Sirtuin 1.</strong> <em>Biochem Pharmacol. 2018;156:340–347.</em>",
+        "cleanText": "Salazar-González RA, Turiján-Espinoza E, Hein DW, et al. Expression and genotype-dependent catalytic activity of N-acetyltransferase 2 (NAT2) in human peripheral blood mononuclear cells and its modulation by Sirtuin 1. Biochem Pharmacol. 2018;156:340–347.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2018",
+        "content": "Wahlang B, McClain C, Barve S, Gobejishvili L. <strong>Role of cAMP and phosphodiesterase signaling in liver health and disease.</strong> <em>Cell Signal. 2018;49:105–115.</em>",
+        "cleanText": "Wahlang B, McClain C, Barve S, Gobejishvili L. Role of cAMP and phosphodiesterase signaling in liver health and disease. Cell Signal. 2018;49:105–115.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2018",
+        "content": "He L, Prodhan MAI, Yuan F, et al. <strong>Simultaneous quantification of straight-chain and branched-chain short chain fatty acids by gas chromatography mass spectrometry.</strong> <em>J Chromatogr B. 2018;1092:359–367.</em>",
+        "cleanText": "He L, Prodhan MAI, Yuan F, et al. Simultaneous quantification of straight-chain and branched-chain short chain fatty acids by gas chromatography mass spectrometry. J Chromatogr B. 2018;1092:359–367.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2018",
+        "content": "Liang Y, Lang AL, Zhang J, et al. <strong>Exposure to vinyl chloride and its influence on Western diet-induced cardiac remodeling.</strong> <em>Chem Res Toxicol. 2018;31(6):482–493.</em>",
+        "cleanText": "Liang Y, Lang AL, Zhang J, et al. Exposure to vinyl chloride and its influence on Western diet-induced cardiac remodeling. Chem Res Toxicol. 2018;31(6):482–493.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2018",
+        "content": "Song M, Vos MB, McClain CJ. <strong>Copper-fructose interactions: A novel mechanism in the pathogenesis of NAFLD.</strong> <em>Nutrients. 2018;10(11).</em>",
+        "cleanText": "Song M, Vos MB, McClain CJ. Copper-fructose interactions: A novel mechanism in the pathogenesis of NAFLD. Nutrients. 2018;10(11).",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2018",
+        "content": "Schuster S, Johnson CD, Hennebelle M, et al. <strong>Oxidized linoleic acid metabolites induce liver mitochondrial dysfunction, apoptosis, and NLRP3 activation in mice.</strong> <em>J Lipid Res. 2018;59(9):1597–1609.</em>",
+        "cleanText": "Schuster S, Johnson CD, Hennebelle M, et al. Oxidized linoleic acid metabolites induce liver mitochondrial dysfunction, apoptosis, and NLRP3 activation in mice. J Lipid Res. 2018;59(9):1597–1609.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2018",
+        "content": "Gosney JA, Wilkey DW, Merchant ML, Ceresa BP. <strong>Proteomics reveals novel protein associations with early endosomes in an epidermal growth factor-dependent manner.</strong> <em>J Biol Chem. 2018;293(16):5895–5908.</em>",
+        "cleanText": "Gosney JA, Wilkey DW, Merchant ML, Ceresa BP. Proteomics reveals novel protein associations with early endosomes in an epidermal growth factor-dependent manner. J Biol Chem. 2018;293(16):5895–5908.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2018",
+        "content": "Ghosh Dastidar S, Warner JB, Warner DR, et al. <strong>Rodent models of alcoholic liver disease: Role of binge ethanol administration.</strong> <em>Biomolecules. 2018;8(1).</em>",
+        "cleanText": "Ghosh Dastidar S, Warner JB, Warner DR, et al. Rodent models of alcoholic liver disease: Role of binge ethanol administration. Biomolecules. 2018;8(1).",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2018",
+        "content": "Prodhan MAI, Yin X, Kim S, et al. <strong>Surface fitting for calculating the second dimension retention index in comprehensive two-dimensional gas chromatography mass spectrometry.</strong> <em>J Chromatogr A. 2018;1539:62–70.</em>",
+        "cleanText": "Prodhan MAI, Yin X, Kim S, et al. Surface fitting for calculating the second dimension retention index in comprehensive two-dimensional gas chromatography mass spectrometry. J Chromatogr A. 2018;1539:62–70.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2018",
+        "content": "Beier JI, Banales JM. <strong>Pyroptosis: An inflammatory link between NAFLD and NASH with potential therapeutic implications.</strong> <em>J Hepatol. 2018;68(4):643–645.</em>",
+        "cleanText": "Beier JI, Banales JM. Pyroptosis: An inflammatory link between NAFLD and NASH with potential therapeutic implications. J Hepatol. 2018;68(4):643–645.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2018",
+        "content": "Wang K, Chen X, Liu J, et al. <strong>Embryonic exposure to ethanol increases the susceptibility of larval zebrafish to chemically induced seizures.</strong> <em>Sci Rep. 2018;8:1845.</em>",
+        "cleanText": "Wang K, Chen X, Liu J, et al. Embryonic exposure to ethanol increases the susceptibility of larval zebrafish to chemically induced seizures. Sci Rep. 2018;8:1845.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2018",
+        "content": "Warner DR, Liu H, Ghosh Dastidar S, et al. <strong>Ethanol and unsaturated dietary fat induce unique patterns of hepatic ω-6 and ω-3 PUFA oxylipins in a mouse model of alcoholic liver disease.</strong> <em>PLoS One. 2018;13(9):e0204119.</em>",
+        "cleanText": "Warner DR, Liu H, Ghosh Dastidar S, et al. Ethanol and unsaturated dietary fat induce unique patterns of hepatic ω-6 and ω-3 PUFA oxylipins in a mouse model of alcoholic liver disease. PLoS One. 2018;13(9):e0204119.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2018",
+        "content": "Vatsalya V, Kong M, Cave MC, et al. <strong>Association of serum zinc with markers of liver injury in very heavy drinking alcohol-dependent patients.</strong> <em>J Nutr Biochem. 2018;59:49–55.</em>",
+        "cleanText": "Vatsalya V, Kong M, Cave MC, et al. Association of serum zinc with markers of liver injury in very heavy drinking alcohol-dependent patients. J Nutr Biochem. 2018;59:49–55.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2018",
+        "content": "Zheng Y, Ritzenthaler JD, Burke TJ, et al. <strong>Age-dependent oxidation of extracellular cysteine/cystine redox state in mouse lung fibroblasts is mediated by a decline in Slc7a11 expression.</strong> <em>Free Radic Biol Med. 2018;118:13–22.</em>",
+        "cleanText": "Zheng Y, Ritzenthaler JD, Burke TJ, et al. Age-dependent oxidation of extracellular cysteine/cystine redox state in mouse lung fibroblasts is mediated by a decline in Slc7a11 expression. Free Radic Biol Med. 2018;118:13–22.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2018",
+        "content": "Kharbanda KK, Ronis MJJ, Shearn CT, et al. <strong>Role of nutrition in alcoholic liver disease: Summary of the symposium at the ESBRA 2017 Congress.</strong> <em>Biomolecules. 2018;8(2).</em>",
+        "cleanText": "Kharbanda KK, Ronis MJJ, Shearn CT, et al. Role of nutrition in alcoholic liver disease: Summary of the symposium at the ESBRA 2017 Congress. Biomolecules. 2018;8(2).",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2018",
+        "content": "Yuan F, Chen S-Y. <strong>Manipulation of microRNAs in cultured mouse embryos: Applications for developmental toxicology.</strong> <em>Methods Mol Biol. 2018;1797:205–214.</em>",
+        "cleanText": "Yuan F, Chen S-Y. Manipulation of microRNAs in cultured mouse embryos: Applications for developmental toxicology. Methods Mol Biol. 2018;1797:205–214.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2018",
+        "content": "Lang AL, Beier JI. <strong>Interaction of volatile organic compounds and underlying liver disease: A new paradigm for risk.</strong> <em>Biol Chem. 2018;399(11):1237–1248.</em>",
+        "cleanText": "Lang AL, Beier JI. Interaction of volatile organic compounds and underlying liver disease: A new paradigm for risk. Biol Chem. 2018;399(11):1237–1248.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2018",
+        "content": "Dou X, Menkari C, Mitsuyama R, et al. <strong>L1 coupling to ankyrin and the spectrin-actin cytoskeleton modulates ethanol inhibition of L1 adhesion and ethanol teratogenesis.</strong> <em>FASEB J. 2018;32(3):1364–1374.</em>",
+        "cleanText": "Dou X, Menkari C, Mitsuyama R, et al. L1 coupling to ankyrin and the spectrin-actin cytoskeleton modulates ethanol inhibition of L1 adhesion and ethanol teratogenesis. FASEB J. 2018;32(3):1364–1374.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2018",
+        "content": "Ramsden CE, Hennebelle M, Schuster S, et al. <strong>Effects of diets enriched in linoleic acid and its peroxidation products on brain fatty acids, oxylipins, and aldehydes in mice.</strong> <em>Biochim Biophys Acta Mol Cell Biol Lipids. 2018;1863(10):1206–1213.</em>",
+        "cleanText": "Ramsden CE, Hennebelle M, Schuster S, et al. Effects of diets enriched in linoleic acid and its peroxidation products on brain fatty acids, oxylipins, and aldehydes in mice. Biochim Biophys Acta Mol Cell Biol Lipids. 2018;1863(10):1206–1213.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2018",
+        "content": "Hein DW, Fakis G, Boukouvala S. <strong>Functional expression of human arylamine N-acetyltransferase NAT110 and NAT111 alleles: A mini review.</strong> <em>Pharmacogenet Genomics. 2018;28(10):238–244.</em>",
+        "cleanText": "Hein DW, Fakis G, Boukouvala S. Functional expression of human arylamine N-acetyltransferase NAT110 and NAT111 alleles: A mini review. Pharmacogenet Genomics. 2018;28(10):238–244.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2018",
+        "content": "Teng Y, Ren Y, Sayed M, et al. <strong>Plant-derived exosomal microRNAs shape the gut microbiota.</strong> <em>Cell Host Microbe. 2018;24(5):637–652.e8.</em>",
+        "cleanText": "Teng Y, Ren Y, Sayed M, et al. Plant-derived exosomal microRNAs shape the gut microbiota. Cell Host Microbe. 2018;24(5):637–652.e8.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2018",
+        "content": "Hardesty JE, Al-Eryani L, Wahlang B, et al. <strong>Epidermal growth factor receptor signaling disruption by endocrine and metabolic disrupting chemicals.</strong> <em>Toxicol Sci. 2018;162(2):622–634.</em>",
+        "cleanText": "Hardesty JE, Al-Eryani L, Wahlang B, et al. Epidermal growth factor receptor signaling disruption by endocrine and metabolic disrupting chemicals. Toxicol Sci. 2018;162(2):622–634.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2018",
+        "content": "Clair HB, Pinkston CM, Rai SN, et al. <strong>Liver disease in a residential cohort with elevated polychlorinated biphenyl exposures.</strong> <em>Toxicol Sci. 2018;164(1):39–49.</em>",
+        "cleanText": "Clair HB, Pinkston CM, Rai SN, et al. Liver disease in a residential cohort with elevated polychlorinated biphenyl exposures. Toxicol Sci. 2018;164(1):39–49.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2018",
+        "content": "Shao T, Zhao C, Li F, et al. <strong>Intestinal HIF-1α deletion exacerbates alcoholic liver disease by inducing intestinal dysbiosis and barrier dysfunction.</strong> <em>J Hepatol. 2018;69(4):886–895.</em>",
+        "cleanText": "Shao T, Zhao C, Li F, et al. Intestinal HIF-1α deletion exacerbates alcoholic liver disease by inducing intestinal dysbiosis and barrier dysfunction. J Hepatol. 2018;69(4):886–895.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2018",
+        "content": "Carlisle SM, Trainor PJ, Doll MA, et al. <strong>Knockout of human arylamine N-acetyltransferase 1 (NAT1) in MDA-MB-231 breast cancer cells leads to increased reserve capacity, maximum mitochondrial capacity, and glycolytic reserve capacity.</strong> <em>Mol Carcinog. 2018;57(11):1458–1466.</em>",
+        "cleanText": "Carlisle SM, Trainor PJ, Doll MA, et al. Knockout of human arylamine N-acetyltransferase 1 (NAT1) in MDA-MB-231 breast cancer cells leads to increased reserve capacity, maximum mitochondrial capacity, and glycolytic reserve capacity. Mol Carcinog. 2018;57(11):1458–1466.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2018",
+        "content": "Yuan F, Chen X, Liu J, et al. <strong>Sulforaphane restores acetyl-histone H3 binding to Bcl-2 promoter and prevents apoptosis in ethanol-exposed neural crest cells and mouse embryos.</strong> <em>Exp Neurol. 2018;300:60–66.</em>",
+        "cleanText": "Yuan F, Chen X, Liu J, et al. Sulforaphane restores acetyl-histone H3 binding to Bcl-2 promoter and prevents apoptosis in ethanol-exposed neural crest cells and mouse embryos. Exp Neurol. 2018;300:60–66.",
+        "pmid": null,
+        "pmidLink": null
+      }
+    ],
+    "2019": [
+      {
+        "year": "2019",
+        "content": "Kong X, Wu G, Chen S, et al. <strong>Chalcone derivative L6H21 reduces EtOH + LPS-induced liver injury through inhibition of NLRP3 inflammasome activation.</strong> <em>Alcohol Clin Exp Res. 2019;43(8):1662–1671.</em>",
+        "cleanText": "Kong X, Wu G, Chen S, et al. Chalcone derivative L6H21 reduces EtOH + LPS-induced liver injury through inhibition of NLRP3 inflammasome activation. Alcohol Clin Exp Res. 2019;43(8):1662–1671.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Prodhan MAI, Shi B, Song M, et al. <strong>Integrating comprehensive two-dimensional gas chromatography–mass spectrometry and parallel two-dimensional liquid chromatography–mass spectrometry for untargeted metabolomics.</strong> <em>Analyst. 2019;144(14):4331–4341.</em>",
+        "cleanText": "Prodhan MAI, Shi B, Song M, et al. Integrating comprehensive two-dimensional gas chromatography–mass spectrometry and parallel two-dimensional liquid chromatography–mass spectrometry for untargeted metabolomics. Analyst. 2019;144(14):4331–4341.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Chichetto NE, Kundu S, Freiberg MS, et al. <strong>Association of syndemic unhealthy alcohol use, cigarette use, and depression with all-cause mortality among adults living with and without HIV infection: Veterans Aging Cohort Study.</strong> <em>Open Forum Infect Dis. 2019;6(6):ofz188.</em>",
+        "cleanText": "Chichetto NE, Kundu S, Freiberg MS, et al. Association of syndemic unhealthy alcohol use, cigarette use, and depression with all-cause mortality among adults living with and without HIV infection: Veterans Aging Cohort Study. Open Forum Infect Dis. 2019;6(6):ofz188.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Sundaram K, Miller DP, Kumar A, et al. <strong>Plant-derived exosomal nanoparticles inhibit pathogenicity of Porphyromonas gingivalis.</strong> <em>iScience. 2019;21:308–327.</em>",
+        "cleanText": "Sundaram K, Miller DP, Kumar A, et al. Plant-derived exosomal nanoparticles inhibit pathogenicity of Porphyromonas gingivalis. iScience. 2019;21:308–327.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Li Y, Yuan F, Wu T, et al. <strong>Sulforaphane protects against ethanol-induced apoptosis in neural crest cells through restoring epithelial-mesenchymal transition by epigenetically modulating Snail1 expression.</strong> <em>Biochim Biophys Acta Mol Basis Dis. 2019;1865(10):2586–2594.</em>",
+        "cleanText": "Li Y, Yuan F, Wu T, et al. Sulforaphane protects against ethanol-induced apoptosis in neural crest cells through restoring epithelial-mesenchymal transition by epigenetically modulating Snail1 expression. Biochim Biophys Acta Mol Basis Dis. 2019;1865(10):2586–2594.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Khoo NKH, Fazzari M, Chartoumpekis DV, et al. <strong>Electrophilic nitro-oleic acid reverses obesity-induced hepatic steatosis.</strong> <em>Redox Biol. 2019;22:101132.</em>",
+        "cleanText": "Khoo NKH, Fazzari M, Chartoumpekis DV, et al. Electrophilic nitro-oleic acid reverses obesity-induced hepatic steatosis. Redox Biol. 2019;22:101132.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Bataller R, Arteel GE, Moreno C, Shah V. <strong>Alcohol-related liver disease: Time for action.</strong> <em>J Hepatol. 2019;70(2):221–222.</em>",
+        "cleanText": "Bataller R, Arteel GE, Moreno C, Shah V. Alcohol-related liver disease: Time for action. J Hepatol. 2019;70(2):221–222.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "You M, Arteel GE. <strong>Effect of ethanol on lipid metabolism.</strong> <em>J Hepatol. 2019;70(2):237–248.</em>",
+        "cleanText": "You M, Arteel GE. Effect of ethanol on lipid metabolism. J Hepatol. 2019;70(2):237–248.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Bassler J, Ducatman A, Elliott M, et al. <strong>Environmental perfluoroalkyl acid exposures are associated with liver disease characterized by apoptosis and altered serum adipocytokines.</strong> <em>Environ Pollut. 2019;247:1055–1063.</em>",
+        "cleanText": "Bassler J, Ducatman A, Elliott M, et al. Environmental perfluoroalkyl acid exposures are associated with liver disease characterized by apoptosis and altered serum adipocytokines. Environ Pollut. 2019;247:1055–1063.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Wei C, Li J, Adair BD, et al. <strong>uPAR isoform 2 forms a dimer and induces severe kidney disease in mice.</strong> <em>J Clin Invest. 2019;129(5):1946–1959.</em>",
+        "cleanText": "Wei C, Li J, Adair BD, et al. uPAR isoform 2 forms a dimer and induces severe kidney disease in mice. J Clin Invest. 2019;129(5):1946–1959.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Lorkiewicz PK, Gibb AA, Rood BR, et al. <strong>Integration of flux measurements and pharmacological controls to optimize stable isotope-resolved metabolomics workflows and interpretation.</strong> <em>Sci Rep. 2019;9:13705.</em>",
+        "cleanText": "Lorkiewicz PK, Gibb AA, Rood BR, et al. Integration of flux measurements and pharmacological controls to optimize stable isotope-resolved metabolomics workflows and interpretation. Sci Rep. 2019;9:13705.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Wahlang B, Jin J, Hardesty JE, et al. <strong>Identifying sex differences arising from polychlorinated biphenyl exposures in toxicant-associated liver disease.</strong> <em>Food Chem Toxicol. 2019;129:64–76.</em>",
+        "cleanText": "Wahlang B, Jin J, Hardesty JE, et al. Identifying sex differences arising from polychlorinated biphenyl exposures in toxicant-associated liver disease. Food Chem Toxicol. 2019;129:64–76.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Salazar-González RA, Zhang X, Doll MA, Lykoudi A, Hein DW. <strong>Role of the human N-acetyltransferase 2 genetic polymorphism in metabolism and genotoxicity of 4,4´-methylenedianiline.</strong> <em>Arch Toxicol. 2019;93(8):2237–2246.</em>",
+        "cleanText": "Salazar-González RA, Zhang X, Doll MA, Lykoudi A, Hein DW. Role of the human N-acetyltransferase 2 genetic polymorphism in metabolism and genotoxicity of 4,4´-methylenedianiline. Arch Toxicol. 2019;93(8):2237–2246.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "He L, Wei X, Ma X, et al. <strong>Simultaneous quantification of nucleosides and nucleotides from biological samples.</strong> <em>J Am Soc Mass Spectrom. 2019;30(6):987–1000.</em>",
+        "cleanText": "He L, Wei X, Ma X, et al. Simultaneous quantification of nucleosides and nucleotides from biological samples. J Am Soc Mass Spectrom. 2019;30(6):987–1000.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "He L, Li F, Yin X, et al. <strong>Profiling of polar metabolites in mouse feces using four analytical platforms to study the effects of cathelicidin-related antimicrobial peptide in alcoholic liver disease.</strong> <em>J Proteome Res. 2019;18(7):2875–2884.</em>",
+        "cleanText": "He L, Li F, Yin X, et al. Profiling of polar metabolites in mouse feces using four analytical platforms to study the effects of cathelicidin-related antimicrobial peptide in alcoholic liver disease. J Proteome Res. 2019;18(7):2875–2884.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Zhou Y, Vatsalya V, Gobejishvili L, et al. <strong>Porphyromonas gingivalis as a possible risk factor in the development/severity of acute alcoholic hepatitis.</strong> <em>Hepatol Commun. 2019;3(2):293–304.</em>",
+        "cleanText": "Zhou Y, Vatsalya V, Gobejishvili L, et al. Porphyromonas gingivalis as a possible risk factor in the development/severity of acute alcoholic hepatitis. Hepatol Commun. 2019;3(2):293–304.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Poole LG, Beier JI, Torres-Gonzales E, et al. <strong>Chronic + binge alcohol exposure promotes inflammation and alters airway mechanics in the lung.</strong> <em>Alcohol. 2019;80:53–63.</em>",
+        "cleanText": "Poole LG, Beier JI, Torres-Gonzales E, et al. Chronic + binge alcohol exposure promotes inflammation and alters airway mechanics in the lung. Alcohol. 2019;80:53–63.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Vatsalya V, Cave MC, Kumar R, et al. <strong>Alterations in serum zinc and polyunsaturated fatty acid concentrations in treatment-naive HIV-diagnosed alcohol-dependent subjects with liver injury.</strong> <em>AIDS Res Hum Retroviruses. 2019;35(1):92–99.</em>",
+        "cleanText": "Vatsalya V, Cave MC, Kumar R, et al. Alterations in serum zinc and polyunsaturated fatty acid concentrations in treatment-naive HIV-diagnosed alcohol-dependent subjects with liver injury. AIDS Res Hum Retroviruses. 2019;35(1):92–99.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Srivastava S, Merchant M, Rai A, Rai SN. <strong>Interactive web tool for standardizing proteomics workflow for liquid chromatography–mass spectrometry data.</strong> <em>J Proteomics Bioinform. 2019;12(4):85–88.</em>",
+        "cleanText": "Srivastava S, Merchant M, Rai A, Rai SN. Interactive web tool for standardizing proteomics workflow for liquid chromatography–mass spectrometry data. J Proteomics Bioinform. 2019;12(4):85–88.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Vatsalya V, Hassan HZ, Kong M, et al. <strong>Exacerbation of hangover symptomology significantly corresponds with heavy and chronic alcohol drinking: A pilot study.</strong> <em>J Clin Med. 2019;8(11):1981.</em>",
+        "cleanText": "Vatsalya V, Hassan HZ, Kong M, et al. Exacerbation of hangover symptomology significantly corresponds with heavy and chronic alcohol drinking: A pilot study. J Clin Med. 2019;8(11):1981.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Pavuk M, Serio TC, Cusack C, et al. <strong>Hypertension in relation to dioxins and polychlorinated biphenyls from the Anniston Community Health Survey Follow-Up.</strong> <em>Environ Health Perspect. 2019;127(12):127007.</em>",
+        "cleanText": "Pavuk M, Serio TC, Cusack C, et al. Hypertension in relation to dioxins and polychlorinated biphenyls from the Anniston Community Health Survey Follow-Up. Environ Health Perspect. 2019;127(12):127007.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "European Association for the Study of the Liver. <strong>EASL clinical practice guidelines on nutrition in chronic liver disease.</strong> <em>J Hepatol. 2019;70(1):172–193.</em>",
+        "cleanText": "European Association for the Study of the Liver. EASL clinical practice guidelines on nutrition in chronic liver disease. J Hepatol. 2019;70(1):172–193.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Hardesty JE, Wahlang B, Falkner KC, et al. <strong>Hepatic signalling disruption by pollutant polychlorinated biphenyls in steatohepatitis.</strong> <em>Cell Signal. 2019;53:132–139.</em>",
+        "cleanText": "Hardesty JE, Wahlang B, Falkner KC, et al. Hepatic signalling disruption by pollutant polychlorinated biphenyls in steatohepatitis. Cell Signal. 2019;53:132–139.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Saha B, Tornai D, Kodys K, et al. <strong>Biomarkers of macrophage activation and immune danger signals predict clinical outcomes in alcoholic hepatitis.</strong> <em>Hepatology. 2019;70(4):1134–1149.</em>",
+        "cleanText": "Saha B, Tornai D, Kodys K, et al. Biomarkers of macrophage activation and immune danger signals predict clinical outcomes in alcoholic hepatitis. Hepatology. 2019;70(4):1134–1149.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Zhao C, Liu L, Liu Q, et al. <strong>Fibroblast growth factor 21 is required for the therapeutic effects of Lactobacillus rhamnosus GG against fructose-induced fatty liver in mice.</strong> <em>Mol Metab. 2019;29:145–157.</em>",
+        "cleanText": "Zhao C, Liu L, Liu Q, et al. Fibroblast growth factor 21 is required for the therapeutic effects of Lactobacillus rhamnosus GG against fructose-induced fatty liver in mice. Mol Metab. 2019;29:145–157.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Li F, McClain CJ, Feng W. <strong>Microbiome dysbiosis and alcoholic liver disease.</strong> <em>Liver Res. 2019;3(3–4):218–226.</em>",
+        "cleanText": "Li F, McClain CJ, Feng W. Microbiome dysbiosis and alcoholic liver disease. Liver Res. 2019;3(3–4):218–226.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Chen L, Lang AL, Poff GD, Ding W-X, Beier JI. <strong>Vinyl chloride-induced interaction of nonalcoholic and toxicant-associated steatohepatitis: Protection by the ALDH2 activator Alda-1.</strong> <em>Redox Biol. 2019;24:101205.</em>",
+        "cleanText": "Chen L, Lang AL, Poff GD, Ding W-X, Beier JI. Vinyl chloride-induced interaction of nonalcoholic and toxicant-associated steatohepatitis: Protection by the ALDH2 activator Alda-1. Redox Biol. 2019;24:101205.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Lang AL, Krueger AM, Schnegelberger RD, et al. <strong>Rapamycin attenuates liver injury caused by vinyl chloride metabolite chloroethanol and lipopolysaccharide in mice.</strong> <em>Toxicol Appl Pharmacol. 2019;382:114745.</em>",
+        "cleanText": "Lang AL, Krueger AM, Schnegelberger RD, et al. Rapamycin attenuates liver injury caused by vinyl chloride metabolite chloroethanol and lipopolysaccharide in mice. Toxicol Appl Pharmacol. 2019;382:114745.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Fan H, Yuan F, Yun Y, et al. <strong>MicroRNA-34a mediates ethanol-induced impairment of neural differentiation of neural crest cells by targeting autophagy-related gene 9a.</strong> <em>Exp Neurol. 2019;320:112981.</em>",
+        "cleanText": "Fan H, Yuan F, Yun Y, et al. MicroRNA-34a mediates ethanol-induced impairment of neural differentiation of neural crest cells by targeting autophagy-related gene 9a. Exp Neurol. 2019;320:112981.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Rodriguez WE, Wahlang B, Wang Y, et al. <strong>Phosphodiesterase 4 inhibition as a therapeutic target for alcoholic liver disease: From bedside to bench.</strong> <em>Hepatology. 2019;70(6):1958–1971.</em>",
+        "cleanText": "Rodriguez WE, Wahlang B, Wang Y, et al. Phosphodiesterase 4 inhibition as a therapeutic target for alcoholic liver disease: From bedside to bench. Hepatology. 2019;70(6):1958–1971.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Warner DR, Warner JB, Hardesty JE, et al. <strong>Decreased ω-6:ω-3 PUFA ratio attenuates ethanol-induced alterations in intestinal homeostasis, microbiota, and liver injury.</strong> <em>J Lipid Res. 2019;60(12):2034–2049.</em>",
+        "cleanText": "Warner DR, Warner JB, Hardesty JE, et al. Decreased ω-6:ω-3 PUFA ratio attenuates ethanol-induced alterations in intestinal homeostasis, microbiota, and liver injury. J Lipid Res. 2019;60(12):2034–2049.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Vatsalya V, Kong M, Gobejishvili L, et al. <strong>Urinary acrolein metabolite levels in severe acute alcoholic hepatitis patients.</strong> <em>Am J Physiol Gastrointest Liver Physiol. 2019;316(1):G115–G122.</em>",
+        "cleanText": "Vatsalya V, Kong M, Gobejishvili L, et al. Urinary acrolein metabolite levels in severe acute alcoholic hepatitis patients. Am J Physiol Gastrointest Liver Physiol. 2019;316(1):G115–G122.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Roumani AM, Madkour A, Ouzzani M, et al. <strong>BioNetApp: An interactive visual data analysis platform for molecular expressions.</strong> <em>PLoS One. 2019;14(2):e0211277.</em>",
+        "cleanText": "Roumani AM, Madkour A, Ouzzani M, et al. BioNetApp: An interactive visual data analysis platform for molecular expressions. PLoS One. 2019;14(2):e0211277.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Kim S, Yin X, Prodhan MAI, et al. <strong>Global plasma profiling for colorectal cancer-associated volatile organic compounds: A proof-of-principle study.</strong> <em>J Chromatogr Sci. 2019;57(5):385–396.</em>",
+        "cleanText": "Kim S, Yin X, Prodhan MAI, et al. Global plasma profiling for colorectal cancer-associated volatile organic compounds: A proof-of-principle study. J Chromatogr Sci. 2019;57(5):385–396.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Chakravarty S, Mandal RK, Duff ML, Schmidt NW. <strong>Intestinal short-chain fatty acid composition does not explain gut microbiota-mediated effects on malaria severity.</strong> <em>PLoS One. 2019;14(3):e0214449.</em>",
+        "cleanText": "Chakravarty S, Mandal RK, Duff ML, Schmidt NW. Intestinal short-chain fatty acid composition does not explain gut microbiota-mediated effects on malaria severity. PLoS One. 2019;14(3):e0214449.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Shi H, Jan J, Hardesty JE, et al. <strong>Polychlorinated biphenyl exposures differentially regulate hepatic metabolism and pancreatic function: Implications for nonalcoholic steatohepatitis and diabetes.</strong> <em>Toxicol Appl Pharmacol. 2019;363:22–33.</em>",
+        "cleanText": "Shi H, Jan J, Hardesty JE, et al. Polychlorinated biphenyl exposures differentially regulate hepatic metabolism and pancreatic function: Implications for nonalcoholic steatohepatitis and diabetes. Toxicol Appl Pharmacol. 2019;363:22–33.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Hardesty JE, Wahlang B, Falkner KC, et al. <strong>Proteomic analysis reveals novel mechanisms by which polychlorinated biphenyls compromise the liver promoting diet-induced steatohepatitis.</strong> <em>J Proteome Res. 2019;18(4):1582–1594.</em>",
+        "cleanText": "Hardesty JE, Wahlang B, Falkner KC, et al. Proteomic analysis reveals novel mechanisms by which polychlorinated biphenyls compromise the liver promoting diet-induced steatohepatitis. J Proteome Res. 2019;18(4):1582–1594.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Kirpich IA, McClain CJ. <strong>Introduction to the virtual issue “Translational Studies in AUD: Liver Disease”.</strong> <em>Alcohol Clin Exp Res. 2019;43(4):593–596.</em>",
+        "cleanText": "Kirpich IA, McClain CJ. Introduction to the virtual issue “Translational Studies in AUD: Liver Disease”. Alcohol Clin Exp Res. 2019;43(4):593–596.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Watson WH, Ritzenthaler JD, Peyrani P, et al. <strong>Plasma cysteine/cystine and glutathione/glutathione disulfide redox potentials in HIV and COPD patients.</strong> <em>Free Radic Biol Med. 2019;143:55–61.</em>",
+        "cleanText": "Watson WH, Ritzenthaler JD, Peyrani P, et al. Plasma cysteine/cystine and glutathione/glutathione disulfide redox potentials in HIV and COPD patients. Free Radic Biol Med. 2019;143:55–61.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Ren L, Song Q, Liu Y, et al. <strong>Probiotic Lactobacillus rhamnosus GG prevents progesterone metabolite epiallopregnanolone sulfate-induced hepatic bile acid accumulation and liver injury.</strong> <em>Biochem Biophys Res Commun. 2019;520(1):67–72.</em>",
+        "cleanText": "Ren L, Song Q, Liu Y, et al. Probiotic Lactobacillus rhamnosus GG prevents progesterone metabolite epiallopregnanolone sulfate-induced hepatic bile acid accumulation and liver injury. Biochem Biophys Res Commun. 2019;520(1):67–72.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Stepp MW, Salazar-González RA, Hong KU, Doll MA, Hein DW. <strong>N-acetyltransferase 1 knockout elevates acetyl coenzyme A levels and reduces anchorage-independent growth in human breast cancer cell lines.</strong> <em>J Oncol. 2019;2019:3860426.</em>",
+        "cleanText": "Stepp MW, Salazar-González RA, Hong KU, Doll MA, Hein DW. N-acetyltransferase 1 knockout elevates acetyl coenzyme A levels and reduces anchorage-independent growth in human breast cancer cell lines. J Oncol. 2019;2019:3860426.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Shi H, Hardesty JE, Jin J, et al. <strong>Concentration dependence of human and mouse aryl hydrocarbon receptor responsiveness to polychlorinated biphenyl exposures: Implications for Aroclor mixtures.</strong> <em>Xenobiotica. 2019;49(12):1414–1422.</em>",
+        "cleanText": "Shi H, Hardesty JE, Jin J, et al. Concentration dependence of human and mouse aryl hydrocarbon receptor responsiveness to polychlorinated biphenyl exposures: Implications for Aroclor mixtures. Xenobiotica. 2019;49(12):1414–1422.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Wahlang B, Jin J, Beier JI, et al. <strong>Mechanisms of environmental contributions to fatty liver disease.</strong> <em>Curr Environ Health Rep. 2019;6(3):80–94.</em>",
+        "cleanText": "Wahlang B, Jin J, Beier JI, et al. Mechanisms of environmental contributions to fatty liver disease. Curr Environ Health Rep. 2019;6(3):80–94.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Young JL, Yan X, Xu J, et al. <strong>Cadmium and high-fat diet disrupt renal, cardiac and hepatic essential metals.</strong> <em>Sci Rep. 2019;9:14675.</em>",
+        "cleanText": "Young JL, Yan X, Xu J, et al. Cadmium and high-fat diet disrupt renal, cardiac and hepatic essential metals. Sci Rep. 2019;9:14675.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2019",
+        "content": "Wahlang B, Hardesty JE, Jin J, Falkner KC, Cave MC. <strong>Polychlorinated biphenyls and nonalcoholic fatty liver disease.</strong> <em>Curr Opin Toxicol. 2019;14:21–28.</em>",
+        "cleanText": "Wahlang B, Hardesty JE, Jin J, Falkner KC, Cave MC. Polychlorinated biphenyls and nonalcoholic fatty liver disease. Curr Opin Toxicol. 2019;14:21–28.",
+        "pmid": null,
+        "pmidLink": null
+      }
+    ],
+    "2020": [
+      {
+        "year": "2020",
+        "content": "Lang AL, Goldsmith WT, Schnegelberger RD, Arteel GE, Beier JI. <strong>Vinyl chloride and high-fat diet as a model of environment and obesity interaction.</strong> <em>J Vis Exp. 2020;(155).</em>",
+        "cleanText": "Lang AL, Goldsmith WT, Schnegelberger RD, Arteel GE, Beier JI. Vinyl chloride and high-fat diet as a model of environment and obesity interaction. J Vis Exp. 2020;(155).",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Vatsalya V, Gala KS, Mishra M, et al. <strong>Lower serum magnesium concentrations are associated with specific heavy drinking markers, pro-inflammatory response and early-stage alcohol-associated liver injury.</strong> <em>Alcohol Alcohol. 2020;55(2):164–170.</em>",
+        "cleanText": "Vatsalya V, Gala KS, Mishra M, et al. Lower serum magnesium concentrations are associated with specific heavy drinking markers, pro-inflammatory response and early-stage alcohol-associated liver injury. Alcohol Alcohol. 2020;55(2):164–170.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Werder EJ, Beier JI, Sandler DP, et al. <strong>Blood BTEXS and heavy metal levels are associated with liver injury and systemic inflammation in Gulf States residents.</strong> <em>Food Chem Toxicol. 2020;139:111242.</em>",
+        "cleanText": "Werder EJ, Beier JI, Sandler DP, et al. Blood BTEXS and heavy metal levels are associated with liver injury and systemic inflammation in Gulf States residents. Food Chem Toxicol. 2020;139:111242.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Jin J, Wahlang B, Shi H, et al. <strong>Dioxin-like and non-dioxin-like PCBs differentially regulate the hepatic proteome and modify diet-induced nonalcoholic fatty liver disease severity.</strong> <em>Med Chem Res. 2020;29:1247–1263.</em>",
+        "cleanText": "Jin J, Wahlang B, Shi H, et al. Dioxin-like and non-dioxin-like PCBs differentially regulate the hepatic proteome and modify diet-induced nonalcoholic fatty liver disease severity. Med Chem Res. 2020;29:1247–1263.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Das S, McClain CJ, Rai SN. <strong>Fifteen years of gene set analysis for high-throughput genomic data: A review of statistical approaches and future challenges.</strong> <em>Entropy (Basel). 2020;22(4).</em>",
+        "cleanText": "Das S, McClain CJ, Rai SN. Fifteen years of gene set analysis for high-throughput genomic data: A review of statistical approaches and future challenges. Entropy (Basel). 2020;22(4).",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Li F, Zhao C, Shao T, et al. <strong>Cathelicidin-related antimicrobial peptide alleviates alcoholic liver disease through inhibiting inflammasome activation.</strong> <em>J Pathol. 2020;252(4):371–383.</em>",
+        "cleanText": "Li F, Zhao C, Shao T, et al. Cathelicidin-related antimicrobial peptide alleviates alcoholic liver disease through inhibiting inflammasome activation. J Pathol. 2020;252(4):371–383.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Vatsalya V, Gala KS, Hassan AZ, et al. <strong>Characterization of early-stage alcoholic liver disease with hyperhomocysteinemia and gut dysfunction and associated immune response in alcohol use disorder patients.</strong> <em>Biomedicines. 2020;9(1).</em>",
+        "cleanText": "Vatsalya V, Gala KS, Hassan AZ, et al. Characterization of early-stage alcoholic liver disease with hyperhomocysteinemia and gut dysfunction and associated immune response in alcohol use disorder patients. Biomedicines. 2020;9(1).",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Kirpich IA, Warner DR, Feng W, et al. <strong>Mechanisms, biomarkers and targets for therapy in alcohol-associated liver injury: From genetics to nutrition (ISBRA 2018 symposium summary).</strong> <em>Alcohol. 2020;83:105–114.</em>",
+        "cleanText": "Kirpich IA, Warner DR, Feng W, et al. Mechanisms, biomarkers and targets for therapy in alcohol-associated liver injury: From genetics to nutrition (ISBRA 2018 symposium summary). Alcohol. 2020;83:105–114.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Gooding JR, Agrawal S, McRitchie S, et al. <strong>Predicting and defining steroid resistance in pediatric nephrotic syndrome using plasma metabolomics.</strong> <em>Kidney Int Rep. 2020;5(1):81–93.</em>",
+        "cleanText": "Gooding JR, Agrawal S, McRitchie S, et al. Predicting and defining steroid resistance in pediatric nephrotic syndrome using plasma metabolomics. Kidney Int Rep. 2020;5(1):81–93.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Liu Q, Liu Y, Li F, et al. <strong>Probiotic culture supernatant improves metabolic function through FGF21-adiponectin pathway in mice.</strong> <em>J Nutr Biochem. 2020;75:108256.</em>",
+        "cleanText": "Liu Q, Liu Y, Li F, et al. Probiotic culture supernatant improves metabolic function through FGF21-adiponectin pathway in mice. J Nutr Biochem. 2020;75:108256.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Wahlang B, Appana S, Falkner KC, et al. <strong>Insecticide and metal exposures are associated with a surrogate biomarker for non-alcoholic fatty liver disease in NHANES 2003–2004.</strong> <em>Environ Sci Pollut Res Int. 2020;27(6):6476–6487.</em>",
+        "cleanText": "Wahlang B, Appana S, Falkner KC, et al. Insecticide and metal exposures are associated with a surrogate biomarker for non-alcoholic fatty liver disease in NHANES 2003–2004. Environ Sci Pollut Res Int. 2020;27(6):6476–6487.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Liu Y, Chen K, Li F, et al. <strong>Probiotic Lactobacillus rhamnosus GG prevents liver fibrosis through inhibiting hepatic bile acid synthesis and enhancing bile acid excretion in mice.</strong> <em>Hepatology. 2020;71(6):2050–2066.</em>",
+        "cleanText": "Liu Y, Chen K, Li F, et al. Probiotic Lactobacillus rhamnosus GG prevents liver fibrosis through inhibiting hepatic bile acid synthesis and enhancing bile acid excretion in mice. Hepatology. 2020;71(6):2050–2066.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Wahlang B, Hardesty JE, Head KZ, et al. <strong>Hepatic injury caused by the environmental toxicant vinyl chloride is sex-dependent in mice.</strong> <em>Toxicol Sci. 2020;174(1):79–91.</em>",
+        "cleanText": "Wahlang B, Hardesty JE, Head KZ, et al. Hepatic injury caused by the environmental toxicant vinyl chloride is sex-dependent in mice. Toxicol Sci. 2020;174(1):79–91.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Donde H, Ghare S, Joshi-Barve S, et al. <strong>Tributyrin inhibits ethanol-induced epigenetic repression of CPT-1A and attenuates hepatic steatosis and injury.</strong> <em>Cell Mol Gastroenterol Hepatol. 2020;9(4):569–585.</em>",
+        "cleanText": "Donde H, Ghare S, Joshi-Barve S, et al. Tributyrin inhibits ethanol-induced epigenetic repression of CPT-1A and attenuates hepatic steatosis and injury. Cell Mol Gastroenterol Hepatol. 2020;9(4):569–585.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Dasarathy S, Mitchell MC, Barton B, et al. <strong>Design and rationale of a multicenter defeat alcoholic steatohepatitis trial (DASH): Randomized clinical trial to treat alcohol-associated hepatitis.</strong> <em>Contemp Clin Trials. 2020;96:106094.</em>",
+        "cleanText": "Dasarathy S, Mitchell MC, Barton B, et al. Design and rationale of a multicenter defeat alcoholic steatohepatitis trial (DASH): Randomized clinical trial to treat alcohol-associated hepatitis. Contemp Clin Trials. 2020;96:106094.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Watson WH, Greenwell JC, Zheng Y, et al. <strong>Impact of sex, age and diet on the cysteine/cystine and glutathione/glutathione disulfide plasma redox couples in mice.</strong> <em>J Nutr Biochem. 2020;84:108431.</em>",
+        "cleanText": "Watson WH, Greenwell JC, Zheng Y, et al. Impact of sex, age and diet on the cysteine/cystine and glutathione/glutathione disulfide plasma redox couples in mice. J Nutr Biochem. 2020;84:108431.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Vatsalya V, Li F, Frimodig J, et al. <strong>Repurposing treatment of Wernicke-Korsakoff syndrome for Th-17 cell immune storm syndrome and neurological symptoms in COVID-19: Thiamine efficacy and safety, in-vitro evidence and pharmacokinetic profile.</strong> <em>Front Pharmacol. 2020;11:598128.</em>",
+        "cleanText": "Vatsalya V, Li F, Frimodig J, et al. Repurposing treatment of Wernicke-Korsakoff syndrome for Th-17 cell immune storm syndrome and neurological symptoms in COVID-19: Thiamine efficacy and safety, in-vitro evidence and pharmacokinetic profile. Front Pharmacol. 2020;11:598128.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Habil MR, Doll MA, Hein DW. <strong>N-acetyltransferase 2 acetylator genotype-dependent N-acetylation of 4-aminobiphenyl in cryopreserved human hepatocytes.</strong> <em>Pharmacogenet Genomics. 2020;30(3):61–65.</em>",
+        "cleanText": "Habil MR, Doll MA, Hein DW. N-acetyltransferase 2 acetylator genotype-dependent N-acetylation of 4-aminobiphenyl in cryopreserved human hepatocytes. Pharmacogenet Genomics. 2020;30(3):61–65.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Banerjee M, Ferragut Cardoso AP, Lykoudi A, et al. <strong>Arsenite exposure displaces zinc from ZRANB2 leading to altered splicing.</strong> <em>Chem Res Toxicol. 2020;33(6):1403–1417.</em>",
+        "cleanText": "Banerjee M, Ferragut Cardoso AP, Lykoudi A, et al. Arsenite exposure displaces zinc from ZRANB2 leading to altered splicing. Chem Res Toxicol. 2020;33(6):1403–1417.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Vatsalya V, Li F, Frimodig J, et al. <em>Characterization of early-stage alcoholic liver disease with hyperhomocysteinemia and gut dysfunction… Biomedicines. 2020;9.</em>",
+        "cleanText": "Vatsalya V, Li F, Frimodig J, et al. Characterization of early-stage alcoholic liver disease with hyperhomocysteinemia and gut dysfunction… Biomedicines. 2020;9.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Vatsalya V, Cave MC, Kong M, et al. <strong>Keratin 18 is a diagnostic and prognostic factor for acute alcoholic hepatitis.</strong> <em>Clin Gastroenterol Hepatol. 2020;18(9):2046–2054.</em>",
+        "cleanText": "Vatsalya V, Cave MC, Kong M, et al. Keratin 18 is a diagnostic and prognostic factor for acute alcoholic hepatitis. Clin Gastroenterol Hepatol. 2020;18(9):2046–2054.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Singhvi A, Abromitis R, Althouse AD, et al. <strong>Coexistence of alcohol-related pancreatitis and alcohol-related liver disease: A systematic review and meta-analysis.</strong> <em>Pancreatology. 2020;20(6):1069–1077.</em>",
+        "cleanText": "Singhvi A, Abromitis R, Althouse AD, et al. Coexistence of alcohol-related pancreatitis and alcohol-related liver disease: A systematic review and meta-analysis. Pancreatology. 2020;20(6):1069–1077.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Salazar-González RA, Doll MA, Hein DW. <strong>Human arylamine N-acetyltransferase 2 genotype-dependent protein expression in cryopreserved human hepatocytes.</strong> <em>Sci Rep. 2020;10:7566.</em>",
+        "cleanText": "Salazar-González RA, Doll MA, Hein DW. Human arylamine N-acetyltransferase 2 genotype-dependent protein expression in cryopreserved human hepatocytes. Sci Rep. 2020;10:7566.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Yuan F, Yun Y, Fan H, et al. <strong>MicroRNA-135a protects against ethanol-induced apoptosis in neural crest cells and craniofacial defects in zebrafish by modulating the Siah1/p38/p53 pathway.</strong> <em>Front Cell Dev Biol. 2020;8:583959.</em>",
+        "cleanText": "Yuan F, Yun Y, Fan H, et al. MicroRNA-135a protects against ethanol-induced apoptosis in neural crest cells and craniofacial defects in zebrafish by modulating the Siah1/p38/p53 pathway. Front Cell Dev Biol. 2020;8:583959.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Elnagdy M, Barve S, McClain C, Gobejishvili L. <strong>cAMP signaling in pathobiology of alcohol-associated liver disease.</strong> <em>Biomolecules. 2020;10(10):1430.</em>",
+        "cleanText": "Elnagdy M, Barve S, McClain C, Gobejishvili L. cAMP signaling in pathobiology of alcohol-associated liver disease. Biomolecules. 2020;10(10):1430.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Vatsalya V. <strong>Novel biomarker for the diagnosis and prognosis of acute alcoholic hepatitis.</strong> <em>Clin Exp Pharmacol. 2020;10(4).</em>",
+        "cleanText": "Vatsalya V. Novel biomarker for the diagnosis and prognosis of acute alcoholic hepatitis. Clin Exp Pharmacol. 2020;10(4).",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Gala KS, Vatsalya V. <strong>Emerging noninvasive biomarkers and medical management strategies for alcoholic hepatitis: Present understanding and scope.</strong> <em>Cells. 2020;9(3):586.</em>",
+        "cleanText": "Gala KS, Vatsalya V. Emerging noninvasive biomarkers and medical management strategies for alcoholic hepatitis: Present understanding and scope. Cells. 2020;9(3):586.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Vatsalya V, Kong M, Marsano LM, et al. <strong>Interaction of heavy drinking patterns and depression severity predicts efficacy of quetiapine fumarate XR in lowering alcohol intake in alcohol use disorder patients.</strong> <em>Subst Abuse: Res Treat. 2020;14:1178221820955185.</em>",
+        "cleanText": "Vatsalya V, Kong M, Marsano LM, et al. Interaction of heavy drinking patterns and depression severity predicts efficacy of quetiapine fumarate XR in lowering alcohol intake in alcohol use disorder patients. Subst Abuse: Res Treat. 2020;14:1178221820955185.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Cave MC. <strong>Environmental pollution and the developmental origins of childhood liver disease.</strong> <em>Hepatology. 2020;72(5):1518–1521.</em>",
+        "cleanText": "Cave MC. Environmental pollution and the developmental origins of childhood liver disease. Hepatology. 2020;72(5):1518–1521.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Zheng Y, Merchant ML, Burke TJ, et al. <strong>Redox states of protein cysteines in pathways of protein turnover and cytoskeleton dynamics are changed with aging and reversed by Slc7a11 restoration in mouse lung fibroblasts.</strong> <em>Oxid Med Cell Longev. 2020;2020:2468986.</em>",
+        "cleanText": "Zheng Y, Merchant ML, Burke TJ, et al. Redox states of protein cysteines in pathways of protein turnover and cytoskeleton dynamics are changed with aging and reversed by Slc7a11 restoration in mouse lung fibroblasts. Oxid Med Cell Longev. 2020;2020:2468986.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Warner J, Hardesty J, Zirnheld K, et al. <strong>Soluble epoxide hydrolase inhibition in liver diseases: A review of current research and knowledge gaps.</strong> <em>Biology (Basel). 2020;9(6):133.</em>",
+        "cleanText": "Warner J, Hardesty J, Zirnheld K, et al. Soluble epoxide hydrolase inhibition in liver diseases: A review of current research and knowledge gaps. Biology (Basel). 2020;9(6):133.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Rai SN, Qian C, Pan J, et al. <strong>Statistical issues and group classification in plasma microRNA studies with data application.</strong> <em>Evol Bioinform Online. 2020;16:1176934320913338.</em>",
+        "cleanText": "Rai SN, Qian C, Pan J, et al. Statistical issues and group classification in plasma microRNA studies with data application. Evol Bioinform Online. 2020;16:1176934320913338.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Samuel G, Crow J, Klein JB, et al. <strong>Ewing sarcoma family of tumors-derived small extracellular vesicle proteomics identify potential clinical biomarkers.</strong> <em>Oncotarget. 2020;11(31):2995–3012.</em>",
+        "cleanText": "Samuel G, Crow J, Klein JB, et al. Ewing sarcoma family of tumors-derived small extracellular vesicle proteomics identify potential clinical biomarkers. Oncotarget. 2020;11(31):2995–3012.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Isaacson RH, Beier JI, Khoo NK, et al. <strong>Olanzapine-induced liver injury in mice: Aggravation by high-fat diet and protection with sulforaphane.</strong> <em>J Nutr Biochem. 2020;81:108399.</em>",
+        "cleanText": "Isaacson RH, Beier JI, Khoo NK, et al. Olanzapine-induced liver injury in mice: Aggravation by high-fat diet and protection with sulforaphane. J Nutr Biochem. 2020;81:108399.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Agrawal S, Merchant ML, Kino J, et al. <strong>Predicting and defining steroid resistance in pediatric nephrotic syndrome using plasma proteomics.</strong> <em>Kidney Int Rep. 2020;5(1):66–80.</em>",
+        "cleanText": "Agrawal S, Merchant ML, Kino J, et al. Predicting and defining steroid resistance in pediatric nephrotic syndrome using plasma proteomics. Kidney Int Rep. 2020;5(1):66–80.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2020",
+        "content": "Sundaram K, Miller DP, Kumar A, et al. <strong>Plant-derived exosomal nanoparticles inhibit pathogenicity of Porphyromonas gingivalis.</strong> <em>iScience. 2020;23:100869.</em>",
+        "cleanText": "Sundaram K, Miller DP, Kumar A, et al. Plant-derived exosomal nanoparticles inhibit pathogenicity of Porphyromonas gingivalis. iScience. 2020;23:100869.",
+        "pmid": null,
+        "pmidLink": null
+      }
+    ],
+    "2021": [
+      {
+        "year": "2021",
+        "content": "Warner DR, et al. <strong>Beneficial effects of endogenous enrichment in n-3 PUFAs on Wnt signaling are associated with attenuation of alcohol-mediated liver disease in mice.</strong> <em>FASEB J. 2021;35(2):e21377.</em>",
+        "cleanText": "Warner DR, et al. Beneficial effects of endogenous enrichment in n-3 PUFAs on Wnt signaling are associated with attenuation of alcohol-mediated liver disease in mice. FASEB J. 2021;35(2):e21377.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Li F, et al. <strong>Deficiency of cathelicidin attenuates high-fat diet plus alcohol-induced liver injury through FGF21/adiponectin regulation.</strong> <em>Cells. 2021;10(12).</em>",
+        "cleanText": "Li F, et al. Deficiency of cathelicidin attenuates high-fat diet plus alcohol-induced liver injury through FGF21/adiponectin regulation. Cells. 2021;10(12).",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Biyik-Sit R, et al. <strong>Nuclear pyruvate kinase M2 contributes to PSAT1-mediated cell migration in EGFR-activated lung cancer cells.</strong> <em>Cancers (Basel). 2021;13(16).</em>",
+        "cleanText": "Biyik-Sit R, et al. Nuclear pyruvate kinase M2 contributes to PSAT1-mediated cell migration in EGFR-activated lung cancer cells. Cancers (Basel). 2021;13(16).",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Fan X, et al. <strong>Diagnostic and prognostic significance of complement in patients with alcohol-associated hepatitis.</strong> <em>Hepatology. 2021;73(3):983–997.</em>",
+        "cleanText": "Fan X, et al. Diagnostic and prognostic significance of complement in patients with alcohol-associated hepatitis. Hepatology. 2021;73(3):983–997.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Gu Z, et al. <strong>Exosome-like nanoparticles from Lactobacillus rhamnosus GG protect against alcohol-associated liver disease through intestinal aryl hydrocarbon receptor.</strong> <em>Hepatol Commun. 2021;5(5):846–864.</em>",
+        "cleanText": "Gu Z, et al. Exosome-like nanoparticles from Lactobacillus rhamnosus GG protect against alcohol-associated liver disease through intestinal aryl hydrocarbon receptor. Hepatol Commun. 2021;5(5):846–864.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "McClain CJ, et al. <strong>Malnutrition and alcohol-associated hepatitis.</strong> <em>Clin Liver Dis. 2021;25(3):557–570.</em>",
+        "cleanText": "McClain CJ, et al. Malnutrition and alcohol-associated hepatitis. Clin Liver Dis. 2021;25(3):557–570.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Perpich JD, et al. <strong>Identification and characterization of a UbK family kinase in Porphyromonas gingivalis that phosphorylates the RprY response regulator.</strong> <em>Mol Oral Microbiol. 2021;36(5):258–266.</em>",
+        "cleanText": "Perpich JD, et al. Identification and characterization of a UbK family kinase in Porphyromonas gingivalis that phosphorylates the RprY response regulator. Mol Oral Microbiol. 2021;36(5):258–266.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Warner D, et al. <strong>Linoleic acid–derived oxylipins differentiate early-stage alcoholic hepatitis from mild alcohol-associated liver injury.</strong> <em>Hepatol Commun. 2021;5(6):947–960.</em>",
+        "cleanText": "Warner D, et al. Linoleic acid–derived oxylipins differentiate early-stage alcoholic hepatitis from mild alcohol-associated liver injury. Hepatol Commun. 2021;5(6):947–960.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Song M, et al. <strong>Analysis of sex differences in dietary copper–fructose interaction–induced alterations of gut microbial activity in relation to hepatic steatosis.</strong> <em>Biol Sex Differ. 2021;12(1):3.</em>",
+        "cleanText": "Song M, et al. Analysis of sex differences in dietary copper–fructose interaction–induced alterations of gut microbial activity in relation to hepatic steatosis. Biol Sex Differ. 2021;12(1):3.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Bhattacharyya A, et al. <strong>Coronavirus (COVID-19): A systematic review and meta-analysis to evaluate the significance of demographics and comorbidities.</strong> <em>Res Sq. 2021.</em>",
+        "cleanText": "Bhattacharyya A, et al. Coronavirus (COVID-19): A systematic review and meta-analysis to evaluate the significance of demographics and comorbidities. Res Sq. 2021.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Hardesty JE, et al. <strong>Ileum gene expression in response to acute systemic inflammation in mice chronically fed ethanol: Beneficial effects of elevated tissue n-3 PUFAs.</strong> <em>Int J Mol Sci. 2021;22(4).</em>",
+        "cleanText": "Hardesty JE, et al. Ileum gene expression in response to acute systemic inflammation in mice chronically fed ethanol: Beneficial effects of elevated tissue n-3 PUFAs. Int J Mol Sci. 2021;22(4).",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Hardesty JE, et al. <strong>Effect of epidermal growth factor treatment and polychlorinated biphenyl exposure in a dietary-exposure mouse model of steatohepatitis.</strong> <em>Environ Health Perspect. 2021;129(3):037010.</em>",
+        "cleanText": "Hardesty JE, et al. Effect of epidermal growth factor treatment and polychlorinated biphenyl exposure in a dietary-exposure mouse model of steatohepatitis. Environ Health Perspect. 2021;129(3):037010.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Landers VD, et al. <strong>The alphaviral capsid protein inhibits IRAK1-dependent TLR signaling.</strong> <em>Viruses. 2021;13(3).</em>",
+        "cleanText": "Landers VD, et al. The alphaviral capsid protein inhibits IRAK1-dependent TLR signaling. Viruses. 2021;13(3).",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Vatsalya V, et al. <strong>Efficacy of thiamine and medical management in treating hyperuricemia in AUD patients with ALD.</strong> <em>Clin Exp Pharmacol. 2021;11(Suppl 7).</em>",
+        "cleanText": "Vatsalya V, et al. Efficacy of thiamine and medical management in treating hyperuricemia in AUD patients with ALD. Clin Exp Pharmacol. 2021;11(Suppl 7).",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Lei C, et al. <strong>Lemon exosome-like nanoparticles enhance stress survival of gut bacteria by RNase P-mediated specific tRNA decay.</strong> <em>iScience. 2021;24(6):102511.</em>",
+        "cleanText": "Lei C, et al. Lemon exosome-like nanoparticles enhance stress survival of gut bacteria by RNase P-mediated specific tRNA decay. iScience. 2021;24(6):102511.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Liang N, et al. <strong>Feeding mice a diet high in oxidized linoleic acid metabolites does not alter liver oxylipin concentrations.</strong> <em>Prostaglandins Leukot Essent Fatty Acids. 2021;172:102316.</em>",
+        "cleanText": "Liang N, et al. Feeding mice a diet high in oxidized linoleic acid metabolites does not alter liver oxylipin concentrations. Prostaglandins Leukot Essent Fatty Acids. 2021;172:102316.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "McClain CJ, Vatsalya V, Mitchell MC. <strong>Keratin-18: Diagnostic, prognostic, and theragnostic for alcohol-associated hepatitis.</strong> <em>Am J Gastroenterol. 2021;116(1):77–79.</em>",
+        "cleanText": "McClain CJ, Vatsalya V, Mitchell MC. Keratin-18: Diagnostic, prognostic, and theragnostic for alcohol-associated hepatitis. Am J Gastroenterol. 2021;116(1):77–79.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Xu G, Song M. <strong>Recent advances in the mechanisms underlying the beneficial effects of bariatric and metabolic surgery.</strong> <em>Surg Obes Relat Dis. 2021;17(1):231–238.</em>",
+        "cleanText": "Xu G, Song M. Recent advances in the mechanisms underlying the beneficial effects of bariatric and metabolic surgery. Surg Obes Relat Dis. 2021;17(1):231–238.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Morrissey SM, Geller AE, Hu X, et al. <strong>A specific low-density neutrophil population correlates with hypercoagulation and disease severity in hospitalized COVID-19 patients.</strong> <em>JCI Insight. 2021;6(9).</em>",
+        "cleanText": "Morrissey SM, Geller AE, Hu X, et al. A specific low-density neutrophil population correlates with hypercoagulation and disease severity in hospitalized COVID-19 patients. JCI Insight. 2021;6(9).",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Guardiola JJ, Hardesty JE, Beier JI, et al. <strong>Plasma metabolomics analysis of polyvinyl chloride workers identifies altered processes and candidate biomarkers for hepatic hemangiosarcoma and its development.</strong> <em>Int J Mol Sci. 2021;22(10).</em>",
+        "cleanText": "Guardiola JJ, Hardesty JE, Beier JI, et al. Plasma metabolomics analysis of polyvinyl chloride workers identifies altered processes and candidate biomarkers for hepatic hemangiosarcoma and its development. Int J Mol Sci. 2021;22(10).",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Kumar A, Ren Y, Sundaram K, et al. <strong>miR-375 prevents high-fat diet-induced insulin resistance and obesity by targeting the aryl hydrocarbon receptor and bacterial tryptophanase (tnaA) gene.</strong> <em>Theranostics. 2021;11(9):4061–4077.</em>",
+        "cleanText": "Kumar A, Ren Y, Sundaram K, et al. miR-375 prevents high-fat diet-induced insulin resistance and obesity by targeting the aryl hydrocarbon receptor and bacterial tryptophanase (tnaA) gene. Theranostics. 2021;11(9):4061–4077.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Teng Y, Xu F, Zhang X, et al. <strong>Plant-derived exosomal microRNAs inhibit lung inflammation induced by exosomes SARS-CoV-2 Nsp12.</strong> <em>Mol Ther. 2021;29(8):2424–2440.</em>",
+        "cleanText": "Teng Y, Xu F, Zhang X, et al. Plant-derived exosomal microRNAs inhibit lung inflammation induced by exosomes SARS-CoV-2 Nsp12. Mol Ther. 2021;29(8):2424–2440.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "He L, Vatsalya V, Ma X, et al. <strong>Metabolic profiling of bile acids in the urine of patients with alcohol-associated liver disease.</strong> <em>Hepatol Commun. 2021;5(5):798–811.</em>",
+        "cleanText": "He L, Vatsalya V, Ma X, et al. Metabolic profiling of bile acids in the urine of patients with alcohol-associated liver disease. Hepatol Commun. 2021;5(5):798–811.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Caster DJ, Merchant ML. <strong>Collagen remodeling biomarkers in lupus nephritis.</strong> <em>Kidney360. 2021;2(9):1395–1398.</em>",
+        "cleanText": "Caster DJ, Merchant ML. Collagen remodeling biomarkers in lupus nephritis. Kidney360. 2021;2(9):1395–1398.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Schneider G, Kaliappan A, Nguyen TQ, et al. <strong>The utility of differential scanning calorimetry curves of blood plasma for diagnosis, subtype differentiation, and predicted survival in lung cancer.</strong> <em>Cancers (Basel). 2021;13(21).</em>",
+        "cleanText": "Schneider G, Kaliappan A, Nguyen TQ, et al. The utility of differential scanning calorimetry curves of blood plasma for diagnosis, subtype differentiation, and predicted survival in lung cancer. Cancers (Basel). 2021;13(21).",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Paré G, Vitry J, Merchant ML, et al. <strong>The inhibitory receptor CLEC12A regulates PI3K-Akt signaling to inhibit neutrophil activation and cytokine release.</strong> <em>Front Immunol. 2021;12:650808.</em>",
+        "cleanText": "Paré G, Vitry J, Merchant ML, et al. The inhibitory receptor CLEC12A regulates PI3K-Akt signaling to inhibit neutrophil activation and cytokine release. Front Immunol. 2021;12:650808.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Kumar A, Sundaram K, Mu J, et al. <strong>High-fat diet–induced upregulation of exosomal phosphatidylcholine contributes to insulin resistance.</strong> <em>Nat Commun. 2021;12(1):213.</em>",
+        "cleanText": "Kumar A, Sundaram K, Mu J, et al. High-fat diet–induced upregulation of exosomal phosphatidylcholine contributes to insulin resistance. Nat Commun. 2021;12(1):213.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Miyata T, Wu X, Fan X, et al. <strong>Differential role of MLKL in alcohol-associated and non-alcohol-associated fatty liver diseases in mice and humans.</strong> <em>JCI Insight. 2021;6(4).</em>",
+        "cleanText": "Miyata T, Wu X, Fan X, et al. Differential role of MLKL in alcohol-associated and non-alcohol-associated fatty liver diseases in mice and humans. JCI Insight. 2021;6(4).",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Ghare SS, Chilton PM, Rao AV, et al. <strong>Epigenetic mechanisms underlying HIV-infection-induced susceptibility of CD4⁺ T cells to enhanced activation-induced FasL expression and cell death.</strong> <em>J Acquir Immune Defic Syndr. 2021;86(1):128–137.</em>",
+        "cleanText": "Ghare SS, Chilton PM, Rao AV, et al. Epigenetic mechanisms underlying HIV-infection-induced susceptibility of CD4⁺ T cells to enhanced activation-induced FasL expression and cell death. J Acquir Immune Defic Syndr. 2021;86(1):128–137.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Al-Rabadi LF, Caza TF, Trivin-Avillach C, et al. <strong>Serine protease HTRA1 as a novel target antigen in primary membranous nephropathy.</strong> <em>J Am Soc Nephrol. 2021;32(7):1666–1681.</em>",
+        "cleanText": "Al-Rabadi LF, Caza TF, Trivin-Avillach C, et al. Serine protease HTRA1 as a novel target antigen in primary membranous nephropathy. J Am Soc Nephrol. 2021;32(7):1666–1681.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Li Y, Fan H, Yuan F, et al. <strong>Sulforaphane protects against ethanol-induced apoptosis in human neural crest cells through diminishing ethanol-induced hypermethylation at the promoters of the genes encoding the inhibitor of apoptosis proteins.</strong> <em>Front Cell Dev Biol. 2021;9:622152.</em>",
+        "cleanText": "Li Y, Fan H, Yuan F, et al. Sulforaphane protects against ethanol-induced apoptosis in human neural crest cells through diminishing ethanol-induced hypermethylation at the promoters of the genes encoding the inhibitor of apoptosis proteins. Front Cell Dev Biol. 2021;9:622152.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Wahlang B, Gripshover TC, Gao H, et al. <strong>Associations between residential exposure to volatile organic compounds and liver injury markers.</strong> <em>Toxicol Sci. 2021;185(1):50–63.</em>",
+        "cleanText": "Wahlang B, Gripshover TC, Gao H, et al. Associations between residential exposure to volatile organic compounds and liver injury markers. Toxicol Sci. 2021;185(1):50–63.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Das S, Rai A, Merchant ML, Cave MC, Rai SN. <strong>A comprehensive survey of statistical approaches for differential expression analysis in single-cell RNA sequencing studies.</strong> <em>Genes (Basel). 2021;12(12).</em>",
+        "cleanText": "Das S, Rai A, Merchant ML, Cave MC, Rai SN. A comprehensive survey of statistical approaches for differential expression analysis in single-cell RNA sequencing studies. Genes (Basel). 2021;12(12).",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Warner JB, Larsen IS, Hardesty JE, et al. <strong>Human beta defensin 2 ameliorated alcohol-associated liver disease in mice.</strong> <em>Front Physiol. 2021;12:812882.</em>",
+        "cleanText": "Warner JB, Larsen IS, Hardesty JE, et al. Human beta defensin 2 ameliorated alcohol-associated liver disease in mice. Front Physiol. 2021;12:812882.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Kolonics F, Kajdácsi E, Farkas VJ, et al. <strong>Neutrophils produce proinflammatory or anti-inflammatory extracellular vesicles depending on the environmental conditions.</strong> <em>J Leukoc Biol. 2021;109(4):793–806.</em>",
+        "cleanText": "Kolonics F, Kajdácsi E, Farkas VJ, et al. Neutrophils produce proinflammatory or anti-inflammatory extracellular vesicles depending on the environmental conditions. J Leukoc Biol. 2021;109(4):793–806.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Hamorsky KT, Bushau-Sprinkle AM, Kitterman K, et al. <strong>Serological assessment of SARS-CoV-2 infection during the first wave of the pandemic in Louisville, Kentucky.</strong> <em>Sci Rep. 2021;11(1):18285.</em>",
+        "cleanText": "Hamorsky KT, Bushau-Sprinkle AM, Kitterman K, et al. Serological assessment of SARS-CoV-2 infection during the first wave of the pandemic in Louisville, Kentucky. Sci Rep. 2021;11(1):18285.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Bushau-Sprinkle AM, Barati MT, Zheng Y, et al. <strong>Na/H exchange regulatory factor 1 deficient mice show evidence of oxidative stress and altered cisplatin pharmacokinetics.</strong> <em>Antioxidants (Basel). 2021;10(7).</em>",
+        "cleanText": "Bushau-Sprinkle AM, Barati MT, Zheng Y, et al. Na/H exchange regulatory factor 1 deficient mice show evidence of oxidative stress and altered cisplatin pharmacokinetics. Antioxidants (Basel). 2021;10(7).",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Singhal R, Donde H, Ghare S, et al. <strong>Decrease in acetyl-CoA pathway–utilizing butyrate-producing bacteria is a key pathogenic feature of alcohol-induced functional gut microbial dysbiosis and development of liver disease in mice.</strong> <em>Gut Microbes. 2021;13(1):1946367.</em>",
+        "cleanText": "Singhal R, Donde H, Ghare S, et al. Decrease in acetyl-CoA pathway–utilizing butyrate-producing bacteria is a key pathogenic feature of alcohol-induced functional gut microbial dysbiosis and development of liver disease in mice. Gut Microbes. 2021;13(1):1946367.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2021",
+        "content": "Klinge CM, Piell KM, Petri BJ, et al. <strong>Combined exposure to polychlorinated biphenyls and high-fat diet modifies the global epitranscriptomic landscape in mouse liver.</strong> <em>Environ Epigenet. 2021;7(1):dvab008.</em>",
+        "cleanText": "Klinge CM, Piell KM, Petri BJ, et al. Combined exposure to polychlorinated biphenyls and high-fat diet modifies the global epitranscriptomic landscape in mouse liver. Environ Epigenet. 2021;7(1):dvab008.",
+        "pmid": null,
+        "pmidLink": null
+      }
+    ],
+    "2022": [
+      {
+        "year": "2022",
+        "content": "Xu F, Mu J, Teng Y, et al. <strong>Restoring oat nanoparticle-mediated brain memory function of mice fed alcohol by sorting inflammatory Dectin-1 complex into microglial exosomes.</strong> <em>Small. 2022;18(6):e2105385.</em>",
+        "cleanText": "Xu F, Mu J, Teng Y, et al. Restoring oat nanoparticle-mediated brain memory function of mice fed alcohol by sorting inflammatory Dectin-1 complex into microglial exosomes. Small. 2022;18(6):e2105385.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2022",
+        "content": "Salazar-González RA, et al. <strong>Arylamine N-acetyltransferase 1 activity is regulated by the protein acetylation status.</strong> <em>Front Pharmacol. 2022;13:797469.</em>",
+        "cleanText": "Salazar-González RA, et al. Arylamine N-acetyltransferase 1 activity is regulated by the protein acetylation status. Front Pharmacol. 2022;13:797469.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2022",
+        "content": "Sundaram K, et al. <strong>Garlic exosome-like nanoparticles reverse high-fat diet–induced obesity via the gut/brain axis.</strong> <em>Theranostics. 2022;12(3):1220–1246.</em>",
+        "cleanText": "Sundaram K, et al. Garlic exosome-like nanoparticles reverse high-fat diet–induced obesity via the gut/brain axis. Theranostics. 2022;12(3):1220–1246.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2022",
+        "content": "Hardesty J, et al. <strong>Hepatic protein and phosphoprotein signatures of alcohol-associated cirrhosis and hepatitis.</strong> <em>Am J Pathol. 2022;192(7):1066–1082.</em>",
+        "cleanText": "Hardesty J, et al. Hepatic protein and phosphoprotein signatures of alcohol-associated cirrhosis and hepatitis. Am J Pathol. 2022;192(7):1066–1082.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2022",
+        "content": "Sriwastva MK, et al. <strong>Exosome-like nanoparticles from mulberry bark prevent DSS-induced colitis via the AhR/COPS8 pathway.</strong> <em>EMBO Rep. 2022;23(3):e53365.</em>",
+        "cleanText": "Sriwastva MK, et al. Exosome-like nanoparticles from mulberry bark prevent DSS-induced colitis via the AhR/COPS8 pathway. EMBO Rep. 2022;23(3):e53365.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2022",
+        "content": "Hardesty J, et al. <strong>Alterations in hepatic albumin phosphorylation in patients with alcohol-associated hepatitis and cirrhosis.</strong> <em>FASEB J. 2022;36(Suppl 1).</em>",
+        "cleanText": "Hardesty J, et al. Alterations in hepatic albumin phosphorylation in patients with alcohol-associated hepatitis and cirrhosis. FASEB J. 2022;36(Suppl 1).",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2022",
+        "content": "Hu H, et al. <strong>Prevalence and treatment for alcohol use disorders based on Kentucky Medicaid 2012–2019 datasets.</strong> <em>J Alcohol Drug Depend. 2022;10.</em>",
+        "cleanText": "Hu H, et al. Prevalence and treatment for alcohol use disorders based on Kentucky Medicaid 2012–2019 datasets. J Alcohol Drug Depend. 2022;10.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2022",
+        "content": "Kim S, Kato I, Zhang X. <strong>Comparative analysis of binary similarity measures for compound identification in mass spectrometry–based metabolomics.</strong> <em>Metabolites. 2022;12(8).</em>",
+        "cleanText": "Kim S, Kato I, Zhang X. Comparative analysis of binary similarity measures for compound identification in mass spectrometry–based metabolomics. Metabolites. 2022;12(8).",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2022",
+        "content": "Lei C, et al. <strong>Enteric VIP-producing neurons maintain gut microbiota homeostasis through regulating epithelium fucosylation.</strong> <em>Cell Host Microbe. 2022;30(10):1417–1434.e8.</em>",
+        "cleanText": "Lei C, et al. Enteric VIP-producing neurons maintain gut microbiota homeostasis through regulating epithelium fucosylation. Cell Host Microbe. 2022;30(10):1417–1434.e8.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2022",
+        "content": "Hong KU, et al. <strong>Proteomic analysis of arylamine N-acetyltransferase 1 knockout breast cancer cells: Implications in immune evasion and mitochondrial biogenesis.</strong> <em>Toxicol Rep. 2022;9:1566–1573.</em>",
+        "cleanText": "Hong KU, et al. Proteomic analysis of arylamine N-acetyltransferase 1 knockout breast cancer cells: Implications in immune evasion and mitochondrial biogenesis. Toxicol Rep. 2022;9:1566–1573.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2022",
+        "content": "Teng Y, et al. <strong>Gut bacterial isoamylamine promotes age-related cognitive dysfunction by promoting microglial cell death.</strong> <em>Cell Host Microbe. 2022;30(7):944–960.e8.</em>",
+        "cleanText": "Teng Y, et al. Gut bacterial isoamylamine promotes age-related cognitive dysfunction by promoting microglial cell death. Cell Host Microbe. 2022;30(7):944–960.e8.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2022",
+        "content": "Srivastava S. <strong>Effects of environmental polycyclic aromatic hydrocarbon exposure and pro-inflammatory activity on type 2 diabetes mellitus in US adults.</strong> <em>Open J Air Pollut. 2022;11:29–46.</em>",
+        "cleanText": "Srivastava S. Effects of environmental polycyclic aromatic hydrocarbon exposure and pro-inflammatory activity on type 2 diabetes mellitus in US adults. Open J Air Pollut. 2022;11:29–46.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2022",
+        "content": "Cummins TD, et al. <strong>Quantitative mass spectrometry normalization in urine biomarker analysis in nephrotic syndrome.</strong> <em>Glomerular Dis. 2022;2(3):121–131.</em>",
+        "cleanText": "Cummins TD, et al. Quantitative mass spectrometry normalization in urine biomarker analysis in nephrotic syndrome. Glomerular Dis. 2022;2(3):121–131.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2022",
+        "content": "Helsley RN, et al. <strong>Gut microbial trimethylamine is elevated in alcohol-associated hepatitis and contributes to ethanol-induced liver injury in mice.</strong> <em>eLife. 2022;11:e.</em>",
+        "cleanText": "Helsley RN, et al. Gut microbial trimethylamine is elevated in alcohol-associated hepatitis and contributes to ethanol-induced liver injury in mice. eLife. 2022;11:e.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2022",
+        "content": "Cummins TD, et al. <strong>Advances in proteomic profiling of pediatric kidney diseases.</strong> <em>Pediatr Nephrol. 2022;37(10):2255–2265.</em>",
+        "cleanText": "Cummins TD, et al. Advances in proteomic profiling of pediatric kidney diseases. Pediatr Nephrol. 2022;37(10):2255–2265.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2022",
+        "content": "Hein DW, Doll MA, Habil MR. <strong>Human N-acetyltransferase 1 and 2 differ in affinity towards acetyl-CoA cofactor and N-hydroxy-arylamine carcinogens.</strong> <em>Front Pharmacol. 2022;13:821133.</em>",
+        "cleanText": "Hein DW, Doll MA, Habil MR. Human N-acetyltransferase 1 and 2 differ in affinity towards acetyl-CoA cofactor and N-hydroxy-arylamine carcinogens. Front Pharmacol. 2022;13:821133.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2022",
+        "content": "Ferragut Cardoso AP, et al. <strong>Temporal modulation of differential alternative splicing in HaCaT keratinocytes chronically exposed to arsenic.</strong> <em>Environ Health Perspect. 2022;130(1):17011.</em>",
+        "cleanText": "Ferragut Cardoso AP, et al. Temporal modulation of differential alternative splicing in HaCaT keratinocytes chronically exposed to arsenic. Environ Health Perspect. 2022;130(1):17011.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2022",
+        "content": "Watson WH, et al. <strong>Mice lacking α4 nicotinic acetylcholine receptors are protected against alcohol-associated liver injury.</strong> <em>Alcohol Clin Exp Res. 2022;46(8):1371–1383.</em>",
+        "cleanText": "Watson WH, et al. Mice lacking α4 nicotinic acetylcholine receptors are protected against alcohol-associated liver injury. Alcohol Clin Exp Res. 2022;46(8):1371–1383.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2022",
+        "content": "Szabo G, et al. <strong>Reply.</strong> <em>Hepatology. 2022;76(5):E114–E115.</em>",
+        "cleanText": "Szabo G, et al. Reply. Hepatology. 2022;76(5):E114–E115.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2022",
+        "content": "Hong KU, et al. <strong>Dataset for proteomic analysis of arylamine N-acetyltransferase 1 knockout MDA-MB-231 breast cancer cells.</strong> <em>Data Brief. 2022;45:108634.</em>",
+        "cleanText": "Hong KU, et al. Dataset for proteomic analysis of arylamine N-acetyltransferase 1 knockout MDA-MB-231 breast cancer cells. Data Brief. 2022;45:108634.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2022",
+        "content": "Cave MC, et al. <strong>Circulating microRNAs, polychlorinated biphenyls, and environmental liver disease in the Anniston Community Health Survey.</strong> <em>Environ Health Perspect. 2022;130(1):17003.</em>",
+        "cleanText": "Cave MC, et al. Circulating microRNAs, polychlorinated biphenyls, and environmental liver disease in the Anniston Community Health Survey. Environ Health Perspect. 2022;130(1):17003.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2022",
+        "content": "Kumar A, et al. <strong>Ginger nanoparticles–mediated induction of Foxa2 prevents high-fat diet–induced insulin resistance.</strong> <em>Theranostics. 2022;12(3):1388–1403.</em>",
+        "cleanText": "Kumar A, et al. Ginger nanoparticles–mediated induction of Foxa2 prevents high-fat diet–induced insulin resistance. Theranostics. 2022;12(3):1388–1403.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2022",
+        "content": "Szabo G, et al. <strong>IL-1 receptor antagonist plus pentoxifylline and zinc for severe alcohol-associated hepatitis.</strong> <em>Hepatology. 2022;76(4):1058–1068.</em>",
+        "cleanText": "Szabo G, et al. IL-1 receptor antagonist plus pentoxifylline and zinc for severe alcohol-associated hepatitis. Hepatology. 2022;76(4):1058–1068.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2022",
+        "content": "Sun R, et al. <strong>Alcohol-driven metabolic reprogramming promotes development of RORγt-deficient thymic lymphoma.</strong> <em>Oncogene. 2022;41(16):2287–2302.</em>",
+        "cleanText": "Sun R, et al. Alcohol-driven metabolic reprogramming promotes development of RORγt-deficient thymic lymphoma. Oncogene. 2022;41(16):2287–2302.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2022",
+        "content": "Ghare S, et al. <strong>Age-associated gut dysbiosis… in older people living with HIV.</strong> <em>J Acquir Immune Defic Syndr. 2022;89(Suppl 1):S56–S64.</em>",
+        "cleanText": "Ghare S, et al. Age-associated gut dysbiosis… in older people living with HIV. J Acquir Immune Defic Syndr. 2022;89(Suppl 1):S56–S64.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2022",
+        "content": "Fulghum KL, et al. <strong>In vivo deep network tracing reveals phosphofructokinase-mediated coordination of biosynthetic pathway activity in the myocardium.</strong> <em>J Mol Cell Cardiol. 2022;162:32–42.</em>",
+        "cleanText": "Fulghum KL, et al. In vivo deep network tracing reveals phosphofructokinase-mediated coordination of biosynthetic pathway activity in the myocardium. J Mol Cell Cardiol. 2022;162:32–42.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2022",
+        "content": "Fan H, et al. <strong>Up-regulation of microRNA-34a mediates ethanol-induced impairment of neural crest cell migration… via Snail1.</strong> <em>Toxicol Lett. 2022;358:17–26.</em>",
+        "cleanText": "Fan H, et al. Up-regulation of microRNA-34a mediates ethanol-induced impairment of neural crest cell migration… via Snail1. Toxicol Lett. 2022;358:17–26.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2022",
+        "content": "Oh YJ, et al. <strong>Antitumor activity of a lectibody targeting cancer-associated high-mannose glycans.</strong> <em>Mol Ther. 2022;30(4):1523–1535.</em>",
+        "cleanText": "Oh YJ, et al. Antitumor activity of a lectibody targeting cancer-associated high-mannose glycans. Mol Ther. 2022;30(4):1523–1535.",
+        "pmid": null,
+        "pmidLink": null
+      }
+    ],
+    "2023": [
+      {
+        "year": "2023",
+        "content": "Xu R, He L, Vatsalya V, Ma X, Kim S, Mueller EG, Feng W, McClain CJ, Zhang X. <strong>Metabolomics analysis of urine from patients with alcohol-associated liver disease reveals dysregulated caffeine metabolism.</strong> <em>Am J Physiol Gastrointest Liver Physiol. 2023;324(2):G142–G154. 2023 Feb 1.</em>",
+        "cleanText": "Xu R, He L, Vatsalya V, Ma X, Kim S, Mueller EG, Feng W, McClain CJ, Zhang X. Metabolomics analysis of urine from patients with alcohol-associated liver disease reveals dysregulated caffeine metabolism. Am J Physiol Gastrointest Liver Physiol. 2023;324(2):G142–G154. 2023 Feb 1.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Vatsalya V, Verster JC, Sagaram M, et al. <strong>Novel paradigms for the gut-brain axis during alcohol withdrawal, withdrawal-associated depression, and craving in patients with alcohol use disorder.</strong> <em>Front Psychiatry. 2023;14:1203362.</em>",
+        "cleanText": "Vatsalya V, Verster JC, Sagaram M, et al. Novel paradigms for the gut-brain axis during alcohol withdrawal, withdrawal-associated depression, and craving in patients with alcohol use disorder. Front Psychiatry. 2023;14:1203362.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Montoya-Durango D, Walter MN, Rodriguez W, et al. <strong>Dysregulated cyclic nucleotide metabolism in alcohol-associated steatohepatitis: Implications for novel targeted therapies.</strong> <em>Biology (Basel). 2023;12(10). 2023 Oct 10.</em>",
+        "cleanText": "Montoya-Durango D, Walter MN, Rodriguez W, et al. Dysregulated cyclic nucleotide metabolism in alcohol-associated steatohepatitis: Implications for novel targeted therapies. Biology (Basel). 2023;12(10). 2023 Oct 10.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Sagaram M, Frimodig J, Jayanty D, et al. <strong>One-month assessment of Th-cell axis related inflammatory cytokines IL-17 and IL-22 and their role in alcohol-associated liver disease.</strong> <em>Front Immunol. 2023;14:1202267.</em>",
+        "cleanText": "Sagaram M, Frimodig J, Jayanty D, et al. One-month assessment of Th-cell axis related inflammatory cytokines IL-17 and IL-22 and their role in alcohol-associated liver disease. Front Immunol. 2023;14:1202267.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Sayed K, Dolin CE, Wilkey DW, et al. <strong>A plasma peptidomic signature reveals extracellular matrix remodeling and predicts prognosis in alcohol-related hepatitis.</strong> <em>medRxiv. 2023 Dec 14.</em>",
+        "cleanText": "Sayed K, Dolin CE, Wilkey DW, et al. A plasma peptidomic signature reveals extracellular matrix remodeling and predicts prognosis in alcohol-related hepatitis. medRxiv. 2023 Dec 14.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Luo J, Watson WH, Gripshover TC, Qaissi Z, Wahlang B. <strong>Sex-specific effects of acute chlordane exposure in the context of steatotic liver disease, energy metabolism and endocrine disruption.</strong> <em>Food Chem Toxicol. 2023;180:114024.</em>",
+        "cleanText": "Luo J, Watson WH, Gripshover TC, Qaissi Z, Wahlang B. Sex-specific effects of acute chlordane exposure in the context of steatotic liver disease, energy metabolism and endocrine disruption. Food Chem Toxicol. 2023;180:114024.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Suresh K, Del Rosario O, Kallem M, et al. <strong>Tumor MK2 transcript levels are associated with improved response to chemotherapy and patient survival in non-small cell lung cancer.</strong> <em>Physiol Genomics. 2023;55(4):168–178.</em>",
+        "cleanText": "Suresh K, Del Rosario O, Kallem M, et al. Tumor MK2 transcript levels are associated with improved response to chemotherapy and patient survival in non-small cell lung cancer. Physiol Genomics. 2023;55(4):168–178.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Jiang M, Li F, Liu Y, et al. <strong>Probiotic-derived nanoparticles inhibit alcohol-associated liver disease through intestinal miR-194 suppression and subsequent FXR activation.</strong> <em>Hepatology. 2023;77(4):1164–1180.</em>",
+        "cleanText": "Jiang M, Li F, Liu Y, et al. Probiotic-derived nanoparticles inhibit alcohol-associated liver disease through intestinal miR-194 suppression and subsequent FXR activation. Hepatology. 2023;77(4):1164–1180.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Gripshover TC, Wahlang B, Head KZ, et al. <strong>The environmental pollutant, polychlorinated biphenyl 126, alters liver function in a rodent model of alcohol-associated liver disease.</strong> <em>Alcohol Clin Exp Res. 2023;47(1):60–75.</em>",
+        "cleanText": "Gripshover TC, Wahlang B, Head KZ, et al. The environmental pollutant, polychlorinated biphenyl 126, alters liver function in a rodent model of alcohol-associated liver disease. Alcohol Clin Exp Res. 2023;47(1):60–75.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Vatsalya V, Feng W, Kong M, et al. <strong>The beneficial effects of Lactobacillus GG therapy on liver and drinking assessments in patients with moderate alcohol-associated hepatitis.</strong> <em>Am J Gastroenterol. 2023;118(8):1457–1460.</em>",
+        "cleanText": "Vatsalya V, Feng W, Kong M, et al. The beneficial effects of Lactobacillus GG therapy on liver and drinking assessments in patients with moderate alcohol-associated hepatitis. Am J Gastroenterol. 2023;118(8):1457–1460.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Li Y, Cai T, Liu H, et al. <strong>Exosome-shuttled miR-126 mediates ethanol-induced disruption of neural crest cell-placode cell interaction by targeting SDF1.</strong> <em>Toxicol Sci. 2023;195(2):184–201.</em>",
+        "cleanText": "Li Y, Cai T, Liu H, et al. Exosome-shuttled miR-126 mediates ethanol-induced disruption of neural crest cell-placode cell interaction by targeting SDF1. Toxicol Sci. 2023;195(2):184–201.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Habil MR, Hein DW. <strong>Effects of dose and human N-acetyltransferase 1 genetic polymorphism in benzidine metabolism and genotoxicity.</strong> <em>Arch Toxicol. 2023;97(6):1765–1772.</em>",
+        "cleanText": "Habil MR, Hein DW. Effects of dose and human N-acetyltransferase 1 genetic polymorphism in benzidine metabolism and genotoxicity. Arch Toxicol. 2023;97(6):1765–1772.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Turaga SM, Sardiu ME, Vishwakarma V, et al. <strong>Identification of small extracellular vesicle protein biomarkers for pediatric Ewing sarcoma.</strong> <em>Front Mol Biosci. 2023;10:1138594.</em>",
+        "cleanText": "Turaga SM, Sardiu ME, Vishwakarma V, et al. Identification of small extracellular vesicle protein biomarkers for pediatric Ewing sarcoma. Front Mol Biosci. 2023;10:1138594.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Piell KM, Petri BJ, Head KZ, et al. <strong>Disruption of the mouse liver epitranscriptome by long-term Aroclor 1260 exposure.</strong> <em>Environ Toxicol Pharmacol. 2023;100:104138.</em>",
+        "cleanText": "Piell KM, Petri BJ, Head KZ, et al. Disruption of the mouse liver epitranscriptome by long-term Aroclor 1260 exposure. Environ Toxicol Pharmacol. 2023;100:104138.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Hein DW, Salazar-González RA, Doll MA, Zang Y. <strong>Effect of the rs1799931 G857A (G286E) polymorphism on N-acetyltransferase 2-mediated carcinogen metabolism and genotoxicity differs with heterocyclic amine exposure.</strong> <em>Arch Toxicol. 2023;97(10):2697–2705.</em>",
+        "cleanText": "Hein DW, Salazar-González RA, Doll MA, Zang Y. Effect of the rs1799931 G857A (G286E) polymorphism on N-acetyltransferase 2-mediated carcinogen metabolism and genotoxicity differs with heterocyclic amine exposure. Arch Toxicol. 2023;97(10):2697–2705.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Hong KU, Hein DW. <strong>N-acetyltransferase 2 haplotype modifies risks for both dyslipidemia and urinary bladder cancer.</strong> <em>Pharmacogenet Genomics. 2023;33(6):136–137.</em>",
+        "cleanText": "Hong KU, Hein DW. N-acetyltransferase 2 haplotype modifies risks for both dyslipidemia and urinary bladder cancer. Pharmacogenet Genomics. 2023;33(6):136–137.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Wu X, Fan X, McMullen MR, et al. <strong>Macrophage-derived MLKL in alcohol-associated liver disease: Regulation of phagocytosis.</strong> <em>Hepatology. 2023;77(3):902–919.</em>",
+        "cleanText": "Wu X, Fan X, McMullen MR, et al. Macrophage-derived MLKL in alcohol-associated liver disease: Regulation of phagocytosis. Hepatology. 2023;77(3):902–919.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Wahlang B, Gao H, Rai SN, et al. <strong>Associations between residential volatile organic compound exposures and liver injury markers: The role of biological sex and race.</strong> <em>Environ Res. 2023;221:115228.</em>",
+        "cleanText": "Wahlang B, Gao H, Rai SN, et al. Associations between residential volatile organic compound exposures and liver injury markers: The role of biological sex and race. Environ Res. 2023;221:115228.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Chen S-Y, Kannan M. <strong>Neural crest cells and fetal alcohol spectrum disorders: Mechanisms and potential targets for prevention.</strong> <em>Pharmacol Res. 2023;194:106855.</em>",
+        "cleanText": "Chen S-Y, Kannan M. Neural crest cells and fetal alcohol spectrum disorders: Mechanisms and potential targets for prevention. Pharmacol Res. 2023;194:106855.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Walls KM, Hong KU, Hein DW. <strong>Induction of glucose production by heterocyclic amines is dependent on N-acetyltransferase 2 genetic polymorphism in cryopreserved human hepatocytes.</strong> <em>Toxicol Lett. 2023;383:192–195.</em>",
+        "cleanText": "Walls KM, Hong KU, Hein DW. Induction of glucose production by heterocyclic amines is dependent on N-acetyltransferase 2 genetic polymorphism in cryopreserved human hepatocytes. Toxicol Lett. 2023;383:192–195.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Liu L, Li F, Shao T, et al. <strong>FGF21 depletion attenuates colitis through intestinal epithelial IL-22–STAT3 activation in mice.</strong> <em>Nutrients. 2023;15(9).</em>",
+        "cleanText": "Liu L, Li F, Shao T, et al. FGF21 depletion attenuates colitis through intestinal epithelial IL-22–STAT3 activation in mice. Nutrients. 2023;15(9).",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Del Rosario O, Suresh K, Kallem M, et al. <strong>MK2 nonenzymatically promotes nuclear translocation of caspase-3 and resultant apoptosis.</strong> <em>Am J Physiol Lung Cell Mol Physiol. 2023;324(5):L700–L711.</em>",
+        "cleanText": "Del Rosario O, Suresh K, Kallem M, et al. MK2 nonenzymatically promotes nuclear translocation of caspase-3 and resultant apoptosis. Am J Physiol Lung Cell Mol Physiol. 2023;324(5):L700–L711.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Walls KM, Hong KU, Hein DW. <strong>Heterocyclic amines reduce insulin-induced AKT phosphorylation and induce gluconeogenic gene expression in human hepatocytes.</strong> <em>Arch Toxicol. 2023;97(6):1613–1626.</em>",
+        "cleanText": "Walls KM, Hong KU, Hein DW. Heterocyclic amines reduce insulin-induced AKT phosphorylation and induce gluconeogenic gene expression in human hepatocytes. Arch Toxicol. 2023;97(6):1613–1626.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Habil MR, Salazar-González RA, Doll MA, Hein DW. <strong>Effect of N-acetyltransferase 2 genetic polymorphism on 4,4′-methylenebis(2-chloroaniline)-induced genotoxicity and oxidative stress.</strong> <em>Arch Toxicol. 2023;97(6):1773–1781.</em>",
+        "cleanText": "Habil MR, Salazar-González RA, Doll MA, Hein DW. Effect of N-acetyltransferase 2 genetic polymorphism on 4,4′-methylenebis(2-chloroaniline)-induced genotoxicity and oxidative stress. Arch Toxicol. 2023;97(6):1773–1781.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Lü L, Yuan F, Fan H, et al. <strong>Ethanol exposure disrupted the formation of radial glial processes and impaired the generation and migration of outer radial glial cells in forebrain organoids derived from human embryonic stem cells.</strong> <em>Exp Neurol. 2023;362:114325.</em>",
+        "cleanText": "Lü L, Yuan F, Fan H, et al. Ethanol exposure disrupted the formation of radial glial processes and impaired the generation and migration of outer radial glial cells in forebrain organoids derived from human embryonic stem cells. Exp Neurol. 2023;362:114325.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Bolatimi OE, Head KZ, Luo J, et al. <em>Can zinc supplementation attenuate high fat diet-induced non-alcoholic fatty liver disease? Int J Mol Sci. 2023;24(2). 2023 Jan 16.</em>",
+        "cleanText": "Bolatimi OE, Head KZ, Luo J, et al. Can zinc supplementation attenuate high fat diet-induced non-alcoholic fatty liver disease? Int J Mol Sci. 2023;24(2). 2023 Jan 16.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Sriwastva MK, Teng Y, Mu J, et al. <strong>An extracellular vesicular mutant KRAS-associated protein complex promotes lung inflammation and tumor growth.</strong> <em>J Extracell Vesicles. 2023;12(2):e12307.</em>",
+        "cleanText": "Sriwastva MK, Teng Y, Mu J, et al. An extracellular vesicular mutant KRAS-associated protein complex promotes lung inflammation and tumor growth. J Extracell Vesicles. 2023;12(2):e12307.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Mrdjen M, Huang E, Pathak V, et al. <strong>Dysregulated meta-organismal metabolism of aromatic amino acids in alcohol-associated liver disease.</strong> <em>Hepatol Commun. 2023;7(11). 2023 Nov 1.</em>",
+        "cleanText": "Mrdjen M, Huang E, Pathak V, et al. Dysregulated meta-organismal metabolism of aromatic amino acids in alcohol-associated liver disease. Hepatol Commun. 2023;7(11). 2023 Nov 1.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Ghare SS, Charpentier BT, Ghooray DT, et al. <strong>Tributyrin mitigates ethanol-induced lysine acetylation of histone H3 and p65-NFκB downregulating CCL2 expression and consequent liver inflammation and injury.</strong> <em>Nutrients. 2023;15(20). 2023 Oct 17.</em>",
+        "cleanText": "Ghare SS, Charpentier BT, Ghooray DT, et al. Tributyrin mitigates ethanol-induced lysine acetylation of histone H3 and p65-NFκB downregulating CCL2 expression and consequent liver inflammation and injury. Nutrients. 2023;15(20). 2023 Oct 17.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Minooei F, Gilbert NM, Zhang L, et al. <strong>Rapid-dissolving electrospun nanofibers for intra-vaginal antibiotic or probiotic delivery.</strong> <em>Eur J Pharm Biopharm. 2023;190:81–93.</em>",
+        "cleanText": "Minooei F, Gilbert NM, Zhang L, et al. Rapid-dissolving electrospun nanofibers for intra-vaginal antibiotic or probiotic delivery. Eur J Pharm Biopharm. 2023;190:81–93.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Hardesty JE, Warner JB, Song YL, et al. <strong>Fpr2-/- mice developed exacerbated alcohol-associated liver disease.</strong> <em>Biology (Basel). 2023;12(5).</em>",
+        "cleanText": "Hardesty JE, Warner JB, Song YL, et al. Fpr2-/- mice developed exacerbated alcohol-associated liver disease. Biology (Basel). 2023;12(5).",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Xu R, Vatsalya V, He L, et al. <strong>Altered urinary tryptophan metabolites in alcohol-associated liver disease.</strong> <em>Alcohol Clin Exp Res. 2023;47(9):1665–1676.</em>",
+        "cleanText": "Xu R, Vatsalya V, He L, et al. Altered urinary tryptophan metabolites in alcohol-associated liver disease. Alcohol Clin Exp Res. 2023;47(9):1665–1676.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Petri BJ, Piell KM, Wahlang B, et al. <strong>Polychlorinated biphenyls alter hepatic m6A mRNA methylation in a mouse model of environmental liver disease.</strong> <em>Environ Res. 2023;216(Pt 3):114686.</em>",
+        "cleanText": "Petri BJ, Piell KM, Wahlang B, et al. Polychlorinated biphenyls alter hepatic m6A mRNA methylation in a mouse model of environmental liver disease. Environ Res. 2023;216(Pt 3):114686.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Hardesty JE, Warner JB, Song YL, et al. <strong>Resolvin D1 attenuated liver injury caused by chronic ethanol and acute LPS challenge in mice.</strong> <em>FASEB J. 2023;37(1):e22705.</em>",
+        "cleanText": "Hardesty JE, Warner JB, Song YL, et al. Resolvin D1 attenuated liver injury caused by chronic ethanol and acute LPS challenge in mice. FASEB J. 2023;37(1):e22705.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Sato T, Head KZ, Li J, et al. <strong>Fibrosis resolution in the mouse liver: Role of Mmp12 and potential role of calpain 1/2.</strong> <em>Matrix Biol Plus. 2023;17:100127.</em>",
+        "cleanText": "Sato T, Head KZ, Li J, et al. Fibrosis resolution in the mouse liver: Role of Mmp12 and potential role of calpain 1/2. Matrix Biol Plus. 2023;17:100127.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Li J, Sato T, Hernández-Tejero M, et al. <strong>The plasma degradome reflects later development of NASH fibrosis after liver transplant.</strong> <em>Sci Rep. 2023;13(1):9965.</em>",
+        "cleanText": "Li J, Sato T, Hernández-Tejero M, et al. The plasma degradome reflects later development of NASH fibrosis after liver transplant. Sci Rep. 2023;13(1):9965.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Bhayana S, Zhao Y, Merchant M, et al. <strong>Multiomics analysis of plasma proteomics and metabolomics of steroid resistance in childhood nephrotic syndrome using a “patient-specific” approach.</strong> <em>Kidney Int Rep. 2023;8(6):1239–1254.</em>",
+        "cleanText": "Bhayana S, Zhao Y, Merchant M, et al. Multiomics analysis of plasma proteomics and metabolomics of steroid resistance in childhood nephrotic syndrome using a “patient-specific” approach. Kidney Int Rep. 2023;8(6):1239–1254.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Groswald AM, Gripshover TC, Watson WH, et al. <strong>Investigating the acute metabolic effects of the N-methyl carbamate insecticide, methomyl, on mouse liver.</strong> <em>Metabolites. 2023;13(8).</em>",
+        "cleanText": "Groswald AM, Gripshover TC, Watson WH, et al. Investigating the acute metabolic effects of the N-methyl carbamate insecticide, methomyl, on mouse liver. Metabolites. 2023;13(8).",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Elnagdy M, Wang Y, Rodriguez W, et al. <strong>Increased expression of phosphodiesterase 4 in activated hepatic stellate cells promotes cytoskeleton remodeling and cell migration.</strong> <em>J Pathol. 2023;261(3):361–371.</em>",
+        "cleanText": "Elnagdy M, Wang Y, Rodriguez W, et al. Increased expression of phosphodiesterase 4 in activated hepatic stellate cells promotes cytoskeleton remodeling and cell migration. J Pathol. 2023;261(3):361–371.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Liu S, He L, Bannister OB, et al. <strong>Western diet unmasks transient low-level vinyl chloride-induced tumorigenesis; Potential role of the (epi-)transcriptome.</strong> <em>Toxicol Appl Pharmacol. 2023;468:116514.</em>",
+        "cleanText": "Liu S, He L, Bannister OB, et al. Western diet unmasks transient low-level vinyl chloride-induced tumorigenesis; Potential role of the (epi-)transcriptome. Toxicol Appl Pharmacol. 2023;468:116514.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2023",
+        "content": "Head KZ, Bolatimi OE, Gripshover TC, et al. <strong>Investigating the effects of long-term Aroclor 1260 exposure on fatty liver disease in a diet-induced obesity mouse model.</strong> <em>Front Gastroenterol (Lausanne). 2023;2.</em>",
+        "cleanText": "Head KZ, Bolatimi OE, Gripshover TC, et al. Investigating the effects of long-term Aroclor 1260 exposure on fatty liver disease in a diet-induced obesity mouse model. Front Gastroenterol (Lausanne). 2023;2.",
+        "pmid": null,
+        "pmidLink": null
+      }
+    ],
+    "2024": [
+      {
+        "year": "2024",
+        "content": "Taiwo M, Huang E, Pathak V, Bellar A, Welch N, Dasarathy J, Streem D, McClain CJ, Mitchell MC, Barton BA, Szabo G, Dasarathy S; Alcohol Hepatitis Network (AlcHepNet) Consortium, Schaefer EA, Luther J, Day LZ, Ouyang X, Suyavaran A, Mehal WZ, Jacobs JM, Goodman RP, Rotroff DM, Nagy LE. <strong>Proteomics identifies complement protein signatures in patients with alcohol-associated hepatitis.</strong> <em>JCI Insight. 2024;9(9). 2024 Apr 4.</em>",
+        "cleanText": "Taiwo M, Huang E, Pathak V, Bellar A, Welch N, Dasarathy J, Streem D, McClain CJ, Mitchell MC, Barton BA, Szabo G, Dasarathy S; Alcohol Hepatitis Network (AlcHepNet) Consortium, Schaefer EA, Luther J, Day LZ, Ouyang X, Suyavaran A, Mehal WZ, Jacobs JM, Goodman RP, Rotroff DM, Nagy LE. Proteomics identifies complement protein signatures in patients with alcohol-associated hepatitis. JCI Insight. 2024;9(9). 2024 Apr 4.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2024",
+        "content": "Warner JB, Hardesty JE, Song YL, Floyd AT, Deng Z, Jebet A, He L, Zhang X, McClain CJ, Hammock BD, Warner DR, Kirpich IA. <strong>Hepatic transcriptome and its regulation following soluble epoxide hydrolase inhibition in alcohol-associated liver disease.</strong> <em>Am J Pathol. 2024;194(1):71–84. 2024 Jan.</em>",
+        "cleanText": "Warner JB, Hardesty JE, Song YL, Floyd AT, Deng Z, Jebet A, He L, Zhang X, McClain CJ, Hammock BD, Warner DR, Kirpich IA. Hepatic transcriptome and its regulation following soluble epoxide hydrolase inhibition in alcohol-associated liver disease. Am J Pathol. 2024;194(1):71–84. 2024 Jan.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2024",
+        "content": "Jophlin L, Liu T-Y, McClain CJ. <strong>Nutritional deficiencies in alcohol use disorder/alcohol-associated liver disease.</strong> <em>Curr Opin Gastroenterol. 2024;40(2):112–117. 2024 Mar 1.</em>",
+        "cleanText": "Jophlin L, Liu T-Y, McClain CJ. Nutritional deficiencies in alcohol use disorder/alcohol-associated liver disease. Curr Opin Gastroenterol. 2024;40(2):112–117. 2024 Mar 1.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2024",
+        "content": "Condon S, Hu H, Kong M, Cave MC, McClain CJ. <strong>ALT poorly predicts nonalcoholic fatty liver disease (NAFLD) and liver fibrosis as determined by vibration-controlled transient elastography in adult National Health and Nutrition Examination Survey 2017–2018.</strong> <em>Am J Med Sci. 2024;367(5):310–322. 2024 May.</em>",
+        "cleanText": "Condon S, Hu H, Kong M, Cave MC, McClain CJ. ALT poorly predicts nonalcoholic fatty liver disease (NAFLD) and liver fibrosis as determined by vibration-controlled transient elastography in adult National Health and Nutrition Examination Survey 2017–2018. Am J Med Sci. 2024;367(5):310–322. 2024 May.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2024",
+        "content": "Xu M, Taylor MS, Hill BG, Li X, Rouchka EC, McClain CJ, Song M. <strong>Intestine epithelial-specific hypoxia-inducible factor-1α overexpression ameliorates western diet-induced MASLD.</strong> <em>Hepatol Commun. 2024;8(12). 2024 Dec 1.</em>",
+        "cleanText": "Xu M, Taylor MS, Hill BG, Li X, Rouchka EC, McClain CJ, Song M. Intestine epithelial-specific hypoxia-inducible factor-1α overexpression ameliorates western diet-induced MASLD. Hepatol Commun. 2024;8(12). 2024 Dec 1.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2024",
+        "content": "Sayed K, Dolin CE, Wilkey DW, Li J, Sato T, Beier JI, Argemi J, Vatsalya V, McClain CJ, Bataller R, Wahed AS, Merchant ML, Benos PV, Arteel GE. <strong>A plasma peptidomic signature reveals extracellular matrix remodeling and predicts prognosis in alcohol-associated hepatitis.</strong> <em>Hepatol Commun. 2024;8(8). 2024 Aug 1.</em>",
+        "cleanText": "Sayed K, Dolin CE, Wilkey DW, Li J, Sato T, Beier JI, Argemi J, Vatsalya V, McClain CJ, Bataller R, Wahed AS, Merchant ML, Benos PV, Arteel GE. A plasma peptidomic signature reveals extracellular matrix remodeling and predicts prognosis in alcohol-associated hepatitis. Hepatol Commun. 2024;8(8). 2024 Aug 1.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2024",
+        "content": "Chilton PM, Ghare SS, Charpentier BT, Myers SA, Rao AV, Petrosino JF, Hoffman KL, Greenwell JC, Tyagi N, Behera J, Wang Y, Sloan LJ, Zhang J, Shields CB, Cooper GE, Gobejishvili L, Whittemore SR, McClain CJ, Barve SS. <strong>Age-associated temporal decline in butyrate-producing bacteria plays a key pathogenic role in the onset and progression of neuropathology and memory deficits in 3×Tg-AD mice.</strong> <em>Gut Microbes. 2024;16:2389319.</em>",
+        "cleanText": "Chilton PM, Ghare SS, Charpentier BT, Myers SA, Rao AV, Petrosino JF, Hoffman KL, Greenwell JC, Tyagi N, Behera J, Wang Y, Sloan LJ, Zhang J, Shields CB, Cooper GE, Gobejishvili L, Whittemore SR, McClain CJ, Barve SS. Age-associated temporal decline in butyrate-producing bacteria plays a key pathogenic role in the onset and progression of neuropathology and memory deficits in 3×Tg-AD mice. Gut Microbes. 2024;16:2389319.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2024",
+        "content": "Brown K, Funk K, Figueroa Barrientos A, Bailey A, Shrader S, Feng W, McClain CJ, Song Z-H. <strong>The modulatory effects and therapeutic potential of cannabidiol in the gut.</strong> <em>Cells. 2024;13(19). 2024 Sep 26.</em>",
+        "cleanText": "Brown K, Funk K, Figueroa Barrientos A, Bailey A, Shrader S, Feng W, McClain CJ, Song Z-H. The modulatory effects and therapeutic potential of cannabidiol in the gut. Cells. 2024;13(19). 2024 Sep 26.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2024",
+        "content": "Sundaram K, Teng Y, Mu J, Xu Q, Xu F, Sriwastva MK, Zhang L, Park JW, Zhang X, Yan J, Zhang SQ, Merchant ML, Chen S-Y, McClain CJ, Dryden GW, Zhang H-G. <strong>Outer membrane vesicles released from garlic exosome-like nanoparticles (GaELNs) train gut bacteria that reverses type 2 diabetes via the gut-brain axis.</strong> <em>Small. 2024;20(20):e2308680. 2024 May.</em>",
+        "cleanText": "Sundaram K, Teng Y, Mu J, Xu Q, Xu F, Sriwastva MK, Zhang L, Park JW, Zhang X, Yan J, Zhang SQ, Merchant ML, Chen S-Y, McClain CJ, Dryden GW, Zhang H-G. Outer membrane vesicles released from garlic exosome-like nanoparticles (GaELNs) train gut bacteria that reverses type 2 diabetes via the gut-brain axis. Small. 2024;20(20):e2308680. 2024 May.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2024",
+        "content": "Zhao J, Adiele N, Gomes D, Malovichko M, Conklin DJ, Ekuban A, Luo J, Gripshover T, Watson WH, Banerjee M, Smith ML, Rouchka EC, Xu R, Zhang X, Gondim DD, Cave MC, O’Toole TE. <strong>Obesogenic polystyrene microplastic exposures disrupt the gut-liver-adipose axis.</strong> <em>Toxicol Sci. 2024;198(2):210–220. 2024 Mar 26.</em>",
+        "cleanText": "Zhao J, Adiele N, Gomes D, Malovichko M, Conklin DJ, Ekuban A, Luo J, Gripshover T, Watson WH, Banerjee M, Smith ML, Rouchka EC, Xu R, Zhang X, Gondim DD, Cave MC, O’Toole TE. Obesogenic polystyrene microplastic exposures disrupt the gut-liver-adipose axis. Toxicol Sci. 2024;198(2):210–220. 2024 Mar 26.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2024",
+        "content": "Chen J, Li F, Lee J, Manirujjaman M, Zhang L, Song Z-H, McClain C, Feng W. <strong>Peripherally restricted CB1 receptor inverse agonist JD5037 treatment exacerbates liver injury in MDR2-deficient mice.</strong> <em>Cells. 2024;13(13). 2024 Jun 25.</em>",
+        "cleanText": "Chen J, Li F, Lee J, Manirujjaman M, Zhang L, Song Z-H, McClain C, Feng W. Peripherally restricted CB1 receptor inverse agonist JD5037 treatment exacerbates liver injury in MDR2-deficient mice. Cells. 2024;13(13). 2024 Jun 25.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2024",
+        "content": "Hardesty J, Hawthorne M, Day L, Warner J, Warner D, Gritsenko M, Asghar A, Stolz A, Morgan T, McClain C, Jacobs J, Kirpich IA. <strong>Steroid responsiveness in alcohol-associated hepatitis is linked to glucocorticoid metabolism, mitochondrial repair, and heat shock proteins.</strong> <em>Hepatol Commun. 2024;8(3). 2024 Mar 1.</em>",
+        "cleanText": "Hardesty J, Hawthorne M, Day L, Warner J, Warner D, Gritsenko M, Asghar A, Stolz A, Morgan T, McClain C, Jacobs J, Kirpich IA. Steroid responsiveness in alcohol-associated hepatitis is linked to glucocorticoid metabolism, mitochondrial repair, and heat shock proteins. Hepatol Commun. 2024;8(3). 2024 Mar 1.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2024",
+        "content": "Walter MN, Montoya-Durango D, Rodriguez W, Wang Y, Zhang J, Chariker JH, Rouchka EC, Maldonado C, Bennett A, McClain CJ, Barve S, Gobejishvili L. <strong>Hepatocyte-specific mitogen-activated protein kinase phosphatase 1 in sexual dimorphism and susceptibility to alcohol-induced liver injury.</strong> <em>Front Immunol. 2024;15:1316228.</em>",
+        "cleanText": "Walter MN, Montoya-Durango D, Rodriguez W, Wang Y, Zhang J, Chariker JH, Rouchka EC, Maldonado C, Bennett A, McClain CJ, Barve S, Gobejishvili L. Hepatocyte-specific mitogen-activated protein kinase phosphatase 1 in sexual dimorphism and susceptibility to alcohol-induced liver injury. Front Immunol. 2024;15:1316228.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2024",
+        "content": "Ghooray DT, Xu M, Shi H, McClain CJ, Song M. <strong>Hepatocyte-specific Fads1 overexpression attenuates Western diet-induced metabolic phenotypes in a rat model.</strong> <em>Int J Mol Sci. 2024;25(9). 2024 Apr 29.</em>",
+        "cleanText": "Ghooray DT, Xu M, Shi H, McClain CJ, Song M. Hepatocyte-specific Fads1 overexpression attenuates Western diet-induced metabolic phenotypes in a rat model. Int J Mol Sci. 2024;25(9). 2024 Apr 29.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2024",
+        "content": "He L, Xu R, Ma X, Yin X, Mueller E, Feng W, Menze M, Kim S, McClain CJ, Zhang X. <strong>Multiomics studies on metabolism changes in alcohol-associated liver disease.</strong> <em>J Proteome Res. 2024;23(11):4962–4972. 2024 Nov 1.</em>",
+        "cleanText": "He L, Xu R, Ma X, Yin X, Mueller E, Feng W, Menze M, Kim S, McClain CJ, Zhang X. Multiomics studies on metabolism changes in alcohol-associated liver disease. J Proteome Res. 2024;23(11):4962–4972. 2024 Nov 1.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2024",
+        "content": "Xu F, Ren Y, Teng Y, Mu J, Tang J, Sundaram K, Zhang L, Park JW, Hwang JY, Yan J, Dryden G, Zhang H-G. <strong>Tryptophan as a new member of RNA-induced silencing complexes prevents colon cancer liver metastasis.</strong> <em>Adv Sci (Weinh). 2024;11(31):e2307937. 2024 Aug.</em>",
+        "cleanText": "Xu F, Ren Y, Teng Y, Mu J, Tang J, Sundaram K, Zhang L, Park JW, Hwang JY, Yan J, Dryden G, Zhang H-G. Tryptophan as a new member of RNA-induced silencing complexes prevents colon cancer liver metastasis. Adv Sci (Weinh). 2024;11(31):e2307937. 2024 Aug.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2024",
+        "content": "Hassanein T, McClain CJ, Vatsalya V, Stein LL, Flamm SL, Martin P, Cave MC, Mitchell MC Jr, Barton B, Nagy L, Szabo G, McCullough A, Dasarathy S, Shah J, Blevins C, Scott D, Krebs W, Brown JE, Lin W. <strong>Safety, pharmacokinetics, and efficacy signals of Larsucosterol (DUR-928) in alcohol-associated hepatitis.</strong> <em>Am J Gastroenterol. 2024;119(1):107–115. 2024 Jan 1.</em>",
+        "cleanText": "Hassanein T, McClain CJ, Vatsalya V, Stein LL, Flamm SL, Martin P, Cave MC, Mitchell MC Jr, Barton B, Nagy L, Szabo G, McCullough A, Dasarathy S, Shah J, Blevins C, Scott D, Krebs W, Brown JE, Lin W. Safety, pharmacokinetics, and efficacy signals of Larsucosterol (DUR-928) in alcohol-associated hepatitis. Am J Gastroenterol. 2024;119(1):107–115. 2024 Jan 1.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2024",
+        "content": "Xu R, Liu H, Yuan F, Kim S, Kirpich I, McClain CJ, Zhang X. <strong>Lipid Wizard: Analysis software for comprehensive two-dimensional liquid chromatography-mass spectrometry-based lipid profiling.</strong> <em>Anal Chem. 2024;96(14):5375–5383. 2024 Apr 9.</em>",
+        "cleanText": "Xu R, Liu H, Yuan F, Kim S, Kirpich I, McClain CJ, Zhang X. Lipid Wizard: Analysis software for comprehensive two-dimensional liquid chromatography-mass spectrometry-based lipid profiling. Anal Chem. 2024;96(14):5375–5383. 2024 Apr 9.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2024",
+        "content": "Piell KM, Petri BJ, Xu J, Cai L, Rai SN, Li M, Wilkey DW, Merchant ML, Cave MC, Klinge CM. <strong>Chronic Aroclor 1260 exposure alters the mouse liver proteome, selenoproteins, and metals in steatotic liver disease.</strong> <em>Environ Toxicol Pharmacol. 2024;107:104430. 2024 Apr.</em>",
+        "cleanText": "Piell KM, Petri BJ, Xu J, Cai L, Rai SN, Li M, Wilkey DW, Merchant ML, Cave MC, Klinge CM. Chronic Aroclor 1260 exposure alters the mouse liver proteome, selenoproteins, and metals in steatotic liver disease. Environ Toxicol Pharmacol. 2024;107:104430. 2024 Apr.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2024",
+        "content": "Xu M, Li M, Benz F, Merchant M, McClain CJ, Song M. <strong>Ileum proteomics identifies distinct pathways associated with different dietary doses of copper-fructose interactions: Implications for the gut-liver axis and MASLD.</strong> <em>Nutrients. 2024;16(13). 2024 Jun 29.</em>",
+        "cleanText": "Xu M, Li M, Benz F, Merchant M, McClain CJ, Song M. Ileum proteomics identifies distinct pathways associated with different dietary doses of copper-fructose interactions: Implications for the gut-liver axis and MASLD. Nutrients. 2024;16(13). 2024 Jun 29.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2024",
+        "content": "Hardesty JE, McClain CJ. <strong>Current pharmacotherapy and nutrition therapy of alcohol-associated liver disease.</strong> <em>Clin Liver Dis. 2024;28(4):731–745. 2024 Nov.</em>",
+        "cleanText": "Hardesty JE, McClain CJ. Current pharmacotherapy and nutrition therapy of alcohol-associated liver disease. Clin Liver Dis. 2024;28(4):731–745. 2024 Nov.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2024",
+        "content": "Hardesty JE, Warner JB, Wilkey DW, Phinney BS, Salemi MR, Merchant ML, McClain CJ, Warner DR, Kirpich IA. <strong>Hepatic proteomic changes associated with liver injury caused by alcohol consumption in Fpr2-/- mice.</strong> <em>Int J Mol Sci. 2024;25(18). 2024 Sep 11.</em>",
+        "cleanText": "Hardesty JE, Warner JB, Wilkey DW, Phinney BS, Salemi MR, Merchant ML, McClain CJ, Warner DR, Kirpich IA. Hepatic proteomic changes associated with liver injury caused by alcohol consumption in Fpr2-/- mice. Int J Mol Sci. 2024;25(18). 2024 Sep 11.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2024",
+        "content": "Wu Z, Chen S-Y, Zheng L. <strong>Sulforaphane attenuates ethanol-induced teratogenesis and dysangiogenesis in zebrafish embryos.</strong> <em>Int J Mol Sci. 2024;25(21). 2024 Oct 27.</em>",
+        "cleanText": "Wu Z, Chen S-Y, Zheng L. Sulforaphane attenuates ethanol-induced teratogenesis and dysangiogenesis in zebrafish embryos. Int J Mol Sci. 2024;25(21). 2024 Oct 27.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2024",
+        "content": "Cai J, Song M, Li M, Merchant M, Benz F, McClain C, Klein J. <strong>Site-specific identification of protein S-acylation by IodoTMT0 labeling and immobilized anti-TMT antibody resin enrichment.</strong> <em>J Proteome Res. 2024;23(2):673–683. 2024 Feb 2.</em>",
+        "cleanText": "Cai J, Song M, Li M, Merchant M, Benz F, McClain C, Klein J. Site-specific identification of protein S-acylation by IodoTMT0 labeling and immobilized anti-TMT antibody resin enrichment. J Proteome Res. 2024;23(2):673–683. 2024 Feb 2.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2024",
+        "content": "Gawrieh S, Dasarathy S, Tu W, Kamath PS, Chalasani NP, McClain CJ, Bataller R, Szabo G, Tang Q, Radaeva S, Barton B, Nagy LE, Shah VH, Sanyal AJ, Mitchell MC; AlcHepNet Investigators. <strong>Randomized trial of anakinra plus zinc vs prednisone for severe alcohol-associated hepatitis.</strong> <em>J Hepatol. 2024;80(5):684–693. 2024 May.</em>",
+        "cleanText": "Gawrieh S, Dasarathy S, Tu W, Kamath PS, Chalasani NP, McClain CJ, Bataller R, Szabo G, Tang Q, Radaeva S, Barton B, Nagy LE, Shah VH, Sanyal AJ, Mitchell MC; AlcHepNet Investigators. Randomized trial of anakinra plus zinc vs prednisone for severe alcohol-associated hepatitis. J Hepatol. 2024;80(5):684–693. 2024 May.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2024",
+        "content": "Liu H, Su P, Li Y, Hoover A, Hu S, King SA, Zhao J, Guan J-L, Chen S-Y, Zhao Y, Tan M, Wu X. <strong>VAMP2 controls murine epidermal differentiation and carcinogenesis by regulation of nucleophagy.</strong> <em>Dev Cell. 2024;59(15):2005–2016.e4. 2024 Aug 5.</em>",
+        "cleanText": "Liu H, Su P, Li Y, Hoover A, Hu S, King SA, Zhao J, Guan J-L, Chen S-Y, Zhao Y, Tan M, Wu X. VAMP2 controls murine epidermal differentiation and carcinogenesis by regulation of nucleophagy. Dev Cell. 2024;59(15):2005–2016.e4. 2024 Aug 5.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2024",
+        "content": "Gripshover TC, Wahlang B, Head KZ, Luo J, Bolatimi OE, Smith ML, Rouchka EC, Chariker JH, Xu J, Cai L, Cummins TD, Merchant ML, Zheng H, Kong M, Cave MC. <strong>Multiomics analysis of PCB126’s effect on a mouse chronic-binge alcohol feeding model.</strong> <em>Environ Health Perspect. 2024;132(4):47007. 2024 Apr.</em>",
+        "cleanText": "Gripshover TC, Wahlang B, Head KZ, Luo J, Bolatimi OE, Smith ML, Rouchka EC, Chariker JH, Xu J, Cai L, Cummins TD, Merchant ML, Zheng H, Kong M, Cave MC. Multiomics analysis of PCB126’s effect on a mouse chronic-binge alcohol feeding model. Environ Health Perspect. 2024;132(4):47007. 2024 Apr.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2024",
+        "content": "Bolatimi OE, Hua Y, Ekuban FA, Gripshover TC, Ekuban A, Luulay B, Watson WH, Hardesty JE, Wahlang B. <strong>Low dose exposure to dioxins alters hepatic energy metabolism and steatotic liver disease development in a sex-specific manner.</strong> <em>Environ Int. 2024;194:109152. 2024 Dec.</em>",
+        "cleanText": "Bolatimi OE, Hua Y, Ekuban FA, Gripshover TC, Ekuban A, Luulay B, Watson WH, Hardesty JE, Wahlang B. Low dose exposure to dioxins alters hepatic energy metabolism and steatotic liver disease development in a sex-specific manner. Environ Int. 2024;194:109152. 2024 Dec.",
+        "pmid": null,
+        "pmidLink": null
+      }
+    ],
+    "2025": [
+      {
+        "year": "2025",
+        "content": "Teng Y, Luo C, Qiu X, Mu J, Sriwastva MK, Xu Q, Liu M, Hu X, Xu F, Zhang L, Park JW, Hwang JY, Kong M, Liu Z, Zhang X, Xu R, Yan J, Merchant ML, McClain CJ, Zhang H-G. <strong>Plant-nanoparticles enhance anti-PD-L1 efficacy by shaping human commensal microbiota metabolites.</strong> <em>Nat Commun. 2025;16:1295. 2025 Feb 3.</em>",
+        "cleanText": "Teng Y, Luo C, Qiu X, Mu J, Sriwastva MK, Xu Q, Liu M, Hu X, Xu F, Zhang L, Park JW, Hwang JY, Kong M, Liu Z, Zhang X, Xu R, Yan J, Merchant ML, McClain CJ, Zhang H-G. Plant-nanoparticles enhance anti-PD-L1 efficacy by shaping human commensal microbiota metabolites. Nat Commun. 2025;16:1295. 2025 Feb 3.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2025",
+        "content": "Singal AK, Wong RJ, Dasarathy S, Abdelmalek MF, Neuschwander-Tetri BA, Limketkai BN, Petrey J, McClain CJ. <strong>ACG Clinical Guideline: Malnutrition and Nutritional Recommendations in Liver Disease.</strong> <em>Am J Gastroenterol. 2025;120(5):950–972. 2025 May 1.</em>",
+        "cleanText": "Singal AK, Wong RJ, Dasarathy S, Abdelmalek MF, Neuschwander-Tetri BA, Limketkai BN, Petrey J, McClain CJ. ACG Clinical Guideline: Malnutrition and Nutritional Recommendations in Liver Disease. Am J Gastroenterol. 2025;120(5):950–972. 2025 May 1.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2025",
+        "content": "Ekuban FA, Gripshover TC, Ames P, Biswas K, Bolatimi OE, Abramson J, Iyer M, Luo J, Ekuban A, Hwang JY, Park JW, Banerjee M, Watson WH, Wahlang B, Bello D, Schlezinger JJ, McClain CJ, Cave MC. <strong>Perfluorooctane sulfonate exposure and alcohol-associated liver disease severity in a mouse chronic-binge ethanol feeding model.</strong> <em>Toxicol Sci. 2025;206(2):388–408. 2025 Aug 1.</em>",
+        "cleanText": "Ekuban FA, Gripshover TC, Ames P, Biswas K, Bolatimi OE, Abramson J, Iyer M, Luo J, Ekuban A, Hwang JY, Park JW, Banerjee M, Watson WH, Wahlang B, Bello D, Schlezinger JJ, McClain CJ, Cave MC. Perfluorooctane sulfonate exposure and alcohol-associated liver disease severity in a mouse chronic-binge ethanol feeding model. Toxicol Sci. 2025;206(2):388–408. 2025 Aug 1.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2025",
+        "content": "Feng J, He L, Ma X, Yin X, Mueller EG, Zhou Z, Feng W, McClain CJ, Zhang X. <strong>Comparison of liver bile acid profiles in chronic alcohol feeding and NIAAA binge-on-chronic alcohol feeding mouse models.</strong> <em>J Chromatogr B. 2025;1262:124650. 2025 Aug 1.</em>",
+        "cleanText": "Feng J, He L, Ma X, Yin X, Mueller EG, Zhou Z, Feng W, McClain CJ, Zhang X. Comparison of liver bile acid profiles in chronic alcohol feeding and NIAAA binge-on-chronic alcohol feeding mouse models. J Chromatogr B. 2025;1262:124650. 2025 Aug 1.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2025",
+        "content": "Lü L, Bai M, Wang X, Liu J, Wu X, Zhang H-G, Feng W, Chen S-Y. <strong>Ethanol exposure impaired mitotic division in apical radial glial cells and disrupted early cortical development in human forebrain organoids: Implications for ethanol-induced microcephaly.</strong> <em>Toxicology. 2025;517:154244. 2025 Nov.</em>",
+        "cleanText": "Lü L, Bai M, Wang X, Liu J, Wu X, Zhang H-G, Feng W, Chen S-Y. Ethanol exposure impaired mitotic division in apical radial glial cells and disrupted early cortical development in human forebrain organoids: Implications for ethanol-induced microcephaly. Toxicology. 2025;517:154244. 2025 Nov.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2025",
+        "content": "Singal AK. <strong>Preface (Introduction): Metabolic Liver Disease: A New Era in Hepatology.</strong> <em>Semin Liver Dis. 2025;45(2):145–147. 2025 Jun.</em>",
+        "cleanText": "Singal AK. Preface (Introduction): Metabolic Liver Disease: A New Era in Hepatology. Semin Liver Dis. 2025;45(2):145–147. 2025 Jun.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2025",
+        "content": "Singal AK, Piano S. <strong>Tapered Corticosteroids in Severe Alcohol-Associated Hepatitis: A Strategy to Maximize Benefit and Minimize Harm.</strong> <em>Am J Gastroenterol. 2025;120(12):2761–2763. 2025 Dec 1.</em>",
+        "cleanText": "Singal AK, Piano S. Tapered Corticosteroids in Severe Alcohol-Associated Hepatitis: A Strategy to Maximize Benefit and Minimize Harm. Am J Gastroenterol. 2025;120(12):2761–2763. 2025 Dec 1.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2025",
+        "content": "Warner DR, Warner JB, Hardesty JE, Abdelfadil Y, Soni C, Bauer P, Maldonado C, McClain CJ, Kirpich IA. <strong>Hepatocyte-specific transcriptional responses to liver-targeted delivery of a soluble epoxide hydrolase inhibitor in a mouse model of alcohol-associated liver disease.</strong> <em>Biology (Basel). 2025;14(9). 2025 Sep 13.</em>",
+        "cleanText": "Warner DR, Warner JB, Hardesty JE, Abdelfadil Y, Soni C, Bauer P, Maldonado C, McClain CJ, Kirpich IA. Hepatocyte-specific transcriptional responses to liver-targeted delivery of a soluble epoxide hydrolase inhibitor in a mouse model of alcohol-associated liver disease. Biology (Basel). 2025;14(9). 2025 Sep 13.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2025",
+        "content": "Gripshover TC, Treves RS, Rouchka EC, Chariker JH, Zheng S, Hudson E, Smith ML, Singal AK, McClain CJ, Hardesty JE. <strong>Visium spatial transcriptomics and proteomics identifies novel hepatic cell populations and transcriptomic signatures of alcohol-associated hepatitis.</strong> <em>Alcohol Clin Exp Res. 2025;49(1):106–116. 2025 Jan.</em>",
+        "cleanText": "Gripshover TC, Treves RS, Rouchka EC, Chariker JH, Zheng S, Hudson E, Smith ML, Singal AK, McClain CJ, Hardesty JE. Visium spatial transcriptomics and proteomics identifies novel hepatic cell populations and transcriptomic signatures of alcohol-associated hepatitis. Alcohol Clin Exp Res. 2025;49(1):106–116. 2025 Jan.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2025",
+        "content": "Dlugas H, Zhang X, Kim S. <strong>Comparative analysis of continuous similarity measures for compound identification in mass spectrometry-based metabolomics.</strong> <em>Chemom Intell Lab Syst. 2025;263. 2025 Aug 15.</em>",
+        "cleanText": "Dlugas H, Zhang X, Kim S. Comparative analysis of continuous similarity measures for compound identification in mass spectrometry-based metabolomics. Chemom Intell Lab Syst. 2025;263. 2025 Aug 15.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2025",
+        "content": "Singal AK, Dunn W, Wong R, Kulkarni A, Kuo Y-F. <strong>Differential candidate characteristics associated with increasing ALD and MASH among liver transplant listings in the US.</strong> <em>Dig Liver Dis. 2025;57(5):578–584. 2025 May.</em>",
+        "cleanText": "Singal AK, Dunn W, Wong R, Kulkarni A, Kuo Y-F. Differential candidate characteristics associated with increasing ALD and MASH among liver transplant listings in the US. Dig Liver Dis. 2025;57(5):578–584. 2025 May.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2025",
+        "content": "Warner DR, Warner JB, Abdelfadil Y, Hardesty JE, Treves R, Lei C, Hanford HE, McClain CJ, Kirpich IA. <strong>Effects of soluble epoxide hydrolase inhibition on liver injury and gut microbiota in mice chronically fed ethanol.</strong> <em>Alcohol Clin Exp Res. 2025;49(8):1730–1743. 2025 Aug.</em>",
+        "cleanText": "Warner DR, Warner JB, Abdelfadil Y, Hardesty JE, Treves R, Lei C, Hanford HE, McClain CJ, Kirpich IA. Effects of soluble epoxide hydrolase inhibition on liver injury and gut microbiota in mice chronically fed ethanol. Alcohol Clin Exp Res. 2025;49(8):1730–1743. 2025 Aug.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2025",
+        "content": "Alkhouri N, Cheuk-Fung Yip T, Castera L, Takawy M, Adams LA, Verma N, Arab JP, Jafri S-M, Zhong B, Dubourg J, Chen VL, Singal AK, Díaz LA, Dunn N, Nadeem R, Wong W-SV, Abdelmalek MF, Wang Z, Duseja A, Almahanna Y, Omeish HA, Ye J, Harrison SA, Cristiu J, Arrese M, Robert S, Wong L-HG, Bajunayd A, Shao C, Kubina M, Dunn W. <strong>ALADDIN: A machine learning approach to enhance the prediction of significant fibrosis or higher in metabolic dysfunction-associated steatotic liver disease.</strong> <em>Am J Gastroenterol. 2025. 2025 Mar 27.</em>",
+        "cleanText": "Alkhouri N, Cheuk-Fung Yip T, Castera L, Takawy M, Adams LA, Verma N, Arab JP, Jafri S-M, Zhong B, Dubourg J, Chen VL, Singal AK, Díaz LA, Dunn N, Nadeem R, Wong W-SV, Abdelmalek MF, Wang Z, Duseja A, Almahanna Y, Omeish HA, Ye J, Harrison SA, Cristiu J, Arrese M, Robert S, Wong L-HG, Bajunayd A, Shao C, Kubina M, Dunn W. ALADDIN: A machine learning approach to enhance the prediction of significant fibrosis or higher in metabolic dysfunction-associated steatotic liver disease. Am J Gastroenterol. 2025. 2025 Mar 27.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2025",
+        "content": "Ghare S, Warner D, Warner J, Chilton PM, Lee J, Zhang JW, Wang M, Hardesty J, Treves R, Gabbard J, Anderson C, Batra L, Sreenivasan C, Kraenzle J, McCulley M, McCoy S, Zhang L, Feng W, Gondim DD, Barve S, Zheng J, Palmer K, McClain C, Kirpich I. <strong>Impact of chronic ethanol consumption and SARS-CoV-2 on the liver and intestine: A pilot dose-response study in mice.</strong> <em>Alcohol Clin Exp Res. 2025;49(3):587–598. 2025 Mar.</em>",
+        "cleanText": "Ghare S, Warner D, Warner J, Chilton PM, Lee J, Zhang JW, Wang M, Hardesty J, Treves R, Gabbard J, Anderson C, Batra L, Sreenivasan C, Kraenzle J, McCulley M, McCoy S, Zhang L, Feng W, Gondim DD, Barve S, Zheng J, Palmer K, McClain C, Kirpich I. Impact of chronic ethanol consumption and SARS-CoV-2 on the liver and intestine: A pilot dose-response study in mice. Alcohol Clin Exp Res. 2025;49(3):587–598. 2025 Mar.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2025",
+        "content": "Ismail A, Awadalla M, Pothuraju S, Singal AK. <strong>Hepatic hydrothorax: A review.</strong> <em>Curr Hepatol Rep. 2025;24(1). 2025 Dec.</em>",
+        "cleanText": "Ismail A, Awadalla M, Pothuraju S, Singal AK. Hepatic hydrothorax: A review. Curr Hepatol Rep. 2025;24(1). 2025 Dec.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2025",
+        "content": "Xu Q, Teng Y, Huang Y, Mu J, Teng L, Qian H, Huang Q, Liu M, Zou Y, Zhang L, Merchant ML, Zhang X, Yan J, Zhang H-G. <strong>Onion-mitochondria inhibit lipopolysaccharide-induced acute lung injury by shaping lung macrophage mitochondrial function.</strong> <em>Adv Sci (Weinh). 2025;e06107. 2025 Oct 6.</em>",
+        "cleanText": "Xu Q, Teng Y, Huang Y, Mu J, Teng L, Qian H, Huang Q, Liu M, Zou Y, Zhang L, Merchant ML, Zhang X, Yan J, Zhang H-G. Onion-mitochondria inhibit lipopolysaccharide-induced acute lung injury by shaping lung macrophage mitochondrial function. Adv Sci (Weinh). 2025;e06107. 2025 Oct 6.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2025",
+        "content": "Burton R, Leggio L, Louvet A, Sheron N, Singal AK. <strong>Prevention of alcohol-associated liver disease.</strong> <em>Am J Gastroenterol. 2025;120(11):2487–2501. 2025 Nov 1.</em>",
+        "cleanText": "Burton R, Leggio L, Louvet A, Sheron N, Singal AK. Prevention of alcohol-associated liver disease. Am J Gastroenterol. 2025;120(11):2487–2501. 2025 Nov 1.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2025",
+        "content": "Ritzenthaler JD, Ekuban A, Horsman B, Roman J, Watson WH. <strong>Alcohol-induced liver injury is mediated via α4-containing nicotinic acetylcholine receptors expressed in hepatocytes.</strong> <em>Alcohol Clin Exp Res. 2025;49(3):515–525. 2025 Mar.</em>",
+        "cleanText": "Ritzenthaler JD, Ekuban A, Horsman B, Roman J, Watson WH. Alcohol-induced liver injury is mediated via α4-containing nicotinic acetylcholine receptors expressed in hepatocytes. Alcohol Clin Exp Res. 2025;49(3):515–525. 2025 Mar.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2025",
+        "content": "Singal AK, Zhang W, Shetty A, Patel A, Mohammed S, Bhandari P, Abdallah M, Vatsalya V, Leggio L, Kong M. <strong>Treatment of alcohol use disorder in alcohol-associated liver disease: A meta-analysis.</strong> <em>Hepatol Commun. 2025;9(5). 2025 May 1.</em>",
+        "cleanText": "Singal AK, Zhang W, Shetty A, Patel A, Mohammed S, Bhandari P, Abdallah M, Vatsalya V, Leggio L, Kong M. Treatment of alcohol use disorder in alcohol-associated liver disease: A meta-analysis. Hepatol Commun. 2025;9(5). 2025 May 1.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2025",
+        "content": "Dasarathy S, Tu W, Welch N, Gawrieh S, Yu Y, Tang Q, Kettler C, Sanyal AJ, Szabo G, Shah VH, Bataller R, Nagy LE, McClain CJ, Chalasani N, Kerr T, Mitchell MC; AlcHepNet Investigators. <strong>Natural history and development of a novel composite endpoint in patients with alcohol-associated hepatitis: Data from a prospective multicenter study.</strong> <em>Hepatology. 2025. 2025 Sep 9.</em>",
+        "cleanText": "Dasarathy S, Tu W, Welch N, Gawrieh S, Yu Y, Tang Q, Kettler C, Sanyal AJ, Szabo G, Shah VH, Bataller R, Nagy LE, McClain CJ, Chalasani N, Kerr T, Mitchell MC; AlcHepNet Investigators. Natural history and development of a novel composite endpoint in patients with alcohol-associated hepatitis: Data from a prospective multicenter study. Hepatology. 2025. 2025 Sep 9.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2025",
+        "content": "Thakurdesai A, Kumari A, Shay H, Elgharabawy K, Winrich EJ, Zhang W, Jackson A, Cave MC, Kong M, Zhang X, Singal AK, McClain CJ, Vatsalya V. <strong>Chronic and heavy drinking, nutrition status, and progression of liver injury negatively affect the mortality risk in patients suffering from alcohol-associated hepatitis.</strong> <em>J Clin Med. 2025;14(17). 2025 Aug 31.</em>",
+        "cleanText": "Thakurdesai A, Kumari A, Shay H, Elgharabawy K, Winrich EJ, Zhang W, Jackson A, Cave MC, Kong M, Zhang X, Singal AK, McClain CJ, Vatsalya V. Chronic and heavy drinking, nutrition status, and progression of liver injury negatively affect the mortality risk in patients suffering from alcohol-associated hepatitis. J Clin Med. 2025;14(17). 2025 Aug 31.",
+        "pmid": null,
+        "pmidLink": null
+      },
+      {
+        "year": "2025",
+        "content": "Warner JB, et al. <strong>Analysis of alcohol use, micronutrient and macronutrient consumption, and liver health in NHANES 2017–2018.</strong> <em>Alcohol Clin Exp Res. 2022;46(11):2025–2040.</em>",
+        "cleanText": "Warner JB, et al. Analysis of alcohol use, micronutrient and macronutrient consumption, and liver health in NHANES 2017–2018. Alcohol Clin Exp Res. 2022;46(11):2025–2040.",
+        "pmid": null,
+        "pmidLink": null
+      }
+    ]
+  }
+}

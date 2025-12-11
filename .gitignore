@@ -41,3 +41,7 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+*.mp4
+# Video files (too large for GitHub)
+*.mp4
+src/News_Training/video/
