@@ -157,7 +157,7 @@
   },
   {
     "title": "New Publications - AlcHepNet",
-    "url": "new-publications.html",
+    "url": "News_Training/new-publications.html",
     "snippet": "New Publications This page is under construction. Content will be added soon. $(function() { $(\"#navbar-include\").load(\"navbar.html\", function() { console.log('Navbar loaded'); }); $(\"#search-modal-include\").load(\"search-modal.html\"); $(\"#footer-include\").load(\"footer.html\", function() { console.log",
     "content": "New Publications This page is under construction. Content will be added soon. $(function() { $(\"#navbar-include\").load(\"navbar.html\", function() { console.log('Navbar loaded'); }); $(\"#search-modal-include\").load(\"search-modal.html\"); $(\"#footer-include\").load(\"footer.html\", function() { console.log('Footer loaded'); }); });"
   },
@@ -199,7 +199,7 @@
   },
   {
     "title": "Training TLFB - AlcHepNet",
-    "url": "training-tlfb.html",
+    "url": "News_Training/training-tlfb.html",
     "snippet": "Training TLFB This page is under construction. Content will be added soon. $(function() { $(\"#navbar-include\").load(\"navbar.html\", function() { console.log('Navbar loaded'); }); $(\"#search-modal-include\").load(\"search-modal.html\"); $(\"#footer-include\").load(\"footer.html\", function() { console.log('F",
     "content": "Training TLFB This page is under construction. Content will be added soon. $(function() { $(\"#navbar-include\").load(\"navbar.html\", function() { console.log('Navbar loaded'); }); $(\"#search-modal-include\").load(\"search-modal.html\"); $(\"#footer-include\").load(\"footer.html\", function() { console.log('Footer loaded'); }); });"
   }
