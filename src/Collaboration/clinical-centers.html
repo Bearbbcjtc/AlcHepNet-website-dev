@@ -62,8 +62,8 @@
     
     /* Star marker styles */
     #clinical-markers {
-      /* Adjust marker positions - change the X value to move all markers left/right */
-      transform: translateX(30px);
+      /* Markers positioned to match state centers */
+      transform: translateX(50px);
     }
     
     .map-marker {
@@ -71,19 +71,26 @@
       pointer-events: all !important;
     }
     
-    .map-marker circle {
+    .map-marker circle:not([fill="transparent"]) {
       fill: #c41230;
       stroke: #fff;
       stroke-width: 2;
       pointer-events: all !important;
       transition: all 0.2s ease;
+      filter: drop-shadow(0 0 3px rgba(0,0,0,0.3));
+    }
+    
+    .map-marker circle[fill="transparent"] {
+      fill: transparent;
+      stroke: none;
+      pointer-events: all !important;
     }
     
     .map-marker:hover circle:not([fill="transparent"]) {
       fill: #e01030;
       stroke: #fff;
       stroke-width: 3;
-      filter: drop-shadow(0 0 4px rgba(196, 18, 48, 0.6));
+      filter: drop-shadow(0 0 5px rgba(196, 18, 48, 0.6));
     }
     
     /* Tooltip styles */
@@ -148,6 +155,45 @@
       0% { box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
       50% { box-shadow: 0 0 30px rgba(196, 18, 48, 0.6); }
       100% { box-shadow: 0 4px 15px rgba(0,0,0,0.1); }
+    }
+    
+    /* Organizations section - match homepage layout */
+    .section-title.organizations-title {
+      padding-bottom: 0;
+      border-bottom: none;
+      font-weight: 600;
+    }
+    
+    .organizations-grid {
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1.5rem 1rem;
+      align-items: center;
+      justify-items: center;
+    }
+    
+    .organizations-grid .org-item {
+      width: 300px;
+      height: 70px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 5px;
+    }
+    
+    .organizations-grid .org-item a {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    
+    .organizations-grid .org-item img {
+      max-width: 100%;
+      max-height: 100%;
+      width: auto;
+      height: auto;
+      object-fit: contain;
     }
   </style>
 </head>
@@ -606,7 +652,7 @@
         <hr class="featurette-divider">
         <div class="row featurette">
           <div class="col">
-            <h2 class="featurette-heading">AlcHepNet Organizations</h2>
+            <h2 class="section-title organizations-title">AlcHepNet Organizations</h2>
             <div class="organizations-grid">
               <div class="org-item">
                 <a href="https://my.clevelandclinic.org/" target="_blank" rel="noopener noreferrer">
@@ -650,11 +696,10 @@
 
         <div class="row featurette">
           <div class="col text-center">
-            <p class="lead">AlcHepNet is a clinical and translational research initiative funded by the National Institute on Alcohol Abuse and Alcoholism (NIAAA), a division of NIH.</p>
+            <p class="lead funding-note">AlcHepNet is a clinical and translational research initiative funded by the National Institute on Alcohol Abuse and Alcoholism (NIAAA), a division of NIH.</p>
           </div>
         </div>
         <!-- /END THE FEATURETTES -->
-        <hr class="featurette-divider">
       </div><!-- /.container -->
     </div><!-- /.container -->
   </main>
@@ -738,17 +783,17 @@
       tooltip.id = 'mapTooltip';
       document.querySelector('.us-map-wrapper').appendChild(tooltip);
       
-      // Map of state IDs to clinical centers
+      // Map of state IDs to clinical centers (adjusted to match state centers)
       const stateCenters = {
-        'TX': [{ id: 'cc-utsw', name: 'University of Texas Southwestern', x: 550, y: 410 }],
-        'MN': [{ id: 'cc-mayo', name: 'Mayo Clinic', x: 558, y: 95 }],
+        'TX': [{ id: 'cc-utsw', name: 'University of Texas Southwestern', x: 510, y: 410 }],
+        'MN': [{ id: 'cc-mayo', name: 'Mayo Clinic', x: 560, y: 160 }],
         'IN': [
-          { id: 'cc-iu-dcc', name: 'Indiana University DCC', x: 705, y: 215 },
-          { id: 'cc-iu-clinical', name: 'Indiana University Clinical Center', x: 720, y: 225 }
+          { id: 'cc-iu-dcc', name: 'Indiana University DCC', x: 675, y: 225 },
+          { id: 'cc-iu-clinical', name: 'Indiana University Clinical Center', x: 690, y: 235 }
         ],
-        'OH': [{ id: 'cc-cleveland', name: 'Cleveland Clinic', x: 780, y: 200 }],
-        'KY': [{ id: 'cc-louisville', name: 'University of Louisville', x: 730, y: 265 }],
-        'VA': [{ id: 'cc-vcu', name: 'Virginia Commonwealth University', x: 870, y: 270 }]
+        'OH': [{ id: 'cc-cleveland', name: 'Cleveland Clinic', x: 740, y: 210 }],
+        'KY': [{ id: 'cc-louisville', name: 'University of Louisville', x: 705, y: 265 }],
+        'VA': [{ id: 'cc-vcu', name: 'Virginia Commonwealth University', x: 825, y: 250 }]
       };
       
       // Highlight states with centers
