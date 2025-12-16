@@ -123,12 +123,6 @@
       <div class="publications-container">
         <div class="page-header">
           <h1>AlcHepNet Publications</h1>
-          
-          <!-- Update Notice -->
-        <div class="alert alert-warning" role="alert" style="margin-bottom: 30px;">
-          <strong><i class="fas fa-info-circle"></i> Note:</strong> Only 6.McClain U01AA026980 for now.
-        </div>
-
           <p class="total-count">Loading publications...</p>
         </div>
 
@@ -194,7 +188,7 @@
     });
 
     function loadPublications() {
-      $.getJSON('doc/mcclain_publications.json')
+      $.getJSON('doc/all_publications.json')
         .done(function(data) {
           publicationsData = data;
           // Sort years in descending order (2025 -> 2008)
