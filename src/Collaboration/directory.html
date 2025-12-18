@@ -286,7 +286,10 @@
               <option value="Coordinators">Coordinators</option>
               <option value="Pharmacists">Pharmacists</option>
               <option value="DSMB Members">DSMB Members</option>
-              <option value="Committee Members">Committee Members</option>
+              <option value="Steering Committee">Steering Committee</option>
+              <option value="Clinical Sub-committee">Clinical Sub-committee</option>
+              <option value="Publication and Ancillary Study Committee">Publication and Ancillary Study Committee (PAC)</option>
+              <option value="Data Science Committee">Data Science Committee</option>
             </select>
           </div>
 
@@ -324,7 +327,7 @@
               <option value="Virginia Commonwealth University">Virginia Commonwealth University</option>
               <option value="University of Louisville">University of Louisville</option>
               <option value="UT Southwestern">UT Southwestern</option>
-              <option value="DSMB">DSMB (External)</option>
+              <option value="DSMB">DSMB</option>
             </select>
           </div>
 
@@ -362,9 +365,9 @@
         name: "Joe Wang",
         roles: {
           "Study Staff": "Project Scientist",
-          "Committee Members": "Member"
+          "Publication and Ancillary Study Committee": "Member"
         },
-        group: ["Study Staff", "Committee Members"],
+        group: ["Study Staff", "Publication and Ancillary Study Committee"],
         institution: "NIAAA",
         title: "Project Scientist",
         committees: "Member, Publication and Ancillary Study Committee",
@@ -374,7 +377,7 @@
       },
       {
         name: "Peter Gao",
-        role: "Program Officer",
+        role: "Site Program Officer",
         group: "Study Staff",
         institution: "NIAAA",
         title: "Site Program Officer",
@@ -384,7 +387,7 @@
       },
       {
         name: "Liz Perruccio",
-        role: "Program Officer",
+        role: "DCC Program Officer",
         group: "Study Staff",
         institution: "NIAAA",
         title: "DCC Program Officer",
@@ -396,10 +399,10 @@
       {
         name: "Wanzhu Tu, PhD",
         roles: {
-          "Study Staff": "PI",
-          "Committee Members": "Co-Chair"
+          "Study Staff": "PI (Contact), Biostatistician",
+          "Data Science Committee": "Co-Chair"
         },
-        group: ["Study Staff", "Committee Members"],
+        group: ["Study Staff", "Data Science Committee"],
         institution: "Indiana University",
         title: "PI (Contact), Biostatistician",
         committees: "Co-chair, Data Science Committee",
@@ -410,10 +413,10 @@
       {
         name: "Samer Gawrieh, MD",
         roles: {
-          "Study Staff": "PI",
-          "Committee Members": "Co-Chair"
+          "Study Staff": "PI, Hepatologist",
+          "Clinical Sub-committee": "Co-Chair"
         },
-        group: ["Study Staff", "Committee Members"],
+        group: ["Study Staff", "Clinical Sub-committee"],
         institution: "Indiana University",
         title: "PI, Hepatologist",
         committees: "Co-chair, Clinical Sub-committee",
@@ -443,7 +446,7 @@
       },
       {
         name: "Carla Kettler",
-        role: "Data Manager",
+        role: "Lead Data Manager",
         group: "Study Staff",
         institution: "Indiana University",
         title: "Lead Data Manager",
@@ -483,7 +486,10 @@
       },
       {
         name: "Jennifer Terrell",
-        role: "Nurse Manager",
+        roles: {
+          "Study Staff": "Nurse Manager",
+          "Coordinators": "Coordinator"
+        },
         group: ["Study Staff", "Coordinators"],
         institution: "Indiana University",
         title: "Nurse Manager & Coordinator",
@@ -496,9 +502,9 @@
         name: "Yang Li, PhD",
         roles: {
           "Study Staff": "Statistician",
-          "Committee Members": "Member"
+          "Publication and Ancillary Study Committee": "Member"
         },
-        group: ["Study Staff", "Committee Members"],
+        group: ["Study Staff", "Publication and Ancillary Study Committee"],
         institution: "Indiana University",
         title: "Statistician",
         committees: "Member, Publication and Ancillary Study Committee",
@@ -510,15 +516,15 @@
         name: "Jing Su, PhD",
         roles: {
           "Study Staff": "Statistician",
-          "Committee Members": "Member"
+          "Data Science Committee": "Member"
         },
-        group: ["Study Staff", "Committee Members"],
+        group: ["Study Staff", "Data Science Committee"],
         institution: "Indiana University",
         title: "Statistician",
         committees: "Member, Data Science Committee",
         email: "su1@iu.edu",
-        image: "../images/committees/placeholder.svg",
-        bio: "Statistician, DSC Member"
+        image: "../images/dcc/Jing.png",
+        bio: "Bioinformatician, Co-lead of ARDaC Core"
       },
       // IU Coordinators
       {
@@ -557,11 +563,11 @@
         name: "Srinivasan Dasarathy, MD",
         roles: {
           "Study Staff": "PI",
-          "Committee Members": "Member"
+          "Data Science Committee": "Member"
         },
-        group: ["Study Staff", "Committee Members"],
+        group: ["Study Staff", "Data Science Committee"],
         institution: "Cleveland Clinic",
-        title: "Principal Investigator",
+        title: "PI",
         committees: "Member, Data Science Committee",
         email: "DASARAS@ccf.org",
         image: "../images/dcc/Srinivasan.jpg",
@@ -571,11 +577,12 @@
         name: "David Streem, MD",
         roles: {
           "Study Staff": "PI",
-          "Committee Members": "Co-Chair"
+          "Publication and Ancillary Study Committee": "Co-Chair",
+          "Clinical Sub-committee": "Member"
         },
-        group: ["Study Staff", "Committee Members"],
+        group: ["Study Staff", "Publication and Ancillary Study Committee", "Clinical Sub-committee"],
         institution: "Cleveland Clinic",
-        title: "Principal Investigator",
+        title: "PI",
         committees: "Co-chair, Publication and Ancillary Study Committee; Member, Clinical Sub-committee",
         email: "Streemd@ccf.org",
         image: "../images/dcc/David.jpg",
@@ -585,9 +592,11 @@
         name: "Nicole Welch",
         roles: {
           "Study Staff": "Investigator",
-          "Committee Members": "Co-Chair"
+          "Data Science Committee": "Co-Chair",
+          "Clinical Sub-committee": "Member",
+          "Publication and Ancillary Study Committee": "Member"
         },
-        group: ["Study Staff", "Committee Members"],
+        group: ["Study Staff", "Data Science Committee", "Clinical Sub-committee", "Publication and Ancillary Study Committee"],
         institution: "Cleveland Clinic",
         title: "Investigator",
         committees: "Co-chair, Data Science Committee; Member, Clinical Sub-committee & PAC",
@@ -599,9 +608,9 @@
         name: "Laura Nagy",
         roles: {
           "Study Staff": "Investigator",
-          "Committee Members": "Member"
+          "Publication and Ancillary Study Committee": "Member"
         },
-        group: ["Study Staff", "Committee Members"],
+        group: ["Study Staff", "Publication and Ancillary Study Committee"],
         institution: "Cleveland Clinic",
         title: "Investigator",
         committees: "Member, Publication and Ancillary Study Committee",
@@ -686,11 +695,11 @@
         name: "Raj Vuppalanchi, MD",
         roles: {
           "Study Staff": "PI",
-          "Committee Members": "Member"
+          "Clinical Sub-committee": "Member"
         },
-        group: ["Study Staff", "Committee Members"],
+        group: ["Study Staff", "Clinical Sub-committee"],
         institution: "Indiana University",
-        title: "Principal Investigator",
+        title: "PI",
         committees: "Member, Clinical Sub-committee",
         email: "rvuppala@iu.edu",
         image: "../images/dcc/Raj.jpg",
@@ -700,11 +709,11 @@
         name: "Olawale Ojo, MD",
         roles: {
           "Study Staff": "PI",
-          "Committee Members": "Member"
+          "Clinical Sub-committee": "Member"
         },
-        group: ["Study Staff", "Committee Members"],
+        group: ["Study Staff", "Clinical Sub-committee"],
         institution: "Indiana University",
-        title: "Principal Investigator",
+        title: "PI",
         committees: "Member, Clinical Sub-committee",
         email: "olaojo@iu.edu",
         image: "../images/dcc/Olawale.jpg",
@@ -722,25 +731,21 @@
       },
       {
         name: "Naga Chalasani, MD",
-        roles: {
-          "Study Staff": "Investigator",
-          "Committee Members": "Member"
-        },
-        group: ["Study Staff", "Committee Members"],
+        role: "Investigator",
+        group: "Study Staff",
         institution: "Indiana University",
         title: "Investigator",
-        committees: "Member, Publication and Ancillary Study Committee",
         email: "nchalasa@iu.edu",
         image: "../images/admin/Naga Chalasani .jpg",
-        bio: "Investigator, PAC Member"
+        bio: "Investigator"
       },
       {
         name: "Suthat Liangpunsakul, MD",
         roles: {
           "Study Staff": "Investigator",
-          "Committee Members": "Co-Chair"
+          "Publication and Ancillary Study Committee": "Co-Chair"
         },
-        group: ["Study Staff", "Committee Members"],
+        group: ["Study Staff", "Publication and Ancillary Study Committee"],
         institution: "Indiana University",
         title: "Investigator",
         committees: "Co-chair, Publication and Ancillary Study Committee",
@@ -753,11 +758,11 @@
         name: "Vijay Shah, MD",
         roles: {
           "Study Staff": "PI",
-          "Committee Members": "Chair"
+          "Steering Committee": "Chair"
         },
-        group: ["Study Staff", "Committee Members"],
+        group: ["Study Staff", "Steering Committee"],
         institution: "Mayo Clinic",
-        title: "Principal Investigator",
+        title: "PI",
         committees: "Chair, Steering Committee",
         email: "Shah.Vijay@mayo.edu",
         image: "../images/dcc/Vijay.jpg",
@@ -768,7 +773,7 @@
         role: "PI",
         group: "Study Staff",
         institution: "Mayo Clinic",
-        title: "Principal Investigator",
+        title: "PI",
         email: "karpyak.victor@mayo.edu",
         image: "../images/dcc/Victor.jpg",
         bio: "PI, Addiction Medicine & Genetics"
@@ -777,9 +782,9 @@
         name: "Patrick Kamath, MD",
         roles: {
           "Study Staff": "Investigator",
-          "Committee Members": "Member"
+          "Publication and Ancillary Study Committee": "Member"
         },
-        group: ["Study Staff", "Committee Members"],
+        group: ["Study Staff", "Publication and Ancillary Study Committee"],
         institution: "Mayo Clinic",
         title: "Investigator",
         committees: "Member, Publication and Ancillary Study Committee",
@@ -791,9 +796,10 @@
         name: "Douglas Simonetto, MD",
         roles: {
           "Study Staff": "Investigator",
-          "Committee Members": "Chair"
+          "Data Science Committee": "Chair",
+          "Clinical Sub-committee": "Member"
         },
-        group: ["Study Staff", "Committee Members"],
+        group: ["Study Staff", "Data Science Committee", "Clinical Sub-committee"],
         institution: "Mayo Clinic",
         title: "Investigator",
         committees: "Chair, Data Science Committee; Member, Clinical Sub-committee",
@@ -848,22 +854,22 @@
         name: "Arun Sanyal, MD",
         roles: {
           "Study Staff": "PI",
-          "Committee Members": "Member"
+          "Data Science Committee": "Co-Chair"
         },
-        group: ["Study Staff", "Committee Members"],
+        group: ["Study Staff", "Data Science Committee"],
         institution: "Virginia Commonwealth University",
-        title: "Principal Investigator",
-        committees: "Member, Data Science Committee",
+        title: "PI",
+        committees: "Co-chair, Data Science Committee",
         email: "arun.sanyal@vcuhealth.org",
         image: "../images/dcc/Arun.jpg",
-        bio: "PI, DSC Member"
+        bio: "PI, DSC Co-Chair"
       },
       {
         name: "Gerry Moeller, MD",
         role: "PI",
         group: "Study Staff",
         institution: "Virginia Commonwealth University",
-        title: "Principal Investigator",
+        title: "PI",
         email: "frederick.moeller@vcuhealth.org",
         image: "../images/dcc/F_Gerard.jpg",
         bio: "PI, Substance Use Disorders"
@@ -872,9 +878,9 @@
         name: "Juan Pablo Arab, MD",
         roles: {
           "Study Staff": "Investigator",
-          "Committee Members": "Chair"
+          "Clinical Sub-committee": "Chair"
         },
-        group: ["Study Staff", "Committee Members"],
+        group: ["Study Staff", "Clinical Sub-committee"],
         institution: "Virginia Commonwealth University",
         title: "Investigator",
         committees: "Chair, Clinical Sub-committee",
@@ -886,9 +892,9 @@
         name: "Richard Sterling, MD",
         roles: {
           "Study Staff": "Investigator",
-          "Committee Members": "Member"
+          "Publication and Ancillary Study Committee": "Member"
         },
-        group: ["Study Staff", "Committee Members"],
+        group: ["Study Staff", "Publication and Ancillary Study Committee"],
         institution: "Virginia Commonwealth University",
         title: "Investigator",
         committees: "Member, Publication and Ancillary Study Committee",
@@ -900,9 +906,9 @@
         name: "Amon Asgharpour, MD",
         roles: {
           "Study Staff": "Investigator",
-          "Committee Members": "Member"
+          "Clinical Sub-committee": "Member"
         },
-        group: ["Study Staff", "Committee Members"],
+        group: ["Study Staff", "Clinical Sub-committee"],
         institution: "Virginia Commonwealth University",
         title: "Investigator",
         committees: "Member, Clinical Sub-committee",
@@ -947,11 +953,12 @@
         name: "Ashwani Singal, MD",
         roles: {
           "Study Staff": "PI",
-          "Committee Members": "Chair"
+          "Publication and Ancillary Study Committee": "Chair",
+          "Data Science Committee": "Member"
         },
-        group: ["Study Staff", "Committee Members"],
+        group: ["Study Staff", "Publication and Ancillary Study Committee", "Data Science Committee"],
         institution: "University of Louisville",
-        title: "Principal Investigator",
+        title: "PI",
         committees: "Chair, Publication and Ancillary Study Committee; Member, Data Science Committee",
         email: "ashwani.singal@louisville.edu",
         image: "../images/dcc/Ashwani.jpg",
@@ -962,7 +969,7 @@
         role: "PI",
         group: "Study Staff",
         institution: "University of Louisville",
-        title: "Principal Investigator",
+        title: "PI",
         email: "christopher.stewart@louisville.edu",
         image: "../images/dcc/Chris.jpg",
         bio: "PI, Addiction Psychiatry"
@@ -971,9 +978,9 @@
         name: "Vatsalya Vatsalya, PhD",
         roles: {
           "Study Staff": "Investigator",
-          "Committee Members": "Member"
+          "Clinical Sub-committee": "Member"
         },
-        group: ["Study Staff", "Committee Members"],
+        group: ["Study Staff", "Clinical Sub-committee"],
         institution: "University of Louisville",
         title: "Investigator",
         committees: "Member, Clinical Sub-committee",
@@ -985,9 +992,9 @@
         name: "Craig McClain, MD",
         roles: {
           "Study Staff": "Investigator",
-          "Committee Members": "Member"
+          "Data Science Committee": "Member"
         },
-        group: ["Study Staff", "Committee Members"],
+        group: ["Study Staff", "Data Science Committee"],
         institution: "University of Louisville",
         title: "Investigator",
         committees: "Member, Data Science Committee",
@@ -1052,11 +1059,11 @@
         name: "Mack Mitchell, MD",
         roles: {
           "Study Staff": "PI",
-          "Committee Members": "Member"
+          "Publication and Ancillary Study Committee": "Member"
         },
-        group: ["Study Staff", "Committee Members"],
+        group: ["Study Staff", "Publication and Ancillary Study Committee"],
         institution: "UT Southwestern",
-        title: "Principal Investigator",
+        title: "PI",
         committees: "Member, Publication and Ancillary Study Committee",
         email: "Mack.Mitchell@utsouthwestern.edu",
         image: "../images/dcc/Mack.jpg",
@@ -1066,11 +1073,11 @@
         name: "Sherwood Brown, MD, PhD",
         roles: {
           "Study Staff": "PI",
-          "Committee Members": "Co-Chair"
+          "Clinical Sub-committee": "Co-Chair"
         },
-        group: ["Study Staff", "Committee Members"],
+        group: ["Study Staff", "Clinical Sub-committee"],
         institution: "UT Southwestern",
-        title: "Principal Investigator",
+        title: "PI",
         committees: "Co-chair, Clinical Sub-committee",
         email: "Sherwood.Brown@utsouthwestern.edu",
         image: "../images/dcc/Sherwood.jpg",
@@ -1080,9 +1087,9 @@
         name: "Jaqueline O'Leary, MD",
         roles: {
           "Study Staff": "Investigator",
-          "Committee Members": "Member"
+          "Clinical Sub-committee": "Member"
         },
-        group: ["Study Staff", "Committee Members"],
+        group: ["Study Staff", "Clinical Sub-committee"],
         institution: "UT Southwestern",
         title: "Investigator",
         committees: "Member, Clinical Sub-committee",
@@ -1177,6 +1184,18 @@
       const count = document.getElementById('resultsCount');
       const groupFilter = document.getElementById('groupFilter').value;
 
+      // Group name abbreviations for display
+      const groupNameMap = {
+        "Study Staff": "Study Staff",
+        "Coordinators": "Coordinators",
+        "Pharmacists": "Pharmacists",
+        "DSMB Members": "DSMB",
+        "Steering Committee": "Steering",
+        "Clinical Sub-committee": "Clinical Sub",
+        "Publication and Ancillary Study Committee": "PAC",
+        "Data Science Committee": "DSC"
+      };
+
       container.innerHTML = '';
       count.textContent = researchersList.length;
 
@@ -1189,27 +1208,23 @@
           ? (Array.isArray(researcher.group) ? researcher.group : [researcher.group])
           : ["Study Staff"];
 
-        // Determine role to display based on current filter or group
-        let displayRole;
-        if (researcher.roles && typeof researcher.roles === 'object') {
-          // New structure: roles is an object mapping group to role
-          if (groupFilter && researcher.roles[groupFilter]) {
-            // If filtering by a specific group, show that group's role
-            displayRole = researcher.roles[groupFilter];
-          } else {
-            // Show role for the first group this person belongs to
-            displayRole = researcher.roles[groups[0]] || Object.values(researcher.roles)[0];
-          }
-        } else {
-          // Fallback to old structure for backward compatibility
-          displayRole = researcher.role;
-          if (researcher.additionalRoles && researcher.additionalRoles.length > 0) {
-            displayRole = researcher.additionalRoles[0];
-          }
-        }
+        // Generate group badges HTML with abbreviated names
+        const groupBadges = groups.map(g => {
+          const displayName = groupNameMap[g] || g;
+          return `<span class="researcher-group">${displayName}</span>`;
+        }).join('');
 
-        // Generate group badges HTML
-        const groupBadges = groups.map(g => `<span class="researcher-group">${g}</span>`).join('');
+        // Generate role badges HTML - show all roles
+        let roleBadges = '';
+        if (researcher.roles && typeof researcher.roles === 'object') {
+          // New structure: roles is an object, show all roles
+          roleBadges = Object.values(researcher.roles).map(r => 
+            `<span class="researcher-role">${r}</span>`
+          ).join('');
+        } else {
+          // Old structure: single role
+          roleBadges = `<span class="researcher-role">${researcher.role}</span>`;
+        }
 
         const bioText = researcher.bio || `${researcher.title}${researcher.committees ? '. ' + researcher.committees : ''}`;
 
@@ -1221,7 +1236,7 @@
                 <h4 class="researcher-name">${researcher.name}</h4>
                 <div>
                   ${groupBadges}
-                  <span class="researcher-role">${displayRole}</span>
+                  ${roleBadges}
                 </div>
                 <div class="researcher-institution">${researcher.institution}</div>
                 <a href="mailto:${researcher.email}" class="researcher-email">${researcher.email}</a>
@@ -1280,11 +1295,67 @@
       renderResearchers(filteredResearchers);
     }
 
+    // Function to update role filter options based on selected group
+    function updateRoleOptions() {
+      const groupFilter = document.getElementById('groupFilter').value;
+      const roleFilterElement = document.getElementById('roleFilter');
+      
+      // Get all unique roles for the selected group
+      let availableRoles = new Set();
+      
+      if (!groupFilter) {
+        // If no group selected, show all roles
+        researchers.forEach(researcher => {
+          if (researcher.roles && typeof researcher.roles === 'object') {
+            Object.values(researcher.roles).forEach(role => availableRoles.add(role));
+          } else if (researcher.role) {
+            availableRoles.add(researcher.role);
+          }
+        });
+      } else {
+        // If group selected, only show roles for that group
+        researchers.forEach(researcher => {
+          const researcherGroups = researcher.group 
+            ? (Array.isArray(researcher.group) ? researcher.group : [researcher.group])
+            : ["Study Staff"];
+          
+          if (researcherGroups.includes(groupFilter)) {
+            if (researcher.roles && typeof researcher.roles === 'object' && researcher.roles[groupFilter]) {
+              availableRoles.add(researcher.roles[groupFilter]);
+            } else if (researcher.role) {
+              availableRoles.add(researcher.role);
+            }
+          }
+        });
+      }
+      
+      // Sort roles alphabetically
+      const sortedRoles = Array.from(availableRoles).sort();
+      
+      // Save current selection
+      const currentSelection = roleFilterElement.value;
+      
+      // Clear and rebuild options
+      roleFilterElement.innerHTML = '<option value="">All</option>';
+      sortedRoles.forEach(role => {
+        const option = document.createElement('option');
+        option.value = role;
+        option.textContent = role;
+        roleFilterElement.appendChild(option);
+      });
+      
+      // Restore selection if still available
+      if (currentSelection && sortedRoles.includes(currentSelection)) {
+        roleFilterElement.value = currentSelection;
+      }
+    }
+
     // Function to clear filters
     function clearFilters() {
       document.getElementById('groupFilter').value = '';
       document.getElementById('roleFilter').value = '';
       document.getElementById('institutionFilter').value = '';
+      updateRoleOptions();
       filteredResearchers = [...researchers];
       renderResearchers(filteredResearchers);
     }
@@ -1311,6 +1382,14 @@
       $("#footer-include").load("../footer.html", function () {
         console.log('Footer loaded');
       });
+
+      // Add event listener for group filter changes
+      document.getElementById('groupFilter').addEventListener('change', function() {
+        updateRoleOptions();
+      });
+
+      // Initialize role options
+      updateRoleOptions();
 
       // Initial render
       renderResearchers(filteredResearchers);
