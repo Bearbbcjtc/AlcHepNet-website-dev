@@ -18,7 +18,7 @@
           <div class="col-6">
             <ul class="list-unstyled">
               <li><a href="Publishing/publications.html" class="text-muted">Publications</a></li>
-              <li><a href="eligibility.html" class="text-muted">Eligibility</a></li>
+              <li><a href="Clinical/eligibility.html" class="text-muted">Eligibility</a></li>
               <li><a href="Data_Access/data-system.html" class="text-muted">Data System</a></li>
               <li><a href="ardac.html" class="text-muted">ARDaC</a></li>
               <li><a href="team.html" class="text-muted">Biorepository</a></li>
@@ -183,8 +183,8 @@
     var pathParts = currentPath.split('/').filter(function(part) { return part.length > 0; });
     var isInSubdirectory = false;
     
-    // Check if we're in a subdirectory by looking for Collaboration, Data_Access, or Publishing
-    if (pathParts.includes('Collaboration') || pathParts.includes('Data_Access') || pathParts.includes('Publishing')) {
+    // Check if we're in a subdirectory by looking for Collaboration, Data_Access, Publishing, or Clinical
+    if (pathParts.includes('Collaboration') || pathParts.includes('Data_Access') || pathParts.includes('Publishing') || pathParts.includes('Clinical')) {
       isInSubdirectory = true;
     }
     

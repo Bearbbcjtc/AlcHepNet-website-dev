@@ -217,22 +217,15 @@
       margin-bottom: 0;
     }
 
-    .btn-view-profile {
-      flex-shrink: 0;
-      padding: 8px 18px;
-      background-color: var(--btn-primary-bg, #80abc1);
-      color: white;
-      border: none;
-      border-radius: 4px;
-      font-size: 0.85rem;
-      font-weight: 600;
-      cursor: pointer;
-      transition: background-color 0.3s;
-      height: fit-content;
+    .researcher-email {
+      color: #0066cc;
+      font-size: 0.9rem;
+      margin-top: 5px;
+      text-decoration: none;
     }
 
-    .btn-view-profile:hover {
-      background-color: var(--btn-primary-hover, #0056b3);
+    .researcher-email:hover {
+      text-decoration: underline;
     }
 
     /* Responsive */
@@ -261,10 +254,6 @@
         text-align: center;
       }
 
-      .btn-view-profile {
-        width: 100%;
-        margin-top: 15px;
-      }
     }
 
     .page-title {
@@ -306,8 +295,7 @@
             <select id="roleFilter">
               <option value="">All</option>
               <option value="PI">Principal Investigator (PI)</option>
-              <option value="MPI">Multiple Principal Investigator (MPI)</option>
-              <option value="Sub-Investigator">Sub-Investigator</option>
+              <option value="Investigator">Investigator</option>
               <option value="Statistician">Statistician</option>
               <option value="Project Scientist">Project Scientist</option>
               <option value="Program Officer">Program Officer</option>
@@ -382,7 +370,7 @@
         committees: "Member, Publication and Ancillary Study Committee",
         email: "wangh4@mail.nih.gov",
         image: "../images/committees/placeholder.svg",
-        bio: "Joe Wang serves as Project Scientist at NIAAA and member of the PAC."
+        bio: "Project Scientist, PAC Member"
       },
       {
         name: "Peter Gao",
@@ -392,7 +380,7 @@
         title: "Site Program Officer",
         email: "gaozh@mail.nih.gov",
         image: "../images/committees/placeholder.svg",
-        bio: "Peter Gao serves as Site Program Officer at NIAAA, managing program operations and coordination."
+        bio: "Site Program Officer"
       },
       {
         name: "Liz Perruccio",
@@ -402,36 +390,36 @@
         title: "DCC Program Officer",
         email: "liz.perruccio@nih.gov",
         image: "../images/committees/placeholder.svg",
-        bio: "Liz Perruccio serves as DCC Program Officer at NIAAA, overseeing Data Coordinating Center operations."
+        bio: "DCC Program Officer"
       },
       // IU DCC
       {
         name: "Wanzhu Tu, PhD",
         roles: {
-          "Study Staff": "MPI",
+          "Study Staff": "PI",
           "Committee Members": "Co-Chair"
         },
         group: ["Study Staff", "Committee Members"],
         institution: "Indiana University",
-        title: "MPI (Contact) - Biostatistician",
+        title: "PI (Contact), Biostatistician",
         committees: "Co-chair, Data Science Committee",
         email: "wtu1@iu.edu",
         image: "../images/dcc/Wanzhu.jpg",
-        bio: "Dr. Tu serves as Multiple Principal Investigator and Data-analytical Director at the Indiana University Data Coordinating Center."
+        bio: "Biostatistician, Data-analytical Director, Co-chair DSC"
       },
       {
         name: "Samer Gawrieh, MD",
         roles: {
-          "Study Staff": "MPI",
+          "Study Staff": "PI",
           "Committee Members": "Co-Chair"
         },
         group: ["Study Staff", "Committee Members"],
         institution: "Indiana University",
-        title: "MPI - Hepatologist",
+        title: "PI, Hepatologist",
         committees: "Co-chair, Clinical Sub-committee",
         email: "sgawrieh@iu.edu",
         image: "../images/dcc/Samer.jpg",
-        bio: "Dr. Gawrieh serves as Multiple Principal Investigator and Clinical Director at the Indiana University Data Coordinating Center."
+        bio: "Hepatologist, Clinical Director, Co-chair Clinical Sub-committee"
       },
       {
         name: "Marwan Ghabril, MD",
@@ -441,7 +429,7 @@
         title: "Safety Officer",
         email: "mghabril@iu.edu",
         image: "../images/admin/Marwan Ghabril.jpg",
-        bio: "Dr. Ghabril serves as Safety Officer, monitoring participant safety and adverse events throughout the study."
+        bio: "Safety Officer"
       },
       {
         name: "Savannah Yarnelle",
@@ -451,7 +439,7 @@
         title: "Program Manager",
         email: "samussel@iu.edu",
         image: "../images/dcc/Savannah.png",
-        bio: "Savannah serves as Program Manager, coordinating operations and communication across all research sites."
+        bio: "Bioinformatician, Co-lead of ARDaC Core"
       },
       {
         name: "Carla Kettler",
@@ -461,7 +449,7 @@
         title: "Lead Data Manager",
         email: "ckettler@iu.edu",
         image: "../images/dcc/Carla.png",
-        bio: "Carla leads the data management team, ensuring data quality and integrity across the study."
+        bio: "Lead Data Manager"
       },
       {
         name: "Ronny Ovando",
@@ -471,7 +459,7 @@
         title: "Data Manager",
         email: "rmovando@iu.edu",
         image: "../images/committees/placeholder.svg",
-        bio: "Ronny serves as Data Manager, supporting data collection and database management activities."
+        bio: "Data Manager"
       },
       {
         name: "Timothy Hotchkiss",
@@ -481,7 +469,7 @@
         title: "Data Manager",
         email: "thotchl@iu.edu",
         image: "../images/committees/placeholder.svg",
-        bio: "Timothy serves as Data Manager, managing data quality control and validation procedures."
+        bio: "Data Manager"
       },
       {
         name: "Jo Davies",
@@ -491,7 +479,7 @@
         title: "Monitor",
         email: "jhdavies@iu.edu",
         image: "../images/committees/placeholder.svg",
-        bio: "Jo serves as Monitor, conducting site visits and ensuring protocol compliance across clinical sites."
+        bio: "Monitor"
       },
       {
         name: "Jennifer Terrell",
@@ -501,7 +489,7 @@
         title: "Nurse Manager & Coordinator",
         email: "jkramey@iu.edu",
         image: "../images/committees/placeholder.svg",
-        bio: "Jennifer serves as Nurse Manager and Coordinator at Indiana University, overseeing nursing staff and supporting clinical research coordination."
+        bio: "Nurse Manager & Coordinator"
       },
       // IU Coordinators
       {
@@ -516,7 +504,7 @@
         committees: "Member, Publication and Ancillary Study Committee",
         email: "yli18@iu.edu",
         image: "../images/committees/placeholder.svg",
-        bio: "Dr. Li serves as Statistician at Indiana University Data Coordinating Center and member of the PAC."
+        bio: "Statistician, PAC Member"
       },
       {
         name: "Jing Su, PhD",
@@ -530,7 +518,7 @@
         committees: "Member, Data Science Committee",
         email: "su1@iu.edu",
         image: "../images/committees/placeholder.svg",
-        bio: "Dr. Su serves as Statistician at Indiana University Data Coordinating Center and member of the Data Science Committee."
+        bio: "Statistician, DSC Member"
       },
       // IU Coordinators
       {
@@ -541,7 +529,7 @@
         title: "Lead Coordinator",
         email: "csnoeber@iu.edu",
         image: "../images/committees/placeholder.svg",
-        bio: "Caitlin serves as Lead Coordinator at Indiana University, managing clinical study coordination activities."
+        bio: "Lead Coordinator"
       },
       {
         name: "Christopher Rusie",
@@ -551,7 +539,7 @@
         title: "Coordinator",
         email: "cgrusie@iu.edu",
         image: "../images/committees/placeholder.svg",
-        bio: "Christopher serves as Coordinator at Indiana University, supporting clinical research operations."
+        bio: "Coordinator"
       },
       // IU Pharmacist
       {
@@ -562,7 +550,7 @@
         title: "Pharmacist",
         email: "mallard@iuhealth.org",
         image: "../images/admin/Melissa Allard.jpg",
-        bio: "Melissa serves as Pharmacist at Indiana University, managing investigational drug services."
+        bio: "Pharmacist"
       },
       // Cleveland Clinic
       {
@@ -577,49 +565,49 @@
         committees: "Member, Data Science Committee",
         email: "DASARAS@ccf.org",
         image: "../images/dcc/Srinivasan.jpg",
-        bio: "Dr. Dasarathy is a Principal Investigator at Cleveland Clinic and member of the Data Science Committee."
+        bio: "PI, DSC Member"
       },
       {
         name: "David Streem, MD",
         roles: {
-          "Study Staff": "MPI",
+          "Study Staff": "PI",
           "Committee Members": "Co-Chair"
         },
         group: ["Study Staff", "Committee Members"],
         institution: "Cleveland Clinic",
-        title: "Multiple Principal Investigator",
+        title: "Principal Investigator",
         committees: "Co-chair, Publication and Ancillary Study Committee; Member, Clinical Sub-committee",
         email: "Streemd@ccf.org",
         image: "../images/dcc/David.jpg",
-        bio: "Dr. Streem is a Principal Investigator at Cleveland Clinic, co-chairs the PAC, and is a member of the Clinical Sub-committee."
+        bio: "PI, Co-chair PAC, Clinical Sub-committee Member"
       },
       {
         name: "Nicole Welch",
         roles: {
-          "Study Staff": "Sub-Investigator",
+          "Study Staff": "Investigator",
           "Committee Members": "Co-Chair"
         },
         group: ["Study Staff", "Committee Members"],
         institution: "Cleveland Clinic",
-        title: "Sub-Investigator",
+        title: "Investigator",
         committees: "Co-chair, Data Science Committee; Member, Clinical Sub-committee & PAC",
         email: "welchn@ccf.org",
         image: "../images/committees/Nicole.jpg",
-        bio: "Nicole serves as Sub-Investigator, co-chairs the Data Science Committee, and is a member of the Clinical Sub-committee and PAC."
+        bio: "Investigator, Co-chair DSC, Clinical Sub-committee & PAC Member"
       },
       {
         name: "Laura Nagy",
         roles: {
-          "Study Staff": "Sub-Investigator",
+          "Study Staff": "Investigator",
           "Committee Members": "Member"
         },
         group: ["Study Staff", "Committee Members"],
         institution: "Cleveland Clinic",
-        title: "Sub-Investigator",
+        title: "Investigator",
         committees: "Member, Publication and Ancillary Study Committee",
         email: "nagyl3@ccf.org",
         image: "../images/committees/placeholder.svg",
-        bio: "Laura Nagy serves as Sub-Investigator at Cleveland Clinic and member of the PAC."
+        bio: "Investigator, PAC Member"
       },
       // Cleveland Clinic Coordinators
       {
@@ -630,7 +618,7 @@
         title: "Lead Coordinator",
         email: "khatibl2@ccf.org",
         image: "../images/committees/placeholder.svg",
-        bio: "Lana serves as Lead Coordinator at Cleveland Clinic, managing clinical study coordination."
+        bio: "Lead Coordinator"
       },
       {
         name: "Rahul Yerrapothu",
@@ -640,7 +628,7 @@
         title: "Coordinator",
         email: "yerrapr@ccf.org",
         image: "../images/committees/placeholder.svg",
-        bio: "Rahul serves as Coordinator at Cleveland Clinic, supporting clinical research activities."
+        bio: "Coordinator"
       },
       {
         name: "Annette Bellar",
@@ -650,7 +638,7 @@
         title: "Coordinator",
         email: "bellara@ccf.org",
         image: "../images/committees/placeholder.svg",
-        bio: "Annette serves as Coordinator at Cleveland Clinic, supporting clinical research operations."
+        bio: "Coordinator"
       },
       {
         name: "Shashi Kant",
@@ -660,7 +648,7 @@
         title: "Coordinator",
         email: "shashik@ccf.org",
         image: "../images/committees/placeholder.svg",
-        bio: "Shashi serves as Coordinator at Cleveland Clinic, assisting with clinical study management."
+        bio: "Coordinator"
       },
       {
         name: "Anja Tichy",
@@ -670,7 +658,7 @@
         title: "Coordinator",
         email: "tichya@ccf.org",
         image: "../images/committees/placeholder.svg",
-        bio: "Anja serves as Coordinator at Cleveland Clinic, supporting clinical research coordination."
+        bio: "Coordinator"
       },
       // Cleveland Clinic Pharmacists
       {
@@ -681,7 +669,7 @@
         title: "Pharmacist",
         email: "yimr@ccf.org",
         image: "../images/committees/placeholder.svg",
-        bio: "Rachael serves as Pharmacist at Cleveland Clinic, managing investigational drug services."
+        bio: "Pharmacist"
       },
       {
         name: "IDS Pharmacy Pool",
@@ -691,7 +679,7 @@
         title: "Pharmacy Pool",
         email: "ids@ccf.org",
         image: "../images/committees/placeholder.svg",
-        bio: "IDS Pharmacy Pool provides pharmaceutical support for investigational drug services at Cleveland Clinic."
+        bio: "Pharmacy Pool"
       },
       // Indiana University (Clinical Site)
       {
@@ -706,58 +694,59 @@
         committees: "Member, Clinical Sub-committee",
         email: "rvuppala@iu.edu",
         image: "../images/dcc/Raj.jpg",
-        bio: "Dr. Vuppalanchi is a Principal Investigator at Indiana University and member of the Clinical Sub-committee."
+        bio: "PI, Clinical Sub-committee Member"
       },
       {
         name: "Olawale Ojo, MD",
         roles: {
-          "Study Staff": "MPI",
+          "Study Staff": "PI",
           "Committee Members": "Member"
         },
         group: ["Study Staff", "Committee Members"],
         institution: "Indiana University",
-        title: "Multiple Principal Investigator",
+        title: "Principal Investigator",
         committees: "Member, Clinical Sub-committee",
         email: "olaojo@iu.edu",
         image: "../images/dcc/Olawale.jpg",
-        bio: "Dr. Ojo is a Multiple Principal Investigator at Indiana University and member of the Clinical Sub-committee."
+        bio: "PI, Clinical Sub-committee Member"
       },
       {
         name: "Lauren Nephew, MD",
-        role: "Sub-Investigator",
+        role: "Investigator",
+        group: "Study Staff",
         institution: "Indiana University",
-        title: "Sub-Investigator",
+        title: "Investigator",
         email: "lnephew@iu.edu",
         image: "../images/admin/Lauren Nephew.jpg",
-        bio: "Dr. Nephew serves as Sub-Investigator at Indiana University, supporting clinical research initiatives."
+        bio: "Investigator"
       },
       {
         name: "Naga Chalasani, MD",
         roles: {
-          "Study Staff": "Sub-Investigator",
+          "Study Staff": "Investigator",
           "Committee Members": "Member"
         },
         group: ["Study Staff", "Committee Members"],
         institution: "Indiana University",
-        title: "Sub-Investigator",
+        title: "Investigator",
         committees: "Member, Publication and Ancillary Study Committee",
         email: "nchalasa@iu.edu",
         image: "../images/admin/Naga Chalasani .jpg",
-        bio: "Dr. Chalasani serves as Sub-Investigator at Indiana University and member of the PAC."
+        bio: "Investigator, PAC Member"
       },
       {
         name: "Suthat Liangpunsakul, MD",
         roles: {
-          "Study Staff": "Sub-Investigator",
+          "Study Staff": "Investigator",
           "Committee Members": "Co-Chair"
         },
         group: ["Study Staff", "Committee Members"],
         institution: "Indiana University",
-        title: "Sub-Investigator",
+        title: "Investigator",
         committees: "Co-chair, Publication and Ancillary Study Committee",
         email: "sliangpu@iu.edu",
         image: "../images/admin/Liangpunsakul.jpg",
-        bio: "Dr. Liangpunsakul serves as Sub-Investigator and co-chairs the Publication and Ancillary Study Committee."
+        bio: "Investigator, Co-chair PAC"
       },
       // Mayo Clinic
       {
@@ -772,54 +761,55 @@
         committees: "Chair, Steering Committee",
         email: "Shah.Vijay@mayo.edu",
         image: "../images/dcc/Vijay.jpg",
-        bio: "Dr. Shah is a Principal Investigator at Mayo Clinic and chairs the Steering Committee, providing overall study leadership."
+        bio: "PI, Chair Steering Committee"
       },
       {
         name: "Victor Karpyak, MD, PhD",
-        role: "MPI",
+        role: "PI",
+        group: "Study Staff",
         institution: "Mayo Clinic",
-        title: "Multiple Principal Investigator",
+        title: "Principal Investigator",
         email: "karpyak.victor@mayo.edu",
         image: "../images/dcc/Victor.jpg",
-        bio: "Dr. Karpyak is a Multiple Principal Investigator at Mayo Clinic, specializing in addiction medicine and genetics."
+        bio: "PI, Addiction Medicine & Genetics"
       },
       {
         name: "Patrick Kamath, MD",
         roles: {
-          "Study Staff": "Sub-Investigator",
+          "Study Staff": "Investigator",
           "Committee Members": "Member"
         },
         group: ["Study Staff", "Committee Members"],
         institution: "Mayo Clinic",
-        title: "Sub-Investigator",
+        title: "Investigator",
         committees: "Member, Publication and Ancillary Study Committee",
         email: "kamath.patrick@mayo.edu",
         image: "../images/admin/Dr Kamath.png",
-        bio: "Dr. Kamath serves as Sub-Investigator at Mayo Clinic and member of the PAC."
+        bio: "Investigator, PAC Member"
       },
       {
         name: "Douglas Simonetto, MD",
         roles: {
-          "Study Staff": "Sub-Investigator",
+          "Study Staff": "Investigator",
           "Committee Members": "Chair"
         },
         group: ["Study Staff", "Committee Members"],
         institution: "Mayo Clinic",
-        title: "Sub-Investigator",
+        title: "Investigator",
         committees: "Chair, Data Science Committee; Member, Clinical Sub-committee",
         email: "Simonetto.Douglas@mayo.edu",
         image: "../images/committees/Douglas.jpg",
-        bio: "Dr. Simonetto serves as Sub-Investigator, chairs the Data Science Committee, and is a member of the Clinical Sub-committee."
+        bio: "Investigator, Chair DSC, Clinical Sub-committee Member"
       },
       {
         name: "Terry Schneekloth, MD",
-        role: "Sub-Investigator",
+        role: "Investigator",
         group: "Study Staff",
         institution: "Mayo Clinic",
-        title: "Sub-Investigator",
+        title: "Investigator",
         email: "schneekloth.terry@mayo.edu",
         image: "../images/admin/Dr Schneekloth.png",
-        bio: "Dr. Schneekloth serves as Sub-Investigator at Mayo Clinic, specializing in addiction psychiatry."
+        bio: "Investigator, Addiction Psychiatry"
       },
       // Mayo Clinic Coordinators
       {
@@ -830,7 +820,7 @@
         title: "Lead Coordinator",
         email: "olofson.amy@mayo.edu",
         image: "../images/committees/placeholder.svg",
-        bio: "Amy serves as Lead Coordinator at Mayo Clinic, managing clinical study coordination activities."
+        bio: "Lead Coordinator"
       },
       {
         name: "Lauren (Ren) Cutrer",
@@ -840,7 +830,7 @@
         title: "Coordinator",
         email: "cutrer.lauren@mayo.edu",
         image: "../images/committees/placeholder.svg",
-        bio: "Lauren serves as Coordinator at Mayo Clinic, supporting clinical research operations."
+        bio: "Coordinator"
       },
       // Mayo Clinic Pharmacist
       {
@@ -851,7 +841,7 @@
         title: "Pharmacist",
         email: "manley.melissa@mayo.edu",
         image: "../images/committees/placeholder.svg",
-        bio: "Melissa serves as Pharmacist at Mayo Clinic, managing investigational drug services."
+        bio: "Pharmacist"
       },
       // Virginia Commonwealth University
       {
@@ -866,58 +856,59 @@
         committees: "Member, Data Science Committee",
         email: "arun.sanyal@vcuhealth.org",
         image: "../images/dcc/Arun.jpg",
-        bio: "Dr. Sanyal is a Principal Investigator at Virginia Commonwealth University and member of the Data Science Committee."
+        bio: "PI, DSC Member"
       },
       {
         name: "Gerry Moeller, MD",
-        role: "MPI",
+        role: "PI",
+        group: "Study Staff",
         institution: "Virginia Commonwealth University",
-        title: "Multiple Principal Investigator",
+        title: "Principal Investigator",
         email: "frederick.moeller@vcuhealth.org",
         image: "../images/dcc/F_Gerard.jpg",
-        bio: "Dr. Moeller is a Multiple Principal Investigator at Virginia Commonwealth University, specializing in substance use disorders."
+        bio: "PI, Substance Use Disorders"
       },
       {
         name: "Juan Pablo Arab, MD",
         roles: {
-          "Study Staff": "Sub-Investigator",
+          "Study Staff": "Investigator",
           "Committee Members": "Chair"
         },
         group: ["Study Staff", "Committee Members"],
         institution: "Virginia Commonwealth University",
-        title: "Sub-Investigator",
+        title: "Investigator",
         committees: "Chair, Clinical Sub-committee",
         email: "JuanPablo.Arab@vcuhealth.org",
         image: "../images/committees/Juan.png",
-        bio: "Dr. Arab serves as Sub-Investigator and chairs the Clinical Sub-committee, overseeing clinical protocols."
+        bio: "Investigator, Chair Clinical Sub-committee"
       },
       {
         name: "Richard Sterling, MD",
         roles: {
-          "Study Staff": "Sub-Investigator",
+          "Study Staff": "Investigator",
           "Committee Members": "Member"
         },
         group: ["Study Staff", "Committee Members"],
         institution: "Virginia Commonwealth University",
-        title: "Sub-Investigator",
+        title: "Investigator",
         committees: "Member, Publication and Ancillary Study Committee",
         email: "richard.sterling@vcuhealth.org",
         image: "../images/committees/placeholder.svg",
-        bio: "Dr. Sterling serves as Sub-Investigator at Virginia Commonwealth University and member of the PAC."
+        bio: "Investigator, PAC Member"
       },
       {
         name: "Amon Asgharpour, MD",
         roles: {
-          "Study Staff": "Sub-Investigator",
+          "Study Staff": "Investigator",
           "Committee Members": "Member"
         },
         group: ["Study Staff", "Committee Members"],
         institution: "Virginia Commonwealth University",
-        title: "Sub-Investigator",
+        title: "Investigator",
         committees: "Member, Clinical Sub-committee",
         email: "amon.asgharpour@vcuhealth.org",
         image: "../images/committees/placeholder.svg",
-        bio: "Dr. Asgharpour serves as Sub-Investigator at Virginia Commonwealth University and member of the Clinical Sub-committee."
+        bio: "Investigator, Clinical Sub-committee Member"
       },
       // VCU Coordinators
       {
@@ -928,7 +919,7 @@
         title: "Lead Coordinator",
         email: "sara.oconnor@vcuhealth.org",
         image: "../images/committees/placeholder.svg",
-        bio: "Sara serves as Lead Coordinator at Virginia Commonwealth University, managing clinical study coordination."
+        bio: "Lead Coordinator"
       },
       {
         name: "Mona Shah",
@@ -938,7 +929,7 @@
         title: "Coordinator",
         email: "Mona.Shah1@vcuhealth.org",
         image: "../images/committees/placeholder.svg",
-        bio: "Mona serves as Coordinator at Virginia Commonwealth University, supporting clinical research activities."
+        bio: "Coordinator"
       },
       // VCU Pharmacist
       {
@@ -949,7 +940,7 @@
         title: "Rotating Pharmacists",
         email: "Investigational.drug@vcuhealth.org",
         image: "../images/committees/placeholder.svg",
-        bio: "A team of 7 rotating pharmacists provides pharmaceutical support for investigational drug services at VCU."
+        bio: "Rotating Pharmacists"
       },
       // University of Louisville
       {
@@ -964,44 +955,45 @@
         committees: "Chair, Publication and Ancillary Study Committee; Member, Data Science Committee",
         email: "ashwani.singal@louisville.edu",
         image: "../images/dcc/Ashwani.jpg",
-        bio: "Dr. Singal is a Principal Investigator at University of Louisville, chairs the PAC, and is a member of the Data Science Committee."
+        bio: "PI, Chair PAC, DSC Member"
       },
       {
         name: "Chris Stewart, MD",
-        role: "MPI",
+        role: "PI",
+        group: "Study Staff",
         institution: "University of Louisville",
-        title: "Multiple Principal Investigator",
+        title: "Principal Investigator",
         email: "christopher.stewart@louisville.edu",
         image: "../images/dcc/Chris.jpg",
-        bio: "Dr. Stewart is a Multiple Principal Investigator at University of Louisville, focusing on addiction psychiatry."
+        bio: "PI, Addiction Psychiatry"
       },
       {
         name: "Vatsalya Vatsalya, PhD",
         roles: {
-          "Study Staff": "Sub-Investigator",
+          "Study Staff": "Investigator",
           "Committee Members": "Member"
         },
         group: ["Study Staff", "Committee Members"],
         institution: "University of Louisville",
-        title: "Sub-Investigator",
+        title: "Investigator",
         committees: "Member, Clinical Sub-committee",
         email: "vatsalya.vatsalya@louisville.edu",
         image: "../images/admin/Vatsalya Vatsalya.jpg",
-        bio: "Dr. Vatsalya serves as Sub-Investigator at University of Louisville and member of the Clinical Sub-committee."
+        bio: "Investigator, Clinical Sub-committee Member"
       },
       {
         name: "Craig McClain, MD",
         roles: {
-          "Study Staff": "Sub-Investigator",
+          "Study Staff": "Investigator",
           "Committee Members": "Member"
         },
         group: ["Study Staff", "Committee Members"],
         institution: "University of Louisville",
-        title: "Sub-Investigator",
+        title: "Investigator",
         committees: "Member, Data Science Committee",
         email: "craig.mcclain@louisville.edu",
         image: "../images/admin/Craig McClain.jpg",
-        bio: "Dr. McClain serves as Sub-Investigator at University of Louisville and member of the Data Science Committee."
+        bio: "Investigator, DSC Member"
       },
       // University of Louisville Coordinators
       {
@@ -1012,7 +1004,7 @@
         title: "Lead Coordinator",
         email: "amber.jackson.1@louisville.edu",
         image: "../images/committees/placeholder.svg",
-        bio: "Amber serves as Lead Coordinator at University of Louisville, managing clinical study coordination."
+        bio: "Lead Coordinator"
       },
       {
         name: "Mariel Basa",
@@ -1022,7 +1014,7 @@
         title: "Coordinator",
         email: "mariel.basa@louisville.edu",
         image: "../images/committees/placeholder.svg",
-        bio: "Mariel serves as Coordinator at University of Louisville, supporting clinical research activities."
+        bio: "Coordinator"
       },
       {
         name: "Theresa Durham",
@@ -1032,7 +1024,7 @@
         title: "Coordinator",
         email: "theresa.durham@louisville.edu",
         image: "../images/committees/placeholder.svg",
-        bio: "Theresa serves as Coordinator at University of Louisville, supporting clinical research operations."
+        bio: "Coordinator"
       },
       // University of Louisville Pharmacists
       {
@@ -1043,7 +1035,7 @@
         title: "Pharmacist",
         email: "cathy.whalen@uoflhealth.org",
         image: "../images/committees/placeholder.svg",
-        bio: "Cathy serves as Pharmacist at University of Louisville, managing investigational drug services."
+        bio: "Pharmacist"
       },
       {
         name: "Amanda Sell",
@@ -1053,7 +1045,7 @@
         title: "Pharmacist",
         email: "amanda.sell@uoflhealth.org",
         image: "../images/committees/placeholder.svg",
-        bio: "Amanda serves as Pharmacist at University of Louisville, supporting pharmaceutical research operations."
+        bio: "Pharmacist"
       },
       // UT Southwestern
       {
@@ -1068,35 +1060,35 @@
         committees: "Member, Publication and Ancillary Study Committee",
         email: "Mack.Mitchell@utsouthwestern.edu",
         image: "../images/dcc/Mack.jpg",
-        bio: "Dr. Mitchell is a Principal Investigator at UT Southwestern and member of the PAC."
+        bio: "PI, PAC Member"
       },
       {
         name: "Sherwood Brown, MD, PhD",
         roles: {
-          "Study Staff": "MPI",
+          "Study Staff": "PI",
           "Committee Members": "Co-Chair"
         },
         group: ["Study Staff", "Committee Members"],
         institution: "UT Southwestern",
-        title: "Multiple Principal Investigator",
+        title: "Principal Investigator",
         committees: "Co-chair, Clinical Sub-committee",
         email: "Sherwood.Brown@utsouthwestern.edu",
         image: "../images/dcc/Sherwood.jpg",
-        bio: "Dr. Brown is a Multiple Principal Investigator at UT Southwestern and co-chairs the Clinical Sub-committee."
+        bio: "PI, Co-chair Clinical Sub-committee"
       },
       {
         name: "Jaqueline O'Leary, MD",
         roles: {
-          "Study Staff": "Sub-Investigator",
+          "Study Staff": "Investigator",
           "Committee Members": "Member"
         },
         group: ["Study Staff", "Committee Members"],
         institution: "UT Southwestern",
-        title: "Sub-Investigator",
+        title: "Investigator",
         committees: "Member, Clinical Sub-committee",
         email: "Jacqueline.OLeary@UTSouthwestern.edu",
         image: "../images/committees/placeholder.svg",
-        bio: "Dr. O'Leary serves as Sub-Investigator at UT Southwestern and member of the Clinical Sub-committee."
+        bio: "Investigator, Clinical Sub-committee Member"
       },
       // UT Southwestern Coordinators
       {
@@ -1107,7 +1099,7 @@
         title: "Lead Coordinator",
         email: "leticia.rodriguez@utsouthwestern.edu",
         image: "../images/committees/placeholder.svg",
-        bio: "Leticia serves as Lead Coordinator at UT Southwestern, managing clinical study coordination activities."
+        bio: "Lead Coordinator"
       },
       // UT Southwestern Pharmacists
       {
@@ -1118,7 +1110,7 @@
         title: "Pharmacy Pool",
         email: "IDSUTSWCUH@UTSouthwestern.edu",
         image: "../images/committees/placeholder.svg",
-        bio: "UTSW Pharmacy Pool provides pharmaceutical support for investigational drug services at UT Southwestern."
+        bio: "Pharmacy Pool"
       },
       {
         name: "Parkland Pharmacy Pool",
@@ -1128,7 +1120,7 @@
         title: "Pharmacy Pool",
         email: "IDSPHHS@phhs.org",
         image: "../images/committees/placeholder.svg",
-        bio: "Parkland Pharmacy Pool provides pharmaceutical support for investigational drug services at Parkland Hospital."
+        bio: "Pharmacy Pool"
       },
       // DSMB Members
       {
@@ -1140,7 +1132,7 @@
         additionalInfo: "Duke University",
         email: "annamae.diehl@duke.edu",
         image: "../images/committees/placeholder.svg",
-        bio: "Dr. Diehl serves as Chair of the Data Safety Monitoring Board (DSMB), providing independent oversight of study safety and data integrity. Affiliated with Duke University."
+        bio: "DSMB Chair, Duke University"
       },
       {
         name: "Valerie Durkalski-Mauldin, PhD",
@@ -1151,7 +1143,7 @@
         additionalInfo: "Medical University of South Carolina",
         email: "durkalsv@musc.edu",
         image: "../images/committees/placeholder.svg",
-        bio: "Dr. Durkalski-Mauldin serves as Statistician for the DSMB, providing statistical expertise and data analysis support. Affiliated with Medical University of South Carolina."
+        bio: "DSMB Statistician, Medical University of South Carolina"
       },
       {
         name: "Stephanie O'Malley, PhD",
@@ -1162,7 +1154,7 @@
         additionalInfo: "Yale University",
         email: "stephanie.omalley@yale.edu",
         image: "../images/committees/placeholder.svg",
-        bio: "Dr. O'Malley serves as a member of the DSMB, contributing expertise in addiction research and clinical trials. Affiliated with Yale University."
+        bio: "DSMB Member, Yale University"
       },
       {
         name: "Gene Im, MD",
@@ -1173,7 +1165,7 @@
         additionalInfo: "Columbia University",
         email: "gyi2101@cumc.columbia.edu",
         image: "../images/committees/placeholder.svg",
-        bio: "Dr. Im serves as a member of the DSMB, providing clinical expertise and safety monitoring support. Affiliated with Columbia University."
+        bio: "DSMB Member, Columbia University"
       }
     ];
 
@@ -1232,8 +1224,8 @@
                   <span class="researcher-role">${displayRole}</span>
                 </div>
                 <div class="researcher-institution">${researcher.institution}</div>
+                <a href="mailto:${researcher.email}" class="researcher-email">${researcher.email}</a>
               </div>
-              <button class="btn-view-profile" onclick="alert('Profile page for ${researcher.name}')">View Profile</button>
             </div>
             <p class="researcher-bio">${bioText}</p>
           </div>
@@ -1261,11 +1253,22 @@
         if (roleFilter) {
           if (researcher.roles && typeof researcher.roles === 'object') {
             // New structure: check if any role in the roles object matches
-            matchesRole = Object.values(researcher.roles).includes(roleFilter);
+            // Treat both "PI" and "MPI" as "PI"
+            matchesRole = Object.values(researcher.roles).some(r => {
+              if (roleFilter === "PI") {
+                return r === "PI" || r === "MPI";
+              }
+              return r === roleFilter;
+            });
           } else {
             // Old structure: check role and additionalRoles
-            matchesRole = researcher.role === roleFilter || 
-              (researcher.additionalRoles && researcher.additionalRoles.includes(roleFilter));
+            // Treat both "PI" and "MPI" as "PI"
+            if (roleFilter === "PI") {
+              matchesRole = researcher.role === "PI" || researcher.role === "MPI";
+            } else {
+              matchesRole = researcher.role === roleFilter || 
+                (researcher.additionalRoles && researcher.additionalRoles.includes(roleFilter));
+            }
           }
         }
         
