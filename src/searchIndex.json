@@ -187,13 +187,13 @@
   },
   {
     "title": "ARDaC - AlcHepNet",
-    "url": "ardac.html",
+    "url": "Data_Access/ardac.html",
     "snippet": "ARDaC This page is under construction. Content will be added soon. $(function() { $(\"#navbar-include\").load(\"navbar.html\", function() { console.log('Navbar loaded'); }); $(\"#search-modal-include\").load(\"search-modal.html\"); $(\"#footer-include\").load(\"footer.html\", function() { console.log('Footer lo",
     "content": "ARDaC This page is under construction. Content will be added soon. $(function() { $(\"#navbar-include\").load(\"navbar.html\", function() { console.log('Navbar loaded'); }); $(\"#search-modal-include\").load(\"search-modal.html\"); $(\"#footer-include\").load(\"footer.html\", function() { console.log('Footer loaded'); }); });"
   },
   {
     "title": "Design - AlcHepNet",
-    "url": "design.html",
+    "url": "Data_Access/design.html",
     "snippet": "Design This page is under construction. Content will be added soon. $(function() { $(\"#navbar-include\").load(\"navbar.html\", function() { console.log('Navbar loaded'); }); $(\"#search-modal-include\").load(\"search-modal.html\"); $(\"#footer-include\").load(\"footer.html\", function() { console.log('Footer l",
     "content": "Design This page is under construction. Content will be added soon. $(function() { $(\"#navbar-include\").load(\"navbar.html\", function() { console.log('Navbar loaded'); }); $(\"#search-modal-include\").load(\"search-modal.html\"); $(\"#footer-include\").load(\"footer.html\", function() { console.log('Footer loaded'); }); });"
   },
@@ -205,7 +205,7 @@
   },
   {
     "title": "Link - AlcHepNet",
-    "url": "link.html",
+    "url": "Data_Access/link.html",
     "snippet": "Link This page is under construction. Content will be added soon. $(function() { $(\"#navbar-include\").load(\"navbar.html\", function() { console.log('Navbar loaded'); }); $(\"#search-modal-include\").load(\"search-modal.html\"); $(\"#footer-include\").load(\"footer.html\", function() { console.log('Footer loa",
     "content": "Link This page is under construction. Content will be added soon. $(function() { $(\"#navbar-include\").load(\"navbar.html\", function() { console.log('Navbar loaded'); }); $(\"#search-modal-include\").load(\"search-modal.html\"); $(\"#footer-include\").load(\"footer.html\", function() { console.log('Footer loaded'); }); });"
   },
