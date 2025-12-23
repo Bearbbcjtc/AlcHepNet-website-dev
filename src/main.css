@@ -131,10 +131,10 @@ table.border-0 td {
 }
 
 .site-name {
-    font-size: 1.75rem;
+    font-size: 1.90rem;
     font-weight: 700;
     color: var(--title-color);
-    line-height: 1.4;
+    line-height: 1.5;
     font-family: Georgia, 'Times New Roman', Times, serif;
     transform: scaleY(1.02) scaleX(0.90);
     transform-origin: left center;
