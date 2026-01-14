@@ -34,35 +34,6 @@
       width: 100%;
       height: auto;
     }
-    /* 方案3: 固定容器尺寸，确保所有logo统一对齐 */
-    .organizations-grid {
-      grid-template-columns: repeat(3, 1fr);
-      gap: 1.5rem 1rem; /* 减小间距，更紧凑 */
-      align-items: center; /* 网格项居中对齐 */
-      justify-items: center;
-    }
-    .organizations-grid .org-item {
-      width: 300px; /* 固定宽度 */
-      height: 80px; /* 固定高度 */
-      display: flex;
-      align-items: center; /* 垂直居中 */
-      justify-content: center; /* 水平居中 */
-      padding: 5px; /* 减小内边距，更紧凑 */
-    }
-    .organizations-grid .org-item a {
-      width: 100%;
-      height: 100%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-    .organizations-grid .org-item img {
-      max-width: 100%; /* 限制最大宽度 */
-      max-height: 100%; /* 限制最大高度 */
-      width: auto;
-      height: auto;
-      object-fit: contain; /* 保持图片比例 */
-    }
   </style>
 </head>
 
@@ -157,13 +128,15 @@
             composite endpoints of liver and alcohol use events, in comparison with usual care. </p>
           <p class="lead">Participants in the integrated treatment arm receive:</p>
           <ul class="lead">
-            <li><strong>F-652</strong>, a human recombinant protein being studied for its regenerative and
-              anti-inflammatory properties</li>
-            <li><strong>Acamprosate</strong>, an FDA-approved medication for AUD</li>
-            <li>structured counseling focused on alcohol cessation</li>
-          </ul>
-          <p class="lead">The <strong>standard care</strong> arm receives brief counseling and referral to
-            community-based support, such as 12-step programs.</p>
+            <p class="lead">Participants in the integrated treatment arm receive:</p>
+            <ul class="lead">
+              <li><strong>F-652</strong>, a human recombinant <strong>IL-22</strong> protein being studied for its regenerative and
+                anti-inflammatory properties or <strong>Prednisone</strong>, corticosteroid that is used as the current standard therapy for sAH</li>
+              <li><strong>Acamprosate</strong>, an FDA-approved medication for AUD</li>
+              <li>Structured counseling focused on alcohol cessation</li>
+            </ul>
+            <p class="lead">The <strong>usual AUD care</strong> arm receives brief counseling and referral to
+              community-based support, such as 12-step programs.</p>
           <p>For more detailed information about the trial, see <a href="https://clinicaltrials.gov/study/NCT07060638?term=F-652&rank=5" target="_blank" rel="noopener">ClinicalTrials.gov</a>.</p>
           <p>This trial represents a major step toward evidence-based therapy that treats both the liver disease and the
             underlying alcohol use disorder.</p>
