@@ -318,7 +318,7 @@ the scientific evidence-base to use these as primary endpoints in future trials.
         
         $("#navbar-include img").each(function() {
           var src = $(this).attr("src");
-          if (src && !src.startsWith("http") && !src.startsWith("data:")) {
+          if (src && !src.startsWith("http") && !src.startsWith("data:") && !src.startsWith("/")) {
             $(this).attr("src", "../" + src);
           }
         });
